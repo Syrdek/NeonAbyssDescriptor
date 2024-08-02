@@ -1,0 +1,4578 @@
+[
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/2077.png",
+    "imgName": "2077.png",
+    "slug": "2077",
+    "name": 2077,
+    "desc": "C'est le futur et vous \u00eates un grand r\u00eaveur. Plus vous avez de boucliers, plus votre arme inflige de d\u00e9g\u00e2ts.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a5/Accidental_Wealth.png",
+    "imgName": "Accidental_Wealth.png",
+    "slug": "Accidental_Wealth",
+    "name": "FORTUNE FORTUITE",
+    "desc": "Vous obtenez 250 pi\u00e8ces. Exactement ce qu'il vous fallait.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cd/Acorn.png",
+    "imgName": "Acorn.png",
+    "slug": "Acorn",
+    "name": "GLAND",
+    "desc": "Vos \u0153ufs peuvent bloquer les balles des ennemis.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/44/Advanced_Knife.png",
+    "imgName": "Advanced_Knife.png",
+    "slug": "Advanced_Knife",
+    "name": "COUTEAU AVANC\u00c9",
+    "desc": "Plus vous avez de boucliers, plus vous infligez de d\u00e9g\u00e2ts de m\u00eal\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Agent_Watch.png",
+    "imgName": "Agent_Watch.png",
+    "slug": "Agent_Watch",
+    "name": "MONTRE D'AGENT",
+    "desc": "Quand vous ramassez une cl\u00e9, vos d\u00e9g\u00e2ts d'arme augmentent. Quand vous utilisez une cl\u00e9, vos d\u00e9g\u00e2ts d'arme diminuent.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d2/Air_Force_Medal.png",
+    "imgName": "Air_Force_Medal.png",
+    "slug": "Air_Force_Medal",
+    "name": "M\u00c9DAILLE ARM\u00c9E DE L'AIR",
+    "desc": "Augmente vos d\u00e9g\u00e2ts d'arme quand vous \u00eates en l'air.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Airdrop_Supply.png",
+    "imgName": "Airdrop_Supply.png",
+    "slug": "Airdrop_Supply",
+    "name": "Airdrop Supply",
+    "desc": "Parfois, un d\u00e9collage se produit apr\u00e8s la bataille.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/29/Alien_Tech.png",
+    "imgName": "Alien_Tech.png",
+    "slug": "Alien_Tech",
+    "name": "TECHNOLOGIE ALIEN",
+    "desc": "Vous avez une chance de tirer une balle thermoguid\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/69/Alien_Toy.png",
+    "imgName": "Alien_Toy.png",
+    "slug": "Alien_Toy",
+    "name": "JOUET ALIEN",
+    "desc": "Lance 10 balles thermoguid\u00e9es apr\u00e8s l'explosion de la bombe.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Amethyst_Necklace.png",
+    "imgName": "Amethyst_Necklace.png",
+    "slug": "Amethyst_Necklace",
+    "name": "PENDENTIF EN AM\u00c9THYSTE",
+    "desc": "Chaque fois que vous ramassez une pi\u00e8ce, vous avez une chance d'obtenir des cristaux suppl\u00e9mentaires.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Ancient_Mask.png",
+    "imgName": "Ancient_Mask.png",
+    "slug": "Ancient_Mask",
+    "name": "MASQUE ANTIQUE",
+    "desc": "Chaque fois que vous tuez un ennemi avec des bombes, vous avez une chance de r\u00e9cup\u00e9rer des c\u0153urs.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cb/Angel_Horn.png",
+    "imgName": "Angel_Horn.png",
+    "slug": "Angel_Horn",
+    "name": "Angel Horn",
+    "desc": "Il y a encore une chance, il laisse tomber un c\u0153ur volant et un bouclier volant quand on se blesse.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/82/Angry_Mushroom.png",
+    "imgName": "Angry_Mushroom.png",
+    "slug": "Angry_Mushroom",
+    "name": "Angry Mushroom",
+    "desc": "Faites une Sprite en col\u00e8re \u00e0 chaque fois que vous sautez.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Annoying_Hat.png",
+    "imgName": "Annoying_Hat.png",
+    "slug": "Annoying_Hat",
+    "name": "CHAPEAU AGA\u00c7ANT",
+    "desc": "Vous avez une chance de laisser tomber des cristaux suppl\u00e9mentaires quand vous \u00eates bless\u00e9.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/70/Atlantis_Bubble.png",
+    "imgName": "Atlantis_Bubble.png",
+    "slug": "Atlantis_Bubble",
+    "name": "BULLE DE L'ATLANTIDE",
+    "desc": "Certaines de vos balles ont des boucliers qui peuvent bloquer les balles ennemies.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/88/Azure_Hourglass.png",
+    "imgName": "Azure_Hourglass.png",
+    "slug": "Azure_Hourglass",
+    "name": "Azure Hourglass",
+    "desc": "G\u00e9n\u00e8re un Sprite de garde quand il est pr\u00e8s de la mort au milieu de la bataille.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Bad_Apple.png",
+    "imgName": "Bad_Apple.png",
+    "slug": "Bad_Apple",
+    "name": "POMME EMPOISONN\u00c9E",
+    "desc": "Votre poison coule dans leurs veines. Toutes vos balles infligent d\u00e9sormais des d\u00e9g\u00e2ts de poison.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/36/Bamboo_Dragonfly.png",
+    "imgName": "Bamboo_Dragonfly.png",
+    "slug": "Bamboo_Dragonfly",
+    "name": "LIBELLULE EN BAMBOU",
+    "desc": "S'il ne vous reste plus qu'un demi-c\u0153ur, vous obtenez la capacit\u00e9 de voler.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7a/Barbecue_Grill.png",
+    "imgName": "Barbecue_Grill.png",
+    "slug": "Barbecue_Grill",
+    "name": "Barbecue Grill",
+    "desc": "Toutes les bombes normales dans cette course deviennent des bombes de feu.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/29/Bargain_Insurance.png",
+    "imgName": "Bargain_Insurance.png",
+    "slug": "Bargain_Insurance",
+    "name": "Bargain Insurance",
+    "desc": "Prends une pi\u00e8ce quand un de tes Angry Sprites mourra.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/48/Basketball_Jersey.png",
+    "imgName": "Basketball_Jersey.png",
+    "slug": "Basketball_Jersey",
+    "name": "Basketball Jersey",
+    "desc": "Tu ne perdras qu'une moiti\u00e9 de ton c\u0153ur quand tu seras bless\u00e9.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/34/Battle_Pass.png",
+    "imgName": "Battle_Pass.png",
+    "slug": "Battle_Pass",
+    "name": "PASS DE COMBAT",
+    "desc": "Payez pour gagner ! Plus vous avez de pi\u00e8ces, plus vous tirez de balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/75/Bear_Bone_Mask.png",
+    "imgName": "Bear_Bone_Mask.png",
+    "slug": "Bear_Bone_Mask",
+    "name": "Bear Bone Mask",
+    "desc": "Plus il y a de contenants de c\u0153ur vides, plus la limite maximale de Sprites en col\u00e8re est \u00e9lev\u00e9e.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/82/Bear_Pendant.png",
+    "imgName": "Bear_Pendant.png",
+    "slug": "Bear_Pendant",
+    "name": "PENDENTIF OURS",
+    "desc": "Chaque fois que vous utilisez une cl\u00e9, vous avez une chance de laisser tomber des \u0153ufs suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4d/Beast_Amulet.png",
+    "imgName": "Beast_Amulet.png",
+    "slug": "Beast_Amulet",
+    "name": "AMULETTE BESTIALE",
+    "desc": "Puissante, mais difficile \u00e0 contr\u00f4ler. R\u00e9duit votre cadence de tir, mais augmente consid\u00e9rablement vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3c/Beehive.png",
+    "imgName": "Beehive.png",
+    "slug": "Beehive",
+    "name": "RUCHE",
+    "desc": "Vous avez une chance de tirer plusieurs balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f5/Beggar%27s_Card.png",
+    "imgName": "Beggar%27s_Card.png",
+    "slug": "Beggar%27s_Card",
+    "name": "Beggar's Card",
+    "desc": "Pendant que vous \u00eates dans cette pi\u00e8ce, chaque fois que vous prenez quelque chose, vos blessures \u00e0 l'arme augmenteront.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cf/Bent_Spoon.png",
+    "imgName": "Bent_Spoon.png",
+    "slug": "Bent_Spoon",
+    "name": "CUILL\u00c8RE TORDUE",
+    "desc": "98 %... 99 %... Ajoute un r\u00e9ceptacle de cristal et augmente vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Berserker_Blood.png",
+    "imgName": "Berserker_Blood.png",
+    "slug": "Berserker_Blood",
+    "name": "SANG DE BERSERKER",
+    "desc": "La fureur anime votre corps. Moins vous avez de c\u0153urs, plus vous pouvez tirer de balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Big_Daddy.png",
+    "imgName": "Big_Daddy.png",
+    "slug": "Big_Daddy",
+    "name": "BIG DADDY",
+    "desc": "Vous \u00eates immunis\u00e9 aux d\u00e9g\u00e2ts d'explosion.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Birthday_Cake.png",
+    "imgName": "Birthday_Cake.png",
+    "slug": "Birthday_Cake",
+    "name": "G\u00c2TEAU D'ANNIVERSAIRE",
+    "desc": "Un g\u00e2teau sur lequel est \u00e9crit \u00ab JOYEUX ANNIVERSAIRE \u00bb. Vous \u00eates plus grand et avez une chance de r\u00e9cup\u00e9rer des c\u0153urs quand vous vous blessez.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fb/Black_Box.png",
+    "imgName": "Black_Box.png",
+    "slug": "Black_Box",
+    "name": "BO\u00ceTE NOIRE",
+    "desc": "Chaque fois que vous utilisez une cl\u00e9, vous avez une chance de laisser tomber des boucliers suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7e/Black_Friday.png",
+    "imgName": "Black_Friday.png",
+    "slug": "Black_Friday",
+    "name": "BLACK FRIDAY",
+    "desc": "C'est le moment de faire du shopping ! Tous les articles de la boutique sont \u00e0 moiti\u00e9 prix !",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Black_Rum.png",
+    "imgName": "Black_Rum.png",
+    "slug": "Black_Rum",
+    "name": "RHUM AMBR\u00c9",
+    "desc": "Quand vous utilisez une bombe, tous vos \u0153ufs explosent.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4b/Blasting_Cap_101.png",
+    "imgName": "Blasting_Cap_101.png",
+    "slug": "Blasting_Cap_101",
+    "name": "D\u00c9TONATEUR 101",
+    "desc": "Votre bombe cr\u00e9e une explosion en forme de croix.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e9/Blasting_Cap_5000.png",
+    "imgName": "Blasting_Cap_5000.png",
+    "slug": "Blasting_Cap_5000",
+    "name": "D\u00c9TONATEUR 5000",
+    "desc": "Votre bombe cr\u00e9e une explosion en forme de X.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Blue_Protocol.png",
+    "imgName": "Blue_Protocol.png",
+    "slug": "Blue_Protocol",
+    "name": "PROTOCOLE BLEU",
+    "desc": "Laissez-vous guider... Ajoute des boucliers. Am\u00e9liore votre arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f7/Blueberry_Cake.png",
+    "imgName": "Blueberry_Cake.png",
+    "slug": "Blueberry_Cake",
+    "name": "G\u00c2TEAU AUX MYRTILLES",
+    "desc": "Vous avez une chance de laisser tomber des boucliers suppl\u00e9mentaires si un \u0153uf vide \u00e9clot.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/Bodyguard_Glasses.png",
+    "imgName": "Bodyguard_Glasses.png",
+    "slug": "Bodyguard_Glasses",
+    "name": "LUNETTES D'AGENT",
+    "desc": "C'est plus facile de viser quand on n'est pas aveugl\u00e9... Augmente vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6c/Boom_Gloves.png",
+    "imgName": "Boom_Gloves.png",
+    "slug": "Boom_Gloves",
+    "name": "GANTS EXPLOSIFS",
+    "desc": "Tuez suffisamment d'ennemis et vous laisserez tomber des bombes suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Bottle_Opener.png",
+    "imgName": "Bottle_Opener.png",
+    "slug": "Bottle_Opener",
+    "name": "Bottle Opener",
+    "desc": "Il fait une bague de Sprites en col\u00e8re quand on utilise une cl\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/Brave_Cookies.png",
+    "imgName": "Brave_Cookies.png",
+    "slug": "Brave_Cookies",
+    "name": "COOKIES DE BRAVOURE",
+    "desc": "B.E.T.E. (Brave Et Tellement Exquis). Ajoute des boucliers et un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Broccoli.png",
+    "imgName": "Broccoli.png",
+    "slug": "Broccoli",
+    "name": "BROCOLI",
+    "desc": "Un aliment sain ! Riche en vitamines ! Ajoute un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Broken_Kite.png",
+    "imgName": "Broken_Kite.png",
+    "slug": "Broken_Kite",
+    "name": "Broken Kite",
+    "desc": "Vous pouvez voler quand vous avez le nombre maximal de Sprites en col\u00e8re.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/23/Bullet_Crown.png",
+    "imgName": "Bullet_Crown.png",
+    "slug": "Bullet_Crown",
+    "name": "COURONNE DE BALLES",
+    "desc": "Chaque fois qu'un ennemi est tu\u00e9 dans cette salle, le nombre de balles de votre arme augmente.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/59/Burning_Talisman.png",
+    "imgName": "Burning_Talisman.png",
+    "slug": "Burning_Talisman",
+    "name": "Burning Talisman",
+    "desc": "Les Sprites en col\u00e8re laissent une flamme br\u00fblante quand ils meurent.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ec/B-Virus.png",
+    "imgName": "B-Virus.png",
+    "slug": "B-Virus",
+    "name": "VIRUS B",
+    "desc": "Chaque fois que vous tuez un ennemi, il a une chance d'exploser.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/22/Can_of_Red_Paint.png",
+    "imgName": "Can_of_Red_Paint.png",
+    "slug": "Can_of_Red_Paint",
+    "name": "Can of Red Paint",
+    "desc": "Tous les pots sont maintenant des pots rouges.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/13/Candy_Cane.png",
+    "imgName": "Candy_Cane.png",
+    "slug": "Candy_Cane",
+    "name": "SUCRE D'ORGE",
+    "desc": "Plus vous avez de familiers, plus vous tirez vite.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ee/Candy_Corn.png",
+    "imgName": "Candy_Corn.png",
+    "slug": "Candy_Corn",
+    "name": "MA\u00cfS CONFIT",
+    "desc": "Plus vous avez de familiers, plus vous tirez loin.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c5/Canned_Cat_Food.png",
+    "imgName": "Canned_Cat_Food.png",
+    "slug": "Canned_Cat_Food",
+    "name": "CONSERVE POUR CHAT",
+    "desc": "Vous obtenez des cadeaux de la part des chats. Ajoute \u00e9galement un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6b/Carp_Streamer.png",
+    "imgName": "Carp_Streamer.png",
+    "slug": "Carp_Streamer",
+    "name": "BANDEROLE CARPE",
+    "desc": "Elle prend le vent... tout comme vous ! Vous pouvez faire un saut suppl\u00e9mentaire.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/Cat_Medallion.png",
+    "imgName": "Cat_Medallion.png",
+    "slug": "Cat_Medallion",
+    "name": "M\u00c9DAILLON DE CHAT",
+    "desc": "Une subtile magie \u00e9mane de cette amulette \u00e0 t\u00eate de chat. Moins vous avez de cristaux, plus votre arme inflige de d\u00e9g\u00e2ts.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f6/Chemical_Burn.png",
+    "imgName": "Chemical_Burn.png",
+    "slug": "Chemical_Burn",
+    "name": "BR\u00dbLURE CHIMIQUE",
+    "desc": "L'explosion laisse une tra\u00een\u00e9e de flammes derri\u00e8re elle.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/56/Cherry_Taste.png",
+    "imgName": "Cherry_Taste.png",
+    "slug": "Cherry_Taste",
+    "name": "GO\u00dbT CERISE",
+    "desc": "Votre balle a une chance de se diviser en balles suppl\u00e9mentaires. C'est certainement tentant, mais ne les l\u00e9chez surtout pas.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5f/Chicken_Burger.png",
+    "imgName": "Chicken_Burger.png",
+    "slug": "Chicken_Burger",
+    "name": "CHICKEN BURGER",
+    "desc": "Vous laissez des c\u0153urs suppl\u00e9mentaires si un \u0153uf vide \u00e9clot.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Chocolate_Coin.png",
+    "imgName": "Chocolate_Coin.png",
+    "slug": "Chocolate_Coin",
+    "name": "PI\u00c8CE EN CHOCOLAT",
+    "desc": "Chaque fois que votre familier \u00e9volue, vous laissez tomber des pi\u00e8ces.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b4/Chocolate_Cookies.png",
+    "imgName": "Chocolate_Cookies.png",
+    "slug": "Chocolate_Cookies",
+    "name": "COOKIES AU CHOCOLAT",
+    "desc": "Chaque fois que votre familier \u00e9volue, vous laissez tomber une bombe.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4f/Clay_Doll.png",
+    "imgName": "Clay_Doll.png",
+    "slug": "Clay_Doll",
+    "name": "POUP\u00c9E D'ARGILE",
+    "desc": "L'art est une explosion ! En tuant un ennemi, vous avez une chance de d\u00e9clencher une explosion.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Clown_Hat.png",
+    "imgName": "Clown_Hat.png",
+    "slug": "Clown_Hat",
+    "name": "CHAPEAU DE BOUFFON",
+    "desc": "Vous avez une chance de tirer un faux rat. Quoi de plus effrayant ?",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2c/Coin_Bomb.png",
+    "imgName": "Coin_Bomb.png",
+    "slug": "Coin_Bomb",
+    "name": "PI\u00c8CE EXPLOSIVE",
+    "desc": "Vous obtenez le triple de pi\u00e8ces, mais les pi\u00e8ces explosent au bout de 3 secondes si vous ne les ramassez pas. Le temps, c'est de l'argent !",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a9/Colorful_Crown.png",
+    "imgName": "Colorful_Crown.png",
+    "slug": "Colorful_Crown",
+    "name": "COLOR\u00c9 COURONNE",
+    "desc": "Votre balle a une chance de cr\u00e9er un magnifique feu d'artifice.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/78/Combat_Helmet.png",
+    "imgName": "Combat_Helmet.png",
+    "slug": "Combat_Helmet",
+    "name": "CASQUE DE COMBAT",
+    "desc": "Plus vous avez de boucliers, plus vous tirez de balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/86/Cooling_System.png",
+    "imgName": "Cooling_System.png",
+    "slug": "Cooling_System",
+    "name": "SYST\u00c8ME REFROIDISSANT",
+    "desc": "Refroidissez votre arme ! Toutes vos balles infligent d\u00e9sormais des d\u00e9g\u00e2ts de glace.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Creambeer.png",
+    "imgName": "Creambeer.png",
+    "slug": "Creambeer",
+    "name": "BI\u00c8RE \u00c0 LA CR\u00c8ME",
+    "desc": "Une bi\u00e8re, mais certainement pas un milk-shake. Ajoute un r\u00e9ceptacle de c\u0153ur et un r\u00e9ceptacle de cristal.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a5/Cremation_Box.png",
+    "imgName": "Cremation_Box.png",
+    "slug": "Cremation_Box",
+    "name": "Cremation Box",
+    "desc": "Les esprits en col\u00e8re ont la chance de laisser tomber un petit cadeau quand ils meurent.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/dd/Crown_of_Thorns.png",
+    "imgName": "Crown_of_Thorns.png",
+    "slug": "Crown_of_Thorns",
+    "name": "COURONNE D'\u00c9PINES",
+    "desc": "Vous infligez des d\u00e9g\u00e2ts de m\u00eal\u00e9e aux ennemis qui vous touchent.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Cruel_Sugar.png",
+    "imgName": "Cruel_Sugar.png",
+    "slug": "Cruel_Sugar",
+    "name": "Cruel Sugar",
+    "desc": "Il augmente la limite maximale de Sprites en 1 pour chacun de vos animaux de compagnie.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c1/Crystal_Hard_Candy.png",
+    "imgName": "Crystal_Hard_Candy.png",
+    "slug": "Crystal_Hard_Candy",
+    "name": "BONBON \u00c0 SUCER",
+    "desc": "Chaque fois que votre familier \u00e9volue, vous laissez tomber 2 cristaux.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b1/Cursed_Coin.png",
+    "imgName": "Cursed_Coin.png",
+    "slug": "Cursed_Coin",
+    "name": "PI\u00c8CE MAUDITE",
+    "desc": "Transforme tous les coffres en bois en coffres maudits.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a3/Cyborg.png",
+    "imgName": "Cyborg.png",
+    "slug": "Cyborg",
+    "name": "CYBORG",
+    "desc": "R\u00e9duit vos r\u00e9ceptacles de c\u0153ur et ajoute des boucliers. Augmente \u00e9galement vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Dance_Mask.png",
+    "imgName": "Dance_Mask.png",
+    "slug": "Dance_Mask",
+    "name": "MASQUE DE DANSE",
+    "desc": "Am\u00e9liore votre arme si vous \u00eates bless\u00e9 dans cette salle.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e9/Danger_Sign.png",
+    "imgName": "Danger_Sign.png",
+    "slug": "Danger_Sign",
+    "name": "PANNEAU DANGER",
+    "desc": "Votre arme est charg\u00e9e d'\u00e9lectricit\u00e9 ! Toutes vos balles infligent d\u00e9sormais des d\u00e9g\u00e2ts \u00e9lectriques.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a9/Dangerous_Mine.png",
+    "imgName": "Dangerous_Mine.png",
+    "slug": "Dangerous_Mine",
+    "name": "MINE DANGEREUSE",
+    "desc": "Chaque fois que vous sautez, vous laissez une mine derri\u00e8re vous. Dangereusement G\u00c9NIAL !",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a2/Dangerous_Receipt.png",
+    "imgName": "Dangerous_Receipt.png",
+    "slug": "Dangerous_Receipt",
+    "name": "RE\u00c7U DANGEREUX",
+    "desc": "Vous recevez une livraison de bombes.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/62/Dark_Side.png",
+    "imgName": "Dark_Side.png",
+    "slug": "Dark_Side",
+    "name": "C\u00d4T\u00c9 OBSCUR",
+    "desc": "S'il ne vous reste plus qu'un demi-c\u0153ur, vous infligez imm\u00e9diatement des d\u00e9g\u00e2ts \u00e0 tous les ennemis.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Death_Believer.png",
+    "imgName": "Death_Believer.png",
+    "slug": "Death_Believer",
+    "name": "ADEPTE DE LA MORT",
+    "desc": "Tuez suffisamment d'ennemis et vous laisserez tomber des c\u0153urs suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/Defensive_Magic_Scroll.png",
+    "imgName": "Defensive_Magic_Scroll.png",
+    "slug": "Defensive_Magic_Scroll",
+    "name": "Defensive Magic Scroll",
+    "desc": "Les cristaux vont vous orbiter \u00e0 la mort pour bloquer une balle.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5f/Defibrillator.png",
+    "imgName": "Defibrillator.png",
+    "slug": "Defibrillator",
+    "name": "Defibrillator",
+    "desc": "Relance le joueur apr\u00e8s une danse r\u00e9ussie apr\u00e8s la mort.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/62/Demon_Book.png",
+    "imgName": "Demon_Book.png",
+    "slug": "Demon_Book",
+    "name": "LIVRE D\u00c9MONIAQUE",
+    "desc": "Chaque fois que vous tuez un ennemi avec des bombes, vous obtenez 1 lutin mal\u00e9fique.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f6/Demon_Wings.png",
+    "imgName": "Demon_Wings.png",
+    "slug": "Demon_Wings",
+    "name": "AILES DE D\u00c9MON",
+    "desc": "Un petit sacrifice peut mener loin... \u00c9changez un r\u00e9ceptacle de c\u0153ur contre la capacit\u00e9 de voler.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/75/Desert_Elixir.png",
+    "imgName": "Desert_Elixir.png",
+    "slug": "Desert_Elixir",
+    "name": "\u00c9LIXIR DU D\u00c9SERT",
+    "desc": "Une potion \u00e9trange avec \"Ne pas boire\" \u00e9crit dessus.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a8/Devil_Horn.png",
+    "imgName": "Devil_Horn.png",
+    "slug": "Devil_Horn",
+    "name": "CORNES DU DIABLE",
+    "desc": "Augmentent vos d\u00e9g\u00e2ts d'arme et vos d\u00e9g\u00e2ts de m\u00eal\u00e9e. Une envie irr\u00e9sistible de chair fra\u00eeche ? Ne vous en pr\u00e9occupez pas.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4d/Devil_Hotline.png",
+    "imgName": "Devil_Hotline.png",
+    "slug": "Devil_Hotline",
+    "name": "LIGNE DU DIABLE",
+    "desc": "Double vos d\u00e9g\u00e2ts de m\u00eal\u00e9e quand vous \u00eates en l'air.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Devil%27s_Trade.png",
+    "imgName": "Devil%27s_Trade.png",
+    "slug": "Devil%27s_Trade",
+    "name": "Devil's Trade",
+    "desc": "Chaque fois que vous vous blessez, il y a une chance que vous preniez des d\u00e9g\u00e2ts doubles... ou pas de d\u00e9g\u00e2ts du tout.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Dimensional_Bags.png",
+    "imgName": "Dimensional_Bags.png",
+    "slug": "Dimensional_Bags",
+    "name": "SACS DIMENSIONNELS",
+    "desc": "Vous avez une chance de recevoir des r\u00e9compenses al\u00e9atoires quand vous \u00eates bless\u00e9.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b3/Disco_Light.png",
+    "imgName": "Disco_Light.png",
+    "slug": "Disco_Light",
+    "name": "LUMI\u00c8RE DISCO",
+    "desc": "Jump Marks convoquera des notes de musique \u00e0 chaque fois que vous vous trouvez.\n",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/07/Divinity.png",
+    "imgName": "Divinity.png",
+    "slug": "Divinity",
+    "name": "DIVINIT\u00c9",
+    "desc": "Votre esprit s'\u00e9l\u00e8ve et vos pieds d\u00e9collent du sol... Augmente votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Double_Yolks.png",
+    "imgName": "Double_Yolks.png",
+    "slug": "Double_Yolks",
+    "name": "\u0152UFS AU PLAT",
+    "desc": "Les deux font la paire ! Double le nombre d'\u0153ufs que vous avez.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/36/Doughnut.png",
+    "imgName": "Doughnut.png",
+    "slug": "Doughnut",
+    "name": "DONUT",
+    "desc": "Plus vous avez d'\u0153ufs, plus vous tirez de balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/67/Drilling_Warhead.png",
+    "imgName": "Drilling_Warhead.png",
+    "slug": "Drilling_Warhead",
+    "name": "OGIVE",
+    "desc": "\u00c7a va faire mal... Augmente votre cadence de tir et vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/da/Earth_Bread.png",
+    "imgName": "Earth_Bread.png",
+    "slug": "Earth_Bread",
+    "name": "PAIN DE LA TERRE",
+    "desc": "Une racine comestible connue uniquement des nains. Ajoute un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Eerie_Axe.png",
+    "imgName": "Eerie_Axe.png",
+    "slug": "Eerie_Axe",
+    "name": "Eerie Axe",
+    "desc": "Il engendre un Angry Sprite quand on tue un ennemi avec des combats.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4e/Elastic_Gel.png",
+    "imgName": "Elastic_Gel.png",
+    "slug": "Elastic_Gel",
+    "name": "GEL \u00c9LASTIQUE",
+    "desc": "La victoire de la science ! Votre balle rebondit al\u00e9atoirement quand elle touche le mur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Electric_Drill.png",
+    "imgName": "Electric_Drill.png",
+    "slug": "Electric_Drill",
+    "name": "FOREUSE",
+    "desc": "Chaque fois que vous tuez un ennemi avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous avez une chance d'obtenir une bombe.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/15/Electric_Sheep.png",
+    "imgName": "Electric_Sheep.png",
+    "slug": "Electric_Sheep",
+    "name": "MOUTON \u00c9LECTRIQUE",
+    "desc": "Les andro\u00efdes r\u00eavent-ils ? Quand vous avez des boucliers, vous pouvez faire un saut suppl\u00e9mentaire.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fe/Elf_Bread.png",
+    "imgName": "Elf_Bread.png",
+    "slug": "Elf_Bread",
+    "name": "PAIN ELFIQUE",
+    "desc": "Une seule bouch\u00e9e et vous faites le plein d'\u00e9nergie pour la journ\u00e9e. Augmente votre vitesse de d\u00e9placement et rend un c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Emerald_Bracelet.png",
+    "imgName": "Emerald_Bracelet.png",
+    "slug": "Emerald_Bracelet",
+    "name": "BRACELET \u00c9MERAUDE",
+    "desc": "Chaque fois que vous ramassez une pi\u00e8ce, vous avez une chance d'obtenir des bombes suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Empty_Can.png",
+    "imgName": "Empty_Can.png",
+    "slug": "Empty_Can",
+    "name": "BO\u00ceTE VIDE",
+    "desc": "Si vous n'avez pas de cl\u00e9, vous pouvez utiliser un \u0153uf \u00e0 la place.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4e/Energy_Cube.png",
+    "imgName": "Energy_Cube.png",
+    "slug": "Energy_Cube",
+    "name": "CUBE D'\u00c9NERGIE",
+    "desc": "Chaque fois que vous activez la Pierre de portail, vous avez une chance d'obtenir un bouclier.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/bd/Eric%27s_Candle.png",
+    "imgName": "Eric%27s_Candle.png",
+    "slug": "Eric%27s_Candle",
+    "name": "Eric's Candle",
+    "desc": "Votre attaque de combat fait des d\u00e9g\u00e2ts par feu.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/E-Sports_Headset.png",
+    "imgName": "E-Sports_Headset.png",
+    "slug": "E-Sports_Headset",
+    "name": "CASQUE E-SPORT",
+    "desc": "Pexez ! Augmente votre cadence de tir et vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ad/Espresso.png",
+    "imgName": "Espresso.png",
+    "slug": "Espresso",
+    "name": "EXPRESSO",
+    "desc": "Vous avez votre dose de caf\u00e9ine ? Chaud devant ! Augmente votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Eternal_Stone.png",
+    "imgName": "Eternal_Stone.png",
+    "slug": "Eternal_Stone",
+    "name": "PIERRE \u00c9TERNELLE",
+    "desc": "Vous pouvez annuler manuellement le processus d'\u00e9closion de l'\u0153uf en appuyant sur [Annuler].",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Evil_Bracelet.png",
+    "imgName": "Evil_Bracelet.png",
+    "slug": "Evil_Bracelet",
+    "name": "BRACELET MAL\u00c9FIQUE",
+    "desc": "Chaque fois que vous utilisez une cl\u00e9, vous obtenez un lutin mal\u00e9fique.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/bd/Evil_Spare_Parts.png",
+    "imgName": "Evil_Spare_Parts.png",
+    "slug": "Evil_Spare_Parts",
+    "name": "Evil Spare Parts",
+    "desc": "Il g\u00e9n\u00e8re le nombre maximal de Sprites en col\u00e8re lorsqu'une machine \u00e9choue (machine de jeu, porte de jeu, bo\u00eete de jeu).",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/45/Expired_Dog_Food.png",
+    "imgName": "Expired_Dog_Food.png",
+    "slug": "Expired_Dog_Food",
+    "name": "Expired Dog Food",
+    "desc": "Comme le propri\u00e9taire, comme l'animal, d\u00e9clenche l'effet de blessure du joueur quand un animal est bless\u00e9.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Fanatic_Mask.png",
+    "imgName": "Fanatic_Mask.png",
+    "slug": "Fanatic_Mask",
+    "name": "MASQUE DE FANATIQUE",
+    "desc": "Vous avez une chance de r\u00e9cup\u00e9rer des c\u0153urs quand vous \u00eates bless\u00e9 par une explosion.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Fatal_Dance.png",
+    "imgName": "Fatal_Dance.png",
+    "slug": "Fatal_Dance",
+    "name": "DANSE FATALE",
+    "desc": "Vous tirez vers le bas quand vous \u00eates en l'air.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f0/Film_Magazine.png",
+    "imgName": "Film_Magazine.png",
+    "slug": "Film_Magazine",
+    "name": "MAGAZINE DE CIN\u00c9MA",
+    "desc": "Vous connaissez maintenant le gun-fu. Ajoute des balles suppl\u00e9mentaires par tir et augmente la port\u00e9e de votre arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/87/Firecrackers.png",
+    "imgName": "Firecrackers.png",
+    "slug": "Firecrackers",
+    "name": "P\u00c9TARDS",
+    "desc": "Cette bombe a une chance de laisser un bonus \u00e0 ramasser apr\u00e8s son explosion.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Firepower_Badge.png",
+    "imgName": "Firepower_Badge.png",
+    "slug": "Firepower_Badge",
+    "name": "Firepower Badge",
+    "desc": "Le taux de feu augmente.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/35/Fission_Badge.png",
+    "imgName": "Fission_Badge.png",
+    "slug": "Fission_Badge",
+    "name": "Fission Badge",
+    "desc": "Augmentez les balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d5/Fission_Device.png",
+    "imgName": "Fission_Device.png",
+    "slug": "Fission_Device",
+    "name": "APPAREIL DE FISSION",
+    "desc": "Votre balle a une chance de se diviser des balles suppl\u00e9mentaires. \u00c9loignez-vous de la zone de danger.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Flamingo_Feathers.png",
+    "imgName": "Flamingo_Feathers.png",
+    "slug": "Flamingo_Feathers",
+    "name": "PLUMES DE FLAMANTS",
+    "desc": "Jump Marks va tirer une boule de feu quand votre oeuf touche.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0d/Flowerpot.png",
+    "imgName": "Flowerpot.png",
+    "slug": "Flowerpot",
+    "name": "POT DE FLEUR",
+    "desc": "Votre balle a une chance de se diviser en balles suppl\u00e9mentaires. Un splendide spectacle morbide.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/15/Forbidden_Mask.png",
+    "imgName": "Forbidden_Mask.png",
+    "slug": "Forbidden_Mask",
+    "name": "MASQUE INTERDIT",
+    "desc": "Vous avez eu une promotion ! Am\u00e9liore vos stats dans tous les domaines.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3c/Fruit_Popsicle.png",
+    "imgName": "Fruit_Popsicle.png",
+    "slug": "Fruit_Popsicle",
+    "name": "GLACE \u00c0 L'EAU",
+    "desc": "Vous vous sentez toujours en \u00e9t\u00e9 quand vous d\u00e9gustez une glace \u00e0 l'eau. Ajoute un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/74/Frying_Pan.png",
+    "imgName": "Frying_Pan.png",
+    "slug": "Frying_Pan",
+    "name": "PO\u00caLE \u00c0 FRIRE",
+    "desc": "Vous avez une chance de bloquer les balles tir\u00e9es par les ennemis.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3b/Furious_Chicken.png",
+    "imgName": "Furious_Chicken.png",
+    "slug": "Furious_Chicken",
+    "name": "POULET FURIEUX",
+    "desc": "Plus vous avez d'\u0153ufs, plus vos d\u00e9g\u00e2ts de m\u00eal\u00e9e sont \u00e9lev\u00e9s.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2a/Future_Tech.png",
+    "imgName": "Future_Tech.png",
+    "slug": "Future_Tech",
+    "name": "TECHNOLOGIE FUTURISTE",
+    "desc": "Protection pour les yeux \u00e0 la fois styl\u00e9e et utile. Ajoute des boucliers et augmente votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b2/Game_Card.png",
+    "imgName": "Game_Card.png",
+    "slug": "Game_Card",
+    "name": "CARTOUCHE DE JEU",
+    "desc": "Plus Jump Marks que vous avez, plus endommager votre pistolet fait.\n",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Gamma_Ray.png",
+    "imgName": "Gamma_Ray.png",
+    "slug": "Gamma_Ray",
+    "name": "RAYON GAMMA",
+    "desc": "Plus rien ne vous arr\u00eatera ! Vos balles peuvent traverser les murs.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/78/Garand_Clip.png",
+    "imgName": "Garand_Clip.png",
+    "slug": "Garand_Clip",
+    "name": "CHARGEUR DE FUSIL",
+    "desc": "Faites un massacre. Ajoute des balles suppl\u00e9mentaires par tir et augmente vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2e/Gas_Mask.png",
+    "imgName": "Gas_Mask.png",
+    "slug": "Gas_Mask",
+    "name": "MASQUE \u00c0 GAZ",
+    "desc": "Vous avez une chance de tirer une balle empoisonn\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e2/Ghost_Bottle.png",
+    "imgName": "Ghost_Bottle.png",
+    "slug": "Ghost_Bottle",
+    "name": "BOUTEILLE FANT\u00d4ME",
+    "desc": "Lance balles perforantes apr\u00e8s l'explosion de la bombe.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b7/Ghost_Nail.png",
+    "imgName": "Ghost_Nail.png",
+    "slug": "Ghost_Nail",
+    "name": "CLOU FANT\u00d4ME",
+    "desc": "Vous avez une chance de tirer une balle perforante.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cf/Ghost_Shell.png",
+    "imgName": "Ghost_Shell.png",
+    "slug": "Ghost_Shell",
+    "name": "CARAPACE FANT\u00d4ME",
+    "desc": "Vous avez une chance d'obtenir des boucliers quand vous \u00eates bless\u00e9. Il y a des questions que vous ne pouvez pas \u00e9viter.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Giant_Barbecue.png",
+    "imgName": "Giant_Barbecue.png",
+    "slug": "Giant_Barbecue",
+    "name": "BARBECUE G\u00c9ANT",
+    "desc": "\u00c9changez votre QI contre de la PUISSANCE ! Ajoute un r\u00e9ceptacle de c\u0153ur. Augmente vos d\u00e9g\u00e2ts d'arme, mais r\u00e9duit votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2e/Gingerbread_Man.png",
+    "imgName": "Gingerbread_Man.png",
+    "slug": "Gingerbread_Man",
+    "name": "BONHOMME DE PAIN D'\u00c9PICE",
+    "desc": "Si une attaque vous tue, vous \u00e9changez un \u0153uf contre un demi-c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a1/Gladiator_Helmet.png",
+    "imgName": "Gladiator_Helmet.png",
+    "slug": "Gladiator_Helmet",
+    "name": "CASQUE DE GLADIATEUR",
+    "desc": "Augmente vos d\u00e9g\u00e2ts de m\u00eal\u00e9e \u00e0 chaque fois que vous \u00eates bless\u00e9 dans la salle actuelle.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/61/Go_Board.png",
+    "imgName": "Go_Board.png",
+    "slug": "Go_Board",
+    "name": "PLATEAU DE GO",
+    "desc": "Gagner est une question de position, timing... et survie. Ajoute des balles suppl\u00e9mentaires par tir et augmente votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Golden_Apple.png",
+    "imgName": "Golden_Apple.png",
+    "slug": "Golden_Apple",
+    "name": "POMME DOR\u00c9E",
+    "desc": "Relique de la premi\u00e8re civilisation. Am\u00e9liore votre arme. Augmente l\u00e9g\u00e8rement votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/50/Golden_Bell.png",
+    "imgName": "Golden_Bell.png",
+    "slug": "Golden_Bell",
+    "name": "CLOCHE DOR\u00c9E",
+    "desc": "Chaque fois que vous tuez un ennemi avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous avez une chance de recevoir des pi\u00e8ces suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/07/Golden_Bird.png",
+    "imgName": "Golden_Bird.png",
+    "slug": "Golden_Bird",
+    "name": "OISEAU DOR\u00c9",
+    "desc": "Plus vous avez de pi\u00e8ces, plus vos tirs sont rapides.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/61/Golden_Fist.png",
+    "imgName": "Golden_Fist.png",
+    "slug": "Golden_Fist",
+    "name": "POING DOR\u00c9",
+    "desc": "Chaque fois que vous d\u00e9truisez une bo\u00eete en bois avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous gagnez 1 pi\u00e8ce.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e0/Golden_Skulls.png",
+    "imgName": "Golden_Skulls.png",
+    "slug": "Golden_Skulls",
+    "name": "CR\u00c2NES DOR\u00c9S",
+    "desc": "Plus vous avez de pi\u00e8ces, plus vous infligez de d\u00e9g\u00e2ts de m\u00eal\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fb/Golden_Statuette.png",
+    "imgName": "Golden_Statuette.png",
+    "slug": "Golden_Statuette",
+    "name": "STATUETTE DOR\u00c9E",
+    "desc": "Vous avez une chance d'obtenir un lutin protecteur quand vous utilisez des pi\u00e8ces. Il est trop mignon !",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Golden_Teeth.png",
+    "imgName": "Golden_Teeth.png",
+    "slug": "Golden_Teeth",
+    "name": "DENTS EN OR",
+    "desc": "Arf. J'esp\u00e8re que vous aimez la soupe. Fait tomber des pi\u00e8ces quand vous \u00eates bless\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Golden_Torch.png",
+    "imgName": "Golden_Torch.png",
+    "slug": "Golden_Torch",
+    "name": "TORCHE DOR\u00c9E",
+    "desc": "La lumi\u00e8re apporte de la chaleur. Vous obtenez une salle au tr\u00e9sor suppl\u00e9mentaire \u00e0 chaque nouveau niveau.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fa/Grape_Candy.png",
+    "imgName": "Grape_Candy.png",
+    "slug": "Grape_Candy",
+    "name": "RAISIN CONFIT",
+    "desc": "Vous laissez tomber un cristal suppl\u00e9mentaire si un \u0153uf vide \u00e9clot.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Green_Cap.png",
+    "imgName": "Green_Cap.png",
+    "slug": "Green_Cap",
+    "name": "CASQUETTE VERTE",
+    "desc": "Avec cette casquette, vous allez vous sentir tout petit... D\u00e9couvrez le monde sous un nouvel angle !",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Grim_Hood.png",
+    "imgName": "Grim_Hood.png",
+    "slug": "Grim_Hood",
+    "name": "CAPUCHE SINISTRE",
+    "desc": "Chaque fois qu'un ennemi est tu\u00e9 dans cette salle, vos d\u00e9g\u00e2ts d'arme augmentent.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Gum_Bear.png",
+    "imgName": "Gum_Bear.png",
+    "slug": "Gum_Bear",
+    "name": "OURSON G\u00c9LIFI\u00c9",
+    "desc": "Ouais ! Augmente les d\u00e9g\u00e2ts de tous vos familiers.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/62/Gunpowder_Plot.png",
+    "imgName": "Gunpowder_Plot.png",
+    "slug": "Gunpowder_Plot",
+    "name": "CONSPIRATEUR",
+    "desc": "Chaque fois que vous ramassez une bombe, vous en obtenez une en plus.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7c/Hacking_Tool.png",
+    "imgName": "Hacking_Tool.png",
+    "slug": "Hacking_Tool",
+    "name": "OUTIL DE PIRATAGE",
+    "desc": "C'est bon ! Les cl\u00e9s ne sont plus un probl\u00e8me.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8a/Hair_Dryer.png",
+    "imgName": "Hair_Dryer.png",
+    "slug": "Hair_Dryer",
+    "name": "S\u00c8CHE-CHEVEUX",
+    "desc": "Vos balles iront plus loin et plus vite. Augmente la port\u00e9e de votre arme et votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/34/Hand_Mirror.png",
+    "imgName": "Hand_Mirror.png",
+    "slug": "Hand_Mirror",
+    "name": "MIROIR DE POCHE",
+    "desc": "Vous avez une chance de tirer une balle qui ricoche.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/08/Hard_Hat.png",
+    "imgName": "Hard_Hat.png",
+    "slug": "Hard_Hat",
+    "name": "CASQUE DE CHANTIER",
+    "desc": "Vous ne subissez pas de d\u00e9g\u00e2ts environnementaux.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/22/Hard_Mints.png",
+    "imgName": "Hard_Mints.png",
+    "slug": "Hard_Mints",
+    "name": "BONBON \u00c0 LA MENTHE",
+    "desc": "Chaque fois que votre familier \u00e9volue, vous pouvez laisser tomber un demi-bouclier.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Headband.png",
+    "imgName": "Headband.png",
+    "slug": "Headband",
+    "name": "BANDEAU DE NINJA",
+    "desc": "Plus vous sautez, plus vous infligez de d\u00e9g\u00e2ts de m\u00eal\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7d/Heart_Key.png",
+    "imgName": "Heart_Key.png",
+    "slug": "Heart_Key",
+    "name": "CL\u00c9 C\u0152UR",
+    "desc": "Si vous n'avez pas de cl\u00e9, vous pouvez utiliser un demi-c\u0153ur \u00e0 la place.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/Heart_Necklace.png",
+    "imgName": "Heart_Necklace.png",
+    "slug": "Heart_Necklace",
+    "name": "PENDENTIF C\u0152UR",
+    "desc": "Chaque fois que vous utilisez une cl\u00e9, vous avez une chance de laisser tomber des c\u0153urs suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a6/Heart_of_Fire.png",
+    "imgName": "Heart_of_Fire.png",
+    "slug": "Heart_of_Fire",
+    "name": "C\u0152UR DE FEU",
+    "desc": "Vous pouvez ressusciter, mais vous vous sentez... fatigu\u00e9. (Utilisable une seule fois.)",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Heart_of_the_Ocean.png",
+    "imgName": "Heart_of_the_Ocean.png",
+    "slug": "Heart_of_the_Ocean",
+    "name": "C\u0152UR DE L'OC\u00c9AN",
+    "desc": "Le pouvoir de l'amour ! Ajoute des boucliers. Augmente vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/Hero_Mask.png",
+    "imgName": "Hero_Mask.png",
+    "slug": "Hero_Mask",
+    "name": "MASQUE DE H\u00c9ROS",
+    "desc": "Vous avez trouv\u00e9 votre vocation. Augmente votre hauteur de saut et votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/31/Hiccups.png",
+    "imgName": "Hiccups.png",
+    "slug": "Hiccups",
+    "name": "HOQUET",
+    "desc": "Vous obtenez un objet al\u00e9atoire si vous \u00eates bless\u00e9 6 fois dans la m\u00eame salle.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Hip_Flask.png",
+    "imgName": "Hip_Flask.png",
+    "slug": "Hip_Flask",
+    "name": "FLASQUE",
+    "desc": "Buvez un coup. Tirez un coup. Rincez et r\u00e9p\u00e9tez. Augmente consid\u00e9rablement vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d4/Hot_Chili.png",
+    "imgName": "Hot_Chili.png",
+    "slug": "Hot_Chili",
+    "name": "PIMENT",
+    "desc": "Chaud devant ! Toutes vos balles infligent d\u00e9sormais des d\u00e9g\u00e2ts de feu.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/da/Howard_Reactor.png",
+    "imgName": "Howard_Reactor.png",
+    "slug": "Howard_Reactor",
+    "name": "R\u00c9ACTEUR D'HOWARD",
+    "desc": "Les c\u0153urs laiss\u00e9s seront remplac\u00e9s par des boucliers. Le cr\u00e9ateur a l\u00e9g\u00e8rement modifi\u00e9 les r\u00e8gles de l'univers.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/57/Hungry_Amulet.png",
+    "imgName": "Hungry_Amulet.png",
+    "slug": "Hungry_Amulet",
+    "name": "AMULETTE DE FAIM",
+    "desc": "Tuez suffisamment d'ennemis avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e pour r\u00e9cup\u00e9rer un demi-c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a1/Hunter_Queen.png",
+    "imgName": "Hunter_Queen.png",
+    "slug": "Hunter_Queen",
+    "name": "REINE DE LA CHASSE",
+    "desc": "Vos attaques de m\u00eal\u00e9e font exploser les ennemis quand ils meurent.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Immortal_Fangs.png",
+    "imgName": "Immortal_Fangs.png",
+    "slug": "Immortal_Fangs",
+    "name": "Immortal Fangs",
+    "desc": "Il fait 3 Golden Angry Sprites.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Immortal_Heart.png",
+    "imgName": "Immortal_Heart.png",
+    "slug": "Immortal_Heart",
+    "name": "C\u0152UR IMMORTEL",
+    "desc": "Ce troph\u00e9e l\u00e9gendaire vous permet de ressusciter. (Utilisable une seule fois.)",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Imperial_Force.png",
+    "imgName": "Imperial_Force.png",
+    "slug": "Imperial_Force",
+    "name": "FORCE IMP\u00c9RIALE",
+    "desc": "Vous avez une chance de tirer un laser. Qu'il touche quelque chose ou non, c'est une autre histoire...",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Inferior_Milk_Powder.png",
+    "imgName": "Inferior_Milk_Powder.png",
+    "slug": "Inferior_Milk_Powder",
+    "name": "Inferior Milk Powder",
+    "desc": "Plus vous avez de c\u0153urs, plus les Angry Sprites sont grands.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/97/Key_infinite.png",
+    "imgName": "Key_infinite.png",
+    "slug": "Key_infinite",
+    "name": "Infinite Key",
+    "desc": "Tant que vous avez cette cl\u00e9, vous pouvez d\u00e9verrouiller n'importe quoi gratuitement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a5/Inner_Eye.png",
+    "imgName": "Inner_Eye.png",
+    "slug": "Inner_Eye",
+    "name": "VISION INT\u00c9RIEURE",
+    "desc": "Vous pouvez voir la description d'un objet avant m\u00eame de le ramasser.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/70/Inorganic_Mod.png",
+    "imgName": "Inorganic_Mod.png",
+    "slug": "Inorganic_Mod",
+    "name": "MOD INORGANIQUE",
+    "desc": "Chaque fois que vous tuez un ennemi, vous avez une chance de laisser tomber des boucliers suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Iron_Heart.png",
+    "imgName": "Iron_Heart.png",
+    "slug": "Iron_Heart",
+    "name": "C\u0152UR EN FER",
+    "desc": "Vous perdez d'abord des c\u0153urs m\u00eame si vous avez des boucliers. Vous acceptez petit \u00e0 petit cette situation.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ed/Jelly_Beans.png",
+    "imgName": "Jelly_Beans.png",
+    "slug": "Jelly_Beans",
+    "name": "DRAG\u00c9ES",
+    "desc": "Vous avez une chance de tirer des balles d'un \u00e9l\u00e9ment al\u00e9atoire.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5e/Jewelry_Box.png",
+    "imgName": "Jewelry_Box.png",
+    "slug": "Jewelry_Box",
+    "name": "BO\u00ceTE \u00c0 BIJOUX",
+    "desc": "Chaque fois que vous utilisez une cl\u00e9, vous obtenez une barri\u00e8re de protection.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8b/Kendo_Mask.png",
+    "imgName": "Kendo_Mask.png",
+    "slug": "Kendo_Mask",
+    "name": "MASQUE DE KENDO",
+    "desc": "Vous avez une chance de bloquer les d\u00e9g\u00e2ts de m\u00eal\u00e9e des ennemis.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/df/Kinetic_Blade.png",
+    "imgName": "Kinetic_Blade.png",
+    "slug": "Kinetic_Blade",
+    "name": "LAME CIN\u00c9TIQUE",
+    "desc": "Chaque fois que vous tuez un ennemi avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous avez une chance d'obtenir des boucliers.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/86/King%27s_Crown.png",
+    "imgName": "King%27s_Crown.png",
+    "slug": "King%27s_Crown",
+    "name": "King's Crown",
+    "desc": "Votre arme fait plus de d\u00e9g\u00e2ts quand vous \u00eates \u00e0 plein c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fb/Knife_and_Fork.png",
+    "imgName": "Knife_and_Fork.png",
+    "slug": "Knife_and_Fork",
+    "name": "COUVERTS",
+    "desc": "Chaque fois que vous tuez un ennemi avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous avez une chance d'obtenir un \u0153uf.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/42/Kongming_Lantern.png",
+    "imgName": "Kongming_Lantern.png",
+    "slug": "Kongming_Lantern",
+    "name": "LANTERNE KONG MING",
+    "desc": "Vous obtenez un lutin protecteur quand vous \u00eates bless\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6b/Last_Hope.png",
+    "imgName": "Last_Hope.png",
+    "slug": "Last_Hope",
+    "name": "DERNIER ESPOIR",
+    "desc": "Vous vous battez pour l'humanit\u00e9 ! Apr\u00e8s chaque combat, vous pouvez recevoir des boucliers suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/51/Lemon_Jelly.png",
+    "imgName": "Lemon_Jelly.png",
+    "slug": "Lemon_Jelly",
+    "name": "GEL\u00c9E DE CITRON",
+    "desc": "Plus vous avez d'\u0153ufs, plus vous pouvez encha\u00eener les sauts en l'air.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/Lidless_Eye.png",
+    "imgName": "Lidless_Eye.png",
+    "slug": "Lidless_Eye",
+    "name": "\u0152IL SANS PAUPI\u00c8RE",
+    "desc": "Il voit... TOUT ! Y compris vos d\u00e9sirs et vos peurs les plus intimes.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1b/Life_Badge.png",
+    "imgName": "Life_Badge.png",
+    "slug": "Life_Badge",
+    "name": "Life Badge",
+    "desc": "Augmentez les conteneurs cardiaques.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2c/Lightning_Boots.png",
+    "imgName": "Lightning_Boots.png",
+    "slug": "Lightning_Boots",
+    "name": "BOTTES \u00c9CLAIR",
+    "desc": "Jump Marks va cr\u00e9er un anneau de foudre.\n",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Like_of_the_King.png",
+    "imgName": "Like_of_the_King.png",
+    "slug": "Like_of_the_King",
+    "name": "APPROBATION DU ROI",
+    "desc": "Le roi approuve. Am\u00e9liore votre arme. Augmente la vitesse des balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Lion_Headgear.png",
+    "imgName": "Lion_Headgear.png",
+    "slug": "Lion_Headgear",
+    "name": "COIFFE DE LION",
+    "desc": "Plus vous avez de familiers, plus votre arme inflige de d\u00e9g\u00e2ts.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/41/Lipstick.png",
+    "imgName": "Lipstick.png",
+    "slug": "Lipstick",
+    "name": "ROUGE \u00c0 L\u00c8VRES",
+    "desc": "N'en mettez pas sur vos dents. La boutique est r\u00e9approvisionn\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/75/Lithium_Battery.png",
+    "imgName": "Lithium_Battery.png",
+    "slug": "Lithium_Battery",
+    "name": "BATTERIE AU LITHIUM",
+    "desc": "Vous avez une chance de tirer une balle \u00e9lectrique.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/16/Little_Pickaxe.png",
+    "imgName": "Little_Pickaxe.png",
+    "slug": "Little_Pickaxe",
+    "name": "PETITE PIOCHE",
+    "desc": "Un outil tr\u00e8s utile. D\u00e9voile toutes les salles secr\u00e8tes \u00e0 proximit\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/df/Locksmith.png",
+    "imgName": "Locksmith.png",
+    "slug": "Locksmith",
+    "name": "SERRURIER",
+    "desc": "Si vous n'avez pas de cl\u00e9, vous pouvez utiliser des pi\u00e8ces \u00e0 la place.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/32/Lottery_Tickets.png",
+    "imgName": "Lottery_Tickets.png",
+    "slug": "Lottery_Tickets",
+    "name": "Lottery Ticket",
+    "desc": "Tu es tr\u00e8s chanceuse et seule.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4f/Love_Yeast.png",
+    "imgName": "Love_Yeast.png",
+    "slug": "Love_Yeast",
+    "name": "Love Yeast",
+    "desc": "Les c\u0153urs se transformeront en deux c\u0153urs mouill\u00e9s 3 secondes apr\u00e8s la chute.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b7/Lucky_Gold_Coin.png",
+    "imgName": "Lucky_Gold_Coin.png",
+    "slug": "Lucky_Gold_Coin",
+    "name": "Lucky Gold Coin",
+    "desc": "N'est-ce pas vraiment une illusion que vous vous sentez chanceux ?",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Mad_Mask.png",
+    "imgName": "Mad_Mask.png",
+    "slug": "Mad_Mask",
+    "name": "MASQUE FOU",
+    "desc": "C'est la chose la plus dingue que vous ayez jamais vue. Augmente consid\u00e9rablement votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Magic_Vortex.png",
+    "imgName": "Magic_Vortex.png",
+    "slug": "Magic_Vortex",
+    "name": "TOURBILLON MAGIQUE",
+    "desc": "Votre arme inflige plus de d\u00e9g\u00e2ts quand vos r\u00e9ceptacles de cristal sont pleins. Vous avez un plan.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/bc/Magic_Wand.png",
+    "imgName": "Magic_Wand.png",
+    "slug": "Magic_Wand",
+    "name": "BAGUETTE MAGIQUE",
+    "desc": "Vous obtenez des cristaux quand vous \u00eates bless\u00e9.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Magical_Bean.png",
+    "imgName": "Magical_Bean.png",
+    "slug": "Magical_Bean",
+    "name": "HARICOT MAGIQUE",
+    "desc": "Ce haricot incroyable vous rend tous vos c\u0153urs et augmente la port\u00e9e de votre arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Magician_Hat.png",
+    "imgName": "Magician_Hat.png",
+    "slug": "Magician_Hat",
+    "name": "CHAPEAU DE MAGICIEN",
+    "desc": "Chaque fois que vous ramassez une cl\u00e9, vous en obtenez une en plus.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Maneki-Neko.png",
+    "imgName": "Maneki-Neko.png",
+    "slug": "Maneki-Neko",
+    "name": "MANEKI-NEKO",
+    "desc": "Miaou... Vous obtenez un bonus suppl\u00e9mentaire quand vous ramassez des pi\u00e8ces.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a0/Marshmallow.png",
+    "imgName": "Marshmallow.png",
+    "slug": "Marshmallow",
+    "name": "GUIMAUVE",
+    "desc": "Quand vous avez tous vos c\u0153urs, l'\u00e9closion de vos \u0153ufs ne rate jamais.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/06/Matchbox.png",
+    "imgName": "Matchbox.png",
+    "slug": "Matchbox",
+    "name": "BO\u00ceTE D'ALLUMETTES",
+    "desc": "Si l'\u0153uf touche de la pierre, comme une porte ou un coffre, les deux explosent et disparaissent.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2f/Medal_of_Honor.png",
+    "imgName": "Medal_of_Honor.png",
+    "slug": "Medal_of_Honor",
+    "name": "M\u00c9DAILLE D'HONNEUR",
+    "desc": "Tout est question de discipline. Augmente votre vitesse de d\u00e9placement et vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e4/Melting_Calendar.png",
+    "imgName": "Melting_Calendar.png",
+    "slug": "Melting_Calendar",
+    "name": "CALENDRIER FONDANT",
+    "desc": "Le temps est une invention mortelle qui n'a pas de sens. Vous le comprenez maintenant et votre vitesse de d\u00e9placement augmente.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b2/Mercenary_Lord.png",
+    "imgName": "Mercenary_Lord.png",
+    "slug": "Mercenary_Lord",
+    "name": "SEIGNEUR MERCENAIRE",
+    "desc": "Plus vous avez de pi\u00e8ces, plus votre arme inflige de d\u00e9g\u00e2ts.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ae/Mercy_Hood.png",
+    "imgName": "Mercy_Hood.png",
+    "slug": "Mercy_Hood",
+    "name": "CAPUCHE DE MIS\u00c9RICORDE",
+    "desc": "Que l'amour soit avec vous. Double la quantit\u00e9 de c\u0153urs r\u00e9cup\u00e9r\u00e9s.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/81/Metal_Panties.png",
+    "imgName": "Metal_Panties.png",
+    "slug": "Metal_Panties",
+    "name": "CULOTTE EN M\u00c9TAL",
+    "desc": "Ils vont regretter de vous avoir touch\u00e9. Fait tomber 6 bombes instantan\u00e9es quand vous \u00eates bless\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/69/Microphone.png",
+    "imgName": "Microphone.png",
+    "slug": "Microphone",
+    "name": "MICRO",
+    "desc": "Jump Marks va cr\u00e9er une onde de d\u00e9viation de balle ennemie.\n",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/57/Midnight_Mask.png",
+    "imgName": "Midnight_Mask.png",
+    "slug": "Midnight_Mask",
+    "name": "MASQUE DE MINUIT",
+    "desc": "C'est vendredi ! Augmente vos d\u00e9g\u00e2ts d'arme quand vous \u00eates bless\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Mini_Radar.png",
+    "imgName": "Mini_Radar.png",
+    "slug": "Mini_Radar",
+    "name": "MINI RADAR",
+    "desc": "BIP. BIP. BIP. Marque tous les secrets sur votre carte.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Mjolnir.png",
+    "imgName": "Mjolnir.png",
+    "slug": "Mjolnir",
+    "name": "MJ\u00d6LLNIR",
+    "desc": "Votre attaque de m\u00eal\u00e9e inflige des d\u00e9g\u00e2ts \u00e9lectriques.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3f/Monk_Hat.png",
+    "imgName": "Monk_Hat.png",
+    "slug": "Monk_Hat",
+    "name": "COIFFE DE MOINE",
+    "desc": "Ajoute un r\u00e9ceptacle de c\u0153ur et un r\u00e9ceptacle de cristal. Vous prot\u00e8ge du soleil et de la pluie pour une m\u00e9ditation optimale.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Monocle.png",
+    "imgName": "Monocle.png",
+    "slug": "Monocle",
+    "name": "MONOCLE",
+    "desc": "Vous laissez tomber une cl\u00e9 suppl\u00e9mentaire si un \u0153uf vide \u00e9clot.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f4/Moonhead.png",
+    "imgName": "Moonhead.png",
+    "slug": "Moonhead",
+    "name": "T\u00caTE DE LUNE",
+    "desc": "Vous \u00eates immunis\u00e9 aux d\u00e9g\u00e2ts de contact quand vous \u00eates en l'air.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/05/Most_Wanted_List.png",
+    "imgName": "Most_Wanted_List.png",
+    "slug": "Most_Wanted_List",
+    "name": "LISTE DE SUSPECTS",
+    "desc": "Vous obtenez deux fois plus de pi\u00e8ces apr\u00e8s avoir tu\u00e9 des ennemis.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/26/Motorcycle_Helmet.png",
+    "imgName": "Motorcycle_Helmet.png",
+    "slug": "Motorcycle_Helmet",
+    "name": "CASQUE DE MOTO",
+    "desc": "Augmente votre vitesse de d\u00e9placement, vos d\u00e9g\u00e2ts d'arme et vos d\u00e9g\u00e2ts de m\u00eal\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c3/Mustard_Poop.png",
+    "imgName": "Mustard_Poop.png",
+    "slug": "Mustard_Poop",
+    "name": "CROTTE MOUTARDE",
+    "desc": "Les \u0153ufs peuvent infliger des d\u00e9g\u00e2ts aux ennemis qui les touchent.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Mutated_Orange.png",
+    "imgName": "Mutated_Orange.png",
+    "slug": "Mutated_Orange",
+    "name": "ORANGE MUTANTE",
+    "desc": "Cette orange vous rendra SUPER fort. Augmente votre vitesse de d\u00e9placement et vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c4/Nanotechnology.png",
+    "imgName": "Nanotechnology.png",
+    "slug": "Nanotechnology",
+    "name": "NANOTECHNOLOGIE",
+    "desc": "Apr\u00e8s avoir explos\u00e9, la bombe se divise en plusieurs autres bombes.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cc/Nerve_System_6.0.png",
+    "imgName": "Nerve_System_6.0.png",
+    "slug": "Nerve_System_6.0",
+    "name": "Nerve System 6.0",
+    "desc": "Augmentez vos d\u00e9g\u00e2ts et la vitesse de vos mouvements.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Night_Vision.png",
+    "imgName": "Night_Vision.png",
+    "slug": "Night_Vision",
+    "name": "VISION NOCTURNE",
+    "desc": "Tire une balle sp\u00e9ciale tous les dix coups, infligeant des d\u00e9g\u00e2ts plus \u00e9lev\u00e9s \u00e0 l'ennemi.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e9/Nightmare_Mask.png",
+    "imgName": "Nightmare_Mask.png",
+    "slug": "Nightmare_Mask",
+    "name": "MASQUE DE CAUCHEMAR",
+    "desc": "Vous obtenez un lutin mal\u00e9fique quand vous \u00eates bless\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/46/Ninja_Costume.png",
+    "imgName": "Ninja_Costume.png",
+    "slug": "Ninja_Costume",
+    "name": "COSTUME DE NINJA",
+    "desc": "Personne ne vous verra jamais arriver. Vous pouvez faire un saut suppl\u00e9mentaire. Augmente vos d\u00e9g\u00e2ts de m\u00eal\u00e9e.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/da/Nougat.png",
+    "imgName": "Nougat.png",
+    "slug": "Nougat",
+    "name": "NOUGAT",
+    "desc": "Chaque fois que votre familier \u00e9volue, vous laissez tomber une cl\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/58/Onion_Helmet.png",
+    "imgName": "Onion_Helmet.png",
+    "slug": "Onion_Helmet",
+    "name": "CASQUE OIGNON",
+    "desc": "Vous obtenez une barri\u00e8re de protection temporaire par salle.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f4/Ordinary_Gloves.png",
+    "imgName": "Ordinary_Gloves.png",
+    "slug": "Ordinary_Gloves",
+    "name": "GANTS ORDINAIRES",
+    "desc": "100 pompes, 100 abdos, 10 km par jour... vos d\u00e9g\u00e2ts de m\u00eal\u00e9e ont explos\u00e9 !",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a6/Owl_Headdress.png",
+    "imgName": "Owl_Headdress.png",
+    "slug": "Owl_Headdress",
+    "name": "OWL COIFFURE",
+    "desc": "Gain un \u0153uf suppl\u00e9mentaire avec chaque saut Mark, mais ils vont dispara\u00eetre une fois que vous atterrissez.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Pain_Drop.png",
+    "imgName": "Pain_Drop.png",
+    "slug": "Pain_Drop",
+    "name": "ANALG\u00c9SIQUE",
+    "desc": "Combattez malgr\u00e9 la douleur. Faites-en une force. Augmente vos d\u00e9g\u00e2ts d'arme et votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a0/Paper_Crane.png",
+    "imgName": "Paper_Crane.png",
+    "slug": "Paper_Crane",
+    "name": "Paper Crane",
+    "desc": "R-6 ne peut utiliser que des boucliers, car il ne peut pas avoir de conteneurs cardiaques.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/39/Paper_Plane.png",
+    "imgName": "Paper_Plane.png",
+    "slug": "Paper_Plane",
+    "name": "AVION EN PAPIER",
+    "desc": "Laissez-le prendre le vent... Augmente la port\u00e9e et les d\u00e9g\u00e2ts de votre arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Paper_Windmills.png",
+    "imgName": "Paper_Windmills.png",
+    "slug": "Paper_Windmills",
+    "name": "MOULIN EN PAPIER",
+    "desc": "Expirez quand vous appuyez sur la g\u00e2chette pour donner \u00e0 vos balles un peu plus de peps. Augmente votre cadence de tir et vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Party_Popper.png",
+    "imgName": "Party_Popper.png",
+    "slug": "Party_Popper",
+    "name": "BOMBE DE TABLE",
+    "desc": "Lance balles apr\u00e8s l'explosion de la bombe.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Pegasus.png",
+    "imgName": "Pegasus.png",
+    "slug": "Pegasus",
+    "name": "P\u00c9GASE",
+    "desc": "Vous sentez des ailes puissantes dans votre dos. Prenez votre envol !",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Pen_No._7.png",
+    "imgName": "Pen_No._7.png",
+    "slug": "Pen_No._7",
+    "name": "Pen No. 7",
+    "desc": "Vous pouvez utiliser les cl\u00e9s comme bombes quand vous n'avez pas de bombes.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/53/Pepper_Soup.png",
+    "imgName": "Pepper_Soup.png",
+    "slug": "Pepper_Soup",
+    "name": "SOUPE POIVR\u00c9E",
+    "desc": "Elle vous fera monter les larmes aux yeux ! Pourquoi ? Parce qu'elle est d\u00e9licieuse bien s\u00fbr ! Ajoute un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Persian_Turban.png",
+    "imgName": "Persian_Turban.png",
+    "slug": "Persian_Turban",
+    "name": "TURBAN PERSAN",
+    "desc": "La magnifique gemme incrust\u00e9e dans ce turban agit comme plusieurs r\u00e9ceptacles de cristal.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3a/Ping_Pong.png",
+    "imgName": "Ping_Pong.png",
+    "slug": "Ping_Pong",
+    "name": "PING-PONG",
+    "desc": "Vous avez une chance de tirer une balle rebondissante.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d1/Pink_Dart.png",
+    "imgName": "Pink_Dart.png",
+    "slug": "Pink_Dart",
+    "name": "FL\u00c9CHETTE ROSE",
+    "desc": "Volez-leur dans les plumes et \u00e0 vous la victoire ! Augmente la port\u00e9e de votre arme et votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Plague_Mask.png",
+    "imgName": "Plague_Mask.png",
+    "slug": "Plague_Mask",
+    "name": "MASQUE DE LA PESTE",
+    "desc": "Chaque fois que vous tuez un ennemi, vous avez une chance de r\u00e9cup\u00e9rer un demi-c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/14/Plan_B.png",
+    "imgName": "Plan_B.png",
+    "slug": "Plan_B",
+    "name": "PLAN B",
+    "desc": "Les cl\u00e9s ne sont pas la seule solution ! Vous avez une chance d'ouvrir les coffres et les portes avec des explosions.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e2/Player_Zero_Ready.png",
+    "imgName": "Player_Zero_Ready.png",
+    "slug": "Player_Zero_Ready",
+    "name": "PLAYER ZERO READY",
+    "desc": "Ne vous rel\u00e2chez pas ! Plus vous attaquez d'ennemis sans vous arr\u00eater, plus vous infligez de d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d7/Police_Badge.png",
+    "imgName": "Police_Badge.png",
+    "slug": "Police_Badge",
+    "name": "INSIGNE DE POLICE",
+    "desc": "Ils ont le droit de garder le silence... une fois morts. Ajoute des balles suppl\u00e9mentaires par tir et augmente la vitesse des balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/85/Popcorn.png",
+    "imgName": "Popcorn.png",
+    "slug": "Popcorn",
+    "name": "POP-CORN",
+    "desc": "Toutes vos balles explosent \u00e0 l'impact ou au bout d'une certaine distance. Profitez du spectacle !",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d0/Popping_Candy.png",
+    "imgName": "Popping_Candy.png",
+    "slug": "Popping_Candy",
+    "name": "Popping Candy",
+    "desc": "Quand vous aurez le nombre maximum de Sprites en col\u00e8re, faites un saut suppl\u00e9mentaire.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2f/Power_Diamond.png",
+    "imgName": "Power_Diamond.png",
+    "slug": "Power_Diamond",
+    "name": "DIAMANT DE POUVOIR",
+    "desc": "LE POUVOIR ABSOLU ! Am\u00e9liore votre arme, augmente vos d\u00e9g\u00e2ts de m\u00eal\u00e9e et d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/af/Power_Helmet.png",
+    "imgName": "Power_Helmet.png",
+    "slug": "Power_Helmet",
+    "name": "CASQUE PUISSANT",
+    "desc": "Si vous \u00eates bless\u00e9 dans cette salle, un anneau \u00e9lectrique vous entoure et inflige des d\u00e9g\u00e2ts aux ennemis proches.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/89/Prophet_Chip.png",
+    "imgName": "Prophet_Chip.png",
+    "slug": "Prophet_Chip",
+    "name": "PUCE PROPH\u00c9TIQUE",
+    "desc": "Tuez suffisamment d'ennemis et vous laisserez tomber des boucliers suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3d/Protein_Powder.png",
+    "imgName": "Protein_Powder.png",
+    "slug": "Protein_Powder",
+    "name": "PROT\u00c9INE EN POUDRE",
+    "desc": "Plus vous avez d'\u0153ufs, plus vous tirez loin.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/94/Pumpkinhead.png",
+    "imgName": "Pumpkinhead.png",
+    "slug": "Pumpkinhead",
+    "name": "T\u00caTE DE CITROUILLE",
+    "desc": "Quand vous \u00eates bless\u00e9, vous explosez. Quiconque survit devrait en tirer une le\u00e7on.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Quantum_Core.png",
+    "imgName": "Quantum_Core.png",
+    "slug": "Quantum_Core",
+    "name": "NOYAU QUANTIQUE",
+    "desc": "Augmente vos d\u00e9g\u00e2ts d'arme et ajoute des boucliers. Une source de pouvoir incroyable. Son fonctionnement vous est totalement inconnu.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d3/Rainbow_Candy.png",
+    "imgName": "Rainbow_Candy.png",
+    "slug": "Rainbow_Candy",
+    "name": "BONBON ARC-EN-CIEL",
+    "desc": "Chaque fois que votre familier \u00e9volue, vous obtenez un cadeau.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9d/Rainforest_Souvenir.png",
+    "imgName": "Rainforest_Souvenir.png",
+    "slug": "Rainforest_Souvenir",
+    "name": "SOUVENIR DES TROPIQUES",
+    "desc": "Tuez suffisamment d'ennemis et vous laisserez tomber des \u0153ufs suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Rattling_Will.png",
+    "imgName": "Rattling_Will.png",
+    "slug": "Rattling_Will",
+    "name": "Rattling Will",
+    "desc": "Les Sprites en col\u00e8re explosent quand ils meurent.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cc/Ready_Aim_Eye.png",
+    "imgName": "Ready_Aim_Eye.png",
+    "slug": "Ready_Aim_Eye",
+    "name": "VUE PER\u00c7ANTE",
+    "desc": "Chaque fois qu'un ennemi est tu\u00e9 dans cette salle, votre vue est plus per\u00e7ante, augmentant la vitesse d'attaque de votre arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/eb/Red_Controller.png",
+    "imgName": "Red_Controller.png",
+    "slug": "Red_Controller",
+    "name": "Red Controller",
+    "desc": "Les Sprites en col\u00e8re deviennent immortels \u00e0 leur entr\u00e9e en bataille, qui disparaissent \u00e0 la fin de la bataille.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Red_Flag.png",
+    "imgName": "Red_Flag.png",
+    "slug": "Red_Flag",
+    "name": "DRAPEAU ROUGE",
+    "desc": "Au lieu de lancer une bombe, vous posez une mine sur le sol.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8a/Red_Hat.png",
+    "imgName": "Red_Hat.png",
+    "slug": "Red_Hat",
+    "name": "CASQUETTE ROUGE",
+    "desc": "Sauter peut causer des d\u00e9g\u00e2ts aux ennemis. Il est temps de vous amuser.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c8/Ritual_Mask.png",
+    "imgName": "Ritual_Mask.png",
+    "slug": "Ritual_Mask",
+    "name": "MASQUE RITUEL",
+    "desc": "Ajoute un r\u00e9ceptacle de cristal. Vous pouvez r\u00e9cup\u00e9rer des c\u0153urs quand une certaine quantit\u00e9 de cristaux a \u00e9t\u00e9 utilis\u00e9e.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e0/Robot_Armor.png",
+    "imgName": "Robot_Armor.png",
+    "slug": "Robot_Armor",
+    "name": "ARMURE DE ROBOT",
+    "desc": "Vous avez une chance de laisser tomber des boucliers suppl\u00e9mentaires quand vous \u00eates bless\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/48/Rocket_Mod.png",
+    "imgName": "Rocket_Mod.png",
+    "slug": "Rocket_Mod",
+    "name": "MOD ROQUETTE",
+    "desc": "Vous avez une chance de tirer une roquette thermoguid\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cf/Rogue%27s_Badge.png",
+    "imgName": "Rogue%27s_Badge.png",
+    "slug": "Rogue%27s_Badge",
+    "name": "Rogue's Badge",
+    "desc": "Pendant que vous \u00eates dans cette pi\u00e8ce, chaque fois que vous prenez quelque chose, votre vitesse de mouvement et votre hauteur de saut augmenteront.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4c/Roly-Poly_Toy.png",
+    "imgName": "Roly-Poly_Toy.png",
+    "slug": "Roly-Poly_Toy",
+    "name": "CULBUTO",
+    "desc": "Vous laissez une bombe suppl\u00e9mentaire si un \u0153uf vide \u00e9clot.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Royal_Antlers.png",
+    "imgName": "Royal_Antlers.png",
+    "slug": "Royal_Antlers",
+    "name": "BOIS ROYAUX",
+    "desc": "Augmente votre vitesse de d\u00e9placement. Vous laissez des pi\u00e8ces suppl\u00e9mentaires quand vous utilisez des cl\u00e9s.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/96/Ruby_Earrings.png",
+    "imgName": "Ruby_Earrings.png",
+    "slug": "Ruby_Earrings",
+    "name": "BOUCLES EN RUBIS",
+    "desc": "Chaque fois que vous ramassez une pi\u00e8ce, vous avez une chance d'obtenir des c\u0153urs suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Running_Shoes.png",
+    "imgName": "Running_Shoes.png",
+    "slug": "Running_Shoes",
+    "name": "CHAUSSURES DE COURSE",
+    "desc": "Ces jolies baskets augmenteront votre vitesse de d\u00e9placement. Vive la vitesse !",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/45/Rusty_Antenna.png",
+    "imgName": "Rusty_Antenna.png",
+    "slug": "Rusty_Antenna",
+    "name": "Rusty Antenna",
+    "desc": "Quand vous entrez en bataille sans HP, vous g\u00e9n\u00e9rez Thunder \u00e0 vos c\u00f4t\u00e9s.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/87/Rusty_Key.png",
+    "imgName": "Rusty_Key.png",
+    "slug": "Rusty_Key",
+    "name": "CL\u00c9 ROUILL\u00c9E",
+    "desc": "Chaque fois que vous utilisez une cl\u00e9, il est possible que vous l\u00e2chiez une bombe suppl\u00e9mentaire ou une bombe instantan\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Sacred_Tears.png",
+    "imgName": "Sacred_Tears.png",
+    "slug": "Sacred_Tears",
+    "name": "LARMES SACR\u00c9ES",
+    "desc": "Chaque fois que vous tuez un ennemi, vous avez une chance d'obtenir une barri\u00e8re de protection.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d0/Samurai%27s_Soul.png",
+    "imgName": "Samurai%27s_Soul.png",
+    "slug": "Samurai%27s_Soul",
+    "name": "Samurai's Soul",
+    "desc": "Il y a une chance que vous tiriez une grosse balle.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Sapper_Backpack.png",
+    "imgName": "Sapper_Backpack.png",
+    "slug": "Sapper_Backpack",
+    "name": "SAC D'ARTIFICIER",
+    "desc": "La d\u00e9flagration des bombes est plus importante, plus aveuglante et plus efficace.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/40/Sapphire_Ring.png",
+    "imgName": "Sapphire_Ring.png",
+    "slug": "Sapphire_Ring",
+    "name": "ANNEAU EN SAPHIR",
+    "desc": "Chaque fois que vous ramassez une pi\u00e8ce, vous avez une chance d'obtenir des boucliers suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Sashimi_Sushi.png",
+    "imgName": "Sashimi_Sushi.png",
+    "slug": "Sashimi_Sushi",
+    "name": "SUSHI SASHIMI",
+    "desc": "D\u00e9sol\u00e9, je ne parle pas Sushi. Ajoute un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8c/Saturn_Lollipop.png",
+    "imgName": "Saturn_Lollipop.png",
+    "slug": "Saturn_Lollipop",
+    "name": "SUCETTE SATURNE",
+    "desc": "Plus vous avez d'\u0153ufs, plus vous tirez vite.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7e/Savage_Bean.png",
+    "imgName": "Savage_Bean.png",
+    "slug": "Savage_Bean",
+    "name": "Savage Bean",
+    "desc": "Les Sprites en col\u00e8re deviennent plus gros et se d\u00e9placent plus lentement, mais ils peuvent bloquer les balles.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ac/Scarlet_Hourglass.png",
+    "imgName": "Scarlet_Hourglass.png",
+    "slug": "Scarlet_Hourglass",
+    "name": "Scarlet Hourglass",
+    "desc": "G\u00e9n\u00e8re un Sprite en col\u00e8re quand il est pr\u00e8s de la mort au milieu de la bataille.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Scarlet_Tale.png",
+    "imgName": "Scarlet_Tale.png",
+    "slug": "Scarlet_Tale",
+    "name": "CONTE \u00c9TRANGE",
+    "desc": "Augmente votre cadence de tir si vous \u00eates bless\u00e9 dans cette salle.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/eb/Schr%C3%B6dinger%27s_Bet.png",
+    "imgName": "Schr%C3%B6dinger%27s_Bet.png",
+    "slug": "Schr%C3%B6dinger%27s_Bet",
+    "name": "Schr\u00f6dinger's Bet",
+    "desc": "Tu ne le sauras pas avant de mourir et de te r\u00e9veiller.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Science_Awards.png",
+    "imgName": "Science_Awards.png",
+    "slug": "Science_Awards",
+    "name": "PRIX SCIENTIFIQUE",
+    "desc": "Les ennemis vont exploser quand ils touchent tout saut Mark.\n",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Screaming_Soda.png",
+    "imgName": "Screaming_Soda.png",
+    "slug": "Screaming_Soda",
+    "name": "Screaming Soda",
+    "desc": "Une chance de faire na\u00eetre un Angry Sprite avec une explosion.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1d/Screwdriver.png",
+    "imgName": "Screwdriver.png",
+    "slug": "Screwdriver",
+    "name": "TOURNEVIS",
+    "desc": "Tuez suffisamment d'ennemis et vous laisserez tomber des cl\u00e9s suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/68/Seals_Patch.png",
+    "imgName": "Seals_Patch.png",
+    "slug": "Seals_Patch",
+    "name": "INSIGNE DE LA MARINE",
+    "desc": "Vous avez tout donn\u00e9 pour \u00e7a. Am\u00e9liore votre arme. Augmente votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4b/Seed_of_Stone.png",
+    "imgName": "Seed_of_Stone.png",
+    "slug": "Seed_of_Stone",
+    "name": "GRAINE DE PIERRE",
+    "desc": "Votre balle cr\u00e9e une plateforme sur le mur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/93/Serpent_Staff.png",
+    "imgName": "Serpent_Staff.png",
+    "slug": "Serpent_Staff",
+    "name": "Serpent Staff",
+    "desc": "Quand vous utilisez des cristaux, le m\u00eame nombre de Sprites en col\u00e8re va engendrer.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Shadow_Blade.png",
+    "imgName": "Shadow_Blade.png",
+    "slug": "Shadow_Blade",
+    "name": "LAME DE L'OMBRE",
+    "desc": "Rien n'est vrai. Tout est permis. Vous infligez plus de d\u00e9g\u00e2ts d'arme quand vous attaquez par derri\u00e8re.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Shadow_Operation.png",
+    "imgName": "Shadow_Operation.png",
+    "slug": "Shadow_Operation",
+    "name": "OP\u00c9RATION SECR\u00c8TE",
+    "desc": "Ils ne vous verront jamais arriver. Augmente la port\u00e9e de votre arme et votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a3/Shaman_Mask.png",
+    "imgName": "Shaman_Mask.png",
+    "slug": "Shaman_Mask",
+    "name": "MASQUE DE CHAMAN",
+    "desc": "Une fois toutes les Pierres de portail activ\u00e9es, vous obtiendrez des \u0153ufs.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fa/Shark_Bait.png",
+    "imgName": "Shark_Bait.png",
+    "slug": "Shark_Bait",
+    "name": "APP\u00c2T \u00c0 REQUIN",
+    "desc": "Vous pouvez utiliser des \u0153ufs en guise de bombes quand vous n'en avez plus.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Shroud.png",
+    "imgName": "Shroud.png",
+    "slug": "Shroud",
+    "name": "LINCEUL",
+    "desc": "Ajoute un r\u00e9ceptacle de cristal. Vous pouvez obtenir des cristaux apr\u00e8s avoir tu\u00e9 des ennemis.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cc/Silly_Frog.png",
+    "imgName": "Silly_Frog.png",
+    "slug": "Silly_Frog",
+    "name": "STUPIDE GRENOUILLE",
+    "desc": "Vous ne les porteriez pas si elles n'\u00e9taient pas utiles. Elles vous permettent de faire un saut suppl\u00e9mentaire.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c9/Silver_Brooch.png",
+    "imgName": "Silver_Brooch.png",
+    "slug": "Silver_Brooch",
+    "name": "BROCHE EN ARGENT",
+    "desc": "Chaque fois que vous ramassez une pi\u00e8ce, vous avez une chance d'obtenir des cl\u00e9s suppl\u00e9mentaires.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a1/Silver_Compass.png",
+    "imgName": "Silver_Compass.png",
+    "slug": "Silver_Compass",
+    "name": "BOUSSOLE EN ARGENT",
+    "desc": "R\u00e9v\u00e8le la v\u00e9rit\u00e9. Affiche toutes les salles sur votre carte.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Slayer_of_Demons.png",
+    "imgName": "Slayer_of_Demons.png",
+    "slug": "Slayer_of_Demons",
+    "name": "POURFENDEUR DE D\u00c9MONS",
+    "desc": "Tuez suffisamment d'ennemis et vous obtiendrez des cristaux.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3f/Slingshot.png",
+    "imgName": "Slingshot.png",
+    "slug": "Slingshot",
+    "name": "LANCE-PIERRE",
+    "desc": "Tendez... Expirez lentement... L\u00e2chez ! Ajoute des balles suppl\u00e9mentaires par tir et augmente la port\u00e9e de votre arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fc/Smiley_Bomb.png",
+    "imgName": "Smiley_Bomb.png",
+    "slug": "Smiley_Bomb",
+    "name": "BOMBE SOURIANTE",
+    "desc": "Votre bombe supprime les balles dans une certaine zone.",
+    "itemSet": {
+      "name": "Will_of_Steel_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+      "slug": "Will_of_Steel_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/60/Smithing_Hammer.png",
+    "imgName": "Smithing_Hammer.png",
+    "slug": "Smithing_Hammer",
+    "name": "MARTEAU DE FORGERON",
+    "desc": "Cling. Cling. Cling. Am\u00e9liore votre arme. Augmente vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c5/Snack_Box.png",
+    "imgName": "Snack_Box.png",
+    "slug": "Snack_Box",
+    "name": "CASSE-CRO\u00dbTE",
+    "desc": "L'\u00e9closion des \u0153ufs donne des bonus \u00e0 ramasser al\u00e9atoires au lieu de familiers.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b7/Snow_Globe.png",
+    "imgName": "Snow_Globe.png",
+    "slug": "Snow_Globe",
+    "name": "BOULE \u00c0 NEIGE",
+    "desc": "Vous avez une chance de tirer une balle de glace.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/22/Soldier_Mask.png",
+    "imgName": "Soldier_Mask.png",
+    "slug": "Soldier_Mask",
+    "name": "MASQUE DE SOLDAT",
+    "desc": "Coucou ! Je vous vois ! Vos balles ont une chance de suivre les ennemis.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/dc/Soul_Flask.png",
+    "imgName": "Soul_Flask.png",
+    "slug": "Soul_Flask",
+    "name": "FLASQUE D'ESPRIT",
+    "desc": "Vous entendez des murmures dans la flasque... Ajoute un r\u00e9ceptacle de c\u0153ur et rend des c\u0153urs.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1c/Space_Helmet.png",
+    "imgName": "Space_Helmet.png",
+    "slug": "Space_Helmet",
+    "name": "CASQUE SPATIAL",
+    "desc": "Vers l'infini... Augmente votre hauteur de saut.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Space_Soda.png",
+    "imgName": "Space_Soda.png",
+    "slug": "Space_Soda",
+    "name": "SODA DE L'ESPACE",
+    "desc": "Cola atomis\u00e9, boisson de l'\u00e8re spatiale ! Ajoute un r\u00e9ceptacle de c\u0153ur et augmente l\u00e9g\u00e8rement vos d\u00e9g\u00e2ts d'arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0d/Space_Spanner.png",
+    "imgName": "Space_Spanner.png",
+    "slug": "Space_Spanner",
+    "name": "CL\u00c9 SPATIALE",
+    "desc": "Chaque fois que vous tuez un ennemi avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous avez une chance d'obtenir une cl\u00e9.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2e/Spartan_Lineage.png",
+    "imgName": "Spartan_Lineage.png",
+    "slug": "Spartan_Lineage",
+    "name": "LIGN\u00c9E SPARTIATE",
+    "desc": "Moins vous avez de pi\u00e8ces, plus votre arme inflige de d\u00e9g\u00e2ts. SPARTIATE !!!",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Spear_of_Destiny.png",
+    "imgName": "Spear_of_Destiny.png",
+    "slug": "Spear_of_Destiny",
+    "name": "LANCE DU DESTIN",
+    "desc": "Parfois, les divinit\u00e9s du Destin veulent juste voir quelqu'un mourir. Augmente vos d\u00e9g\u00e2ts de m\u00eal\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Sphygmomanometer.png",
+    "imgName": "Sphygmomanometer.png",
+    "slug": "Sphygmomanometer",
+    "name": "Sphygmomanometer",
+    "desc": "Les Sprites en col\u00e8re deviennent super gros quand on n'a pas de c\u0153ur.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ef/Spicy_Candy.png",
+    "imgName": "Spicy_Candy.png",
+    "slug": "Spicy_Candy",
+    "name": "Spicy Candy",
+    "desc": "Il fait na\u00eetre une bague de Sprites en col\u00e8re quand votre animal de compagnie monte.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cd/Spider_Carton.png",
+    "imgName": "Spider_Carton.png",
+    "slug": "Spider_Carton",
+    "name": "Spider Carton",
+    "desc": "Quand Angry Sprite meurt, il a la chance de tomber un c\u0153ur volant ou un bouclier volant.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c3/Stark_Module.png",
+    "imgName": "Stark_Module.png",
+    "slug": "Stark_Module",
+    "name": "MODULE STARK",
+    "desc": "Augmente vos d\u00e9g\u00e2ts d'arme et la vitesse des balles. (Stark ne peut \u00eatre tenu responsable de la perte d'un membre.)",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2d/Steel_Gear.png",
+    "imgName": "Steel_Gear.png",
+    "slug": "Steel_Gear",
+    "name": "ENGRENAGE EN ACIER",
+    "desc": "Plus vous avez de cl\u00e9s, plus vos tirs sont rapides.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Strange_Mask.png",
+    "imgName": "Strange_Mask.png",
+    "slug": "Strange_Mask",
+    "name": "MASQUE \u00c9TRANGE",
+    "desc": "Arr\u00eatez-moi ou je fais un malheur ! Ajoute des balles suppl\u00e9mentaires par tir et un bouclier.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/56/Strawberry_Candy.png",
+    "imgName": "Strawberry_Candy.png",
+    "slug": "Strawberry_Candy",
+    "name": "BONBON FRAISE",
+    "desc": "Plus vous avez de familiers, plus vous tirez de balles.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e2/Strength_Badge.png",
+    "imgName": "Strength_Badge.png",
+    "slug": "Strength_Badge",
+    "name": "Strength Badge",
+    "desc": "Augmentez les d\u00e9g\u00e2ts par arme.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/68/Sturdy_Shield.png",
+    "imgName": "Sturdy_Shield.png",
+    "slug": "Sturdy_Shield",
+    "name": "BOUCLIER ROBUSTE",
+    "desc": "Vous ne vous \u00eates jamais senti aussi fort. Ou classe. Ajoute des boucliers. Vous serez invuln\u00e9rable \u00e0 certaines attaques.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Super_Logo.png",
+    "imgName": "Super_Logo.png",
+    "slug": "Super_Logo",
+    "name": "SUPER LOGO",
+    "desc": "Vous \u00eates au sommet de votre art. Am\u00e9liore votre arme. Augmente l\u00e9g\u00e8rement la hauteur de votre saut et votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/42/Szechuan_Cat_Food.png",
+    "imgName": "Szechuan_Cat_Food.png",
+    "slug": "Szechuan_Cat_Food",
+    "name": "Szechuan Cat Food",
+    "desc": "Si elle ne s'\u00e9close pas, elle engendre un Sprite en col\u00e8re.",
+    "itemSet": {
+      "name": "Lord_of_Anger_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+      "slug": "Lord_of_Anger_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6f/Szechuan_Sauce.png",
+    "imgName": "Szechuan_Sauce.png",
+    "slug": "Szechuan_Sauce",
+    "name": "SAUCE SICHUAN",
+    "desc": "Vous avez une chance de tirer une balle enflamm\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Tanghulu.png",
+    "imgName": "Tanghulu.png",
+    "slug": "Tanghulu",
+    "name": "TANGHULU",
+    "desc": "Une brochette de cenelles confites. Ajoute un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Telescopic_Sight.png",
+    "imgName": "Telescopic_Sight.png",
+    "slug": "Telescopic_Sight",
+    "name": "LUNETTE DE VIS\u00c9E",
+    "desc": "Augmente la port\u00e9e de votre arme. Augmente \u00e9galement la hauteur de votre saut.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ac/Tesla_Coil.png",
+    "imgName": "Tesla_Coil.png",
+    "slug": "Tesla_Coil",
+    "name": "BOBINE TESLA",
+    "desc": "Un anneau \u00e9lectrique vous entoure et inflige des d\u00e9g\u00e2ts aux ennemis proches.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/The_Crowbar.png",
+    "imgName": "The_Crowbar.png",
+    "slug": "The_Crowbar",
+    "name": "PIED-DE-BICHE",
+    "desc": "Votre arme pr\u00e9f\u00e9r\u00e9e ! Augmente vos d\u00e9g\u00e2ts de m\u00eal\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/24/The_Towel.png",
+    "imgName": "The_Towel.png",
+    "slug": "The_Towel",
+    "name": "SERVIETTE",
+    "desc": "PAS DE PANIQUE ! Vous ne perdez qu'un demi-c\u0153ur quand vous \u00eates bless\u00e9.",
+    "itemSet": {
+      "name": "Immortal_Soul_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+      "slug": "Immortal_Soul_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Thunder_Engine.png",
+    "imgName": "Thunder_Engine.png",
+    "slug": "Thunder_Engine",
+    "name": "MOTEUR TONNERRE",
+    "desc": "Plus vous avez de boucliers, plus vos tirs sont rapides.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Tobe_Beef.png",
+    "imgName": "Tobe_Beef.png",
+    "slug": "Tobe_Beef",
+    "name": "B\u0152UF DE TOBE",
+    "desc": "Le meilleur b\u0153uf du monde ! Ajoute un r\u00e9ceptacle de c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Toffee_Apple.png",
+    "imgName": "Toffee_Apple.png",
+    "slug": "Toffee_Apple",
+    "name": "POMME D'AMOUR",
+    "desc": "Chaque fois que votre familier \u00e9volue, vous laissez tomber un demi-c\u0153ur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ad/Toilet-Plunger.png",
+    "imgName": "Toilet-Plunger.png",
+    "slug": "Toilet-Plunger",
+    "name": "Toilet-Plunger",
+    "desc": "Quand on ramasse un objet, il y a une chance d'obtenir un Sprite en col\u00e8re.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Toy_Home_Run_Bat.png",
+    "imgName": "Toy_Home_Run_Bat.png",
+    "slug": "Toy_Home_Run_Bat",
+    "name": "BATTE DE BASEBALL",
+    "desc": "Plus vous avez d'\u0153ufs, plus votre port\u00e9e de m\u00eal\u00e9e est \u00e9lev\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Traveler_Hood.png",
+    "imgName": "Traveler_Hood.png",
+    "slug": "Traveler_Hood",
+    "name": "CAPUCHE DE VOYAGEUR",
+    "desc": "Voyagez plus loin que jamais. Vous pouvez faire un saut suppl\u00e9mentaire.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Treasure_Map.png",
+    "imgName": "Treasure_Map.png",
+    "slug": "Treasure_Map",
+    "name": "CARTE AU TR\u00c9SOR",
+    "desc": "Marque toutes les salles cach\u00e9es sur votre carte. Au dos, vous distinguez une signature \u00e0 peine visible : Capitaine Jack S... ?",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2f/Turtle_Hat.png",
+    "imgName": "Turtle_Hat.png",
+    "slug": "Turtle_Hat",
+    "name": "CHAPEAU TORTUE",
+    "desc": "Vous avez une chance de bloquer les d\u00e9g\u00e2ts venant de derri\u00e8re.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Unknown_Mask.png",
+    "imgName": "Unknown_Mask.png",
+    "slug": "Unknown_Mask",
+    "name": "MASQUE INCONNU",
+    "desc": "Un masque de cristal extravagant. Il peut \u00eatre utilis\u00e9 comme r\u00e9ceptacle de cristal et ajoute un bouclier, car personne ne veut le toucher.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/06/Used_Band-Aids.png",
+    "imgName": "Used_Band-Aids.png",
+    "slug": "Used_Band-Aids",
+    "name": "Used Band-Aids",
+    "desc": "Spawns Angry Sprites lorsque vous \u00eates bless\u00e9 (en fonction du nombre de c\u0153urs perdus).",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c1/Useless_Item.png",
+    "imgName": "Useless_Item.png",
+    "slug": "Useless_Item",
+    "name": "Useless Item",
+    "desc": "Cet article est inutile.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/58/V.O._Field.png",
+    "imgName": "V.O._Field.png",
+    "slug": "V.O._Field",
+    "name": "V.O. Field",
+    "desc": "Si vous \u00eates \u00e0 moiti\u00e9 de c\u0153ur, vous allez imm\u00e9diatement l\u00e2cher un bouclier.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/15/Vanilla_Ice_Cream.png",
+    "imgName": "Vanilla_Ice_Cream.png",
+    "slug": "Vanilla_Ice_Cream",
+    "name": "GLACE \u00c0 LA VANILLE",
+    "desc": "Plus vous avez d'\u0153ufs, plus vos balles infligent de d\u00e9g\u00e2ts.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2d/Virtual_Assistant.png",
+    "imgName": "Virtual_Assistant.png",
+    "slug": "Virtual_Assistant",
+    "name": "ASSISTANT VIRTUEL",
+    "desc": "Quand vous perdez un bouclier, vous avez une chance d'obtenir un lutin protecteur.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d5/Void_Coin.png",
+    "imgName": "Void_Coin.png",
+    "slug": "Void_Coin",
+    "name": "PI\u00c8CE DU VIDE",
+    "desc": "Il y a un trou dans le monde... dans votre \u00e2me. Augmente vos d\u00e9g\u00e2ts d'arme et votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Wade_Tech.png",
+    "imgName": "Wade_Tech.png",
+    "slug": "Wade_Tech",
+    "name": "TECHNOLOGIE WADE",
+    "desc": "\u00c7a a l'air assez facile \u00e0 installer... Am\u00e9liore votre arme. Augmente votre cadence de tir.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5d/War_Hammer.png",
+    "imgName": "War_Hammer.png",
+    "slug": "War_Hammer",
+    "name": "MARTEAU DE GUERRE",
+    "desc": "Chaque fois que vous tuez un ennemi avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous avez une chance de laisser tomber une bombe instantan\u00e9e.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Weapon_Badge.png",
+    "imgName": "Weapon_Badge.png",
+    "slug": "Weapon_Badge",
+    "name": "Weapon Badge",
+    "desc": "Augmentez le niveau des armes.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/64/Welding_Mask.png",
+    "imgName": "Welding_Mask.png",
+    "slug": "Welding_Mask",
+    "name": "MASQUE DE SOUDURE",
+    "desc": "Vous avez une chance de laisser tomber des cl\u00e9s suppl\u00e9mentaires quand vous \u00eates bless\u00e9 par une explosion.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Whetstone.png",
+    "imgName": "Whetstone.png",
+    "slug": "Whetstone",
+    "name": "PIERRE \u00c0 AIGUISER",
+    "desc": "Dans cette salle, plus vous utilisez votre attaque de m\u00eal\u00e9e, plus vous infligez de d\u00e9g\u00e2ts.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e7/Winged_Hat.png",
+    "imgName": "Winged_Hat.png",
+    "slug": "Winged_Hat",
+    "name": "CHAPEAU AIL\u00c9",
+    "desc": "Les petites ailes sont si mignonnes. Et elles vous permettent de faire un saut suppl\u00e9mentaire.",
+    "itemSet": {
+      "name": "Party_Time_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+      "slug": "Party_Time_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/dc/Wings_of_Wisdom.png",
+    "imgName": "Wings_of_Wisdom.png",
+    "slug": "Wings_of_Wisdom",
+    "name": "AILES DE SAGESSE",
+    "desc": "Vous pouvez voler maintenant ! Augmente votre vitesse de d\u00e9placement.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/23/Wizard_Sword.png",
+    "imgName": "Wizard_Sword.png",
+    "slug": "Wizard_Sword",
+    "name": "\u00c9P\u00c9E DE SORCIER",
+    "desc": "Chaque fois que vous tuez un ennemi avec des d\u00e9g\u00e2ts de m\u00eal\u00e9e, vous avez une chance de recevoir des cristaux suppl\u00e9mentaires.",
+    "itemSet": {
+      "name": "Whisper_of_Chaos_Icon.png",
+      "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+      "slug": "Whisper_of_Chaos_Icon"
+    },
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Worst_Blowing_Gum.png",
+    "imgName": "Worst_Blowing_Gum.png",
+    "slug": "Worst_Blowing_Gum",
+    "name": "BULLE DE CHEWING-GUM",
+    "desc": "Plus vous avez de familiers, plus vous pouvez encha\u00eener les sauts en l'air.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d2/X-Ray.png",
+    "imgName": "X-Ray.png",
+    "slug": "X-Ray",
+    "name": "RAYON X",
+    "desc": "Vos balles peuvent traverser les ennemis.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f0/Faith_Coin_Ares.png",
+    "imgName": "Faith_Coin_Ares.png",
+    "slug": "Faith_Coin_Ares",
+    "name": "Faith Coin (Ares Token)",
+    "desc": "Il a \u00e9t\u00e9 trouv\u00e9 dans le temple de la violence, ce qui permettra au joueur d'entrer au 8e \u00e9tage pour y rencontrer Ares.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c9/Faith_Coin_Athena.png",
+    "imgName": "Faith_Coin_Athena.png",
+    "slug": "Faith_Coin_Athena",
+    "name": "Faith Coin (Athena Token)",
+    "desc": "Il a \u00e9t\u00e9 trouv\u00e9 dans le temple de la Sagesse, ce qui permettra au joueur d'entrer au 8e \u00e9tage pour rencontrer Ath\u00e9na.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/13/Ticket-1.png",
+    "imgName": "Ticket-1.png",
+    "slug": "Ticket-1",
+    "name": "Ticket-1",
+    "desc": "Le joueur est amen\u00e9 au niveau \"Level-?\" apr\u00e8s le niveau actuel.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b6/Ticket-2.png",
+    "imgName": "Ticket-2.png",
+    "slug": "Ticket-2",
+    "name": "Ticket-2",
+    "desc": "Le joueur est amen\u00e9 au niveau \"Level-?\" apr\u00e8s le niveau actuel.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/db/Ticket-3.png",
+    "imgName": "Ticket-3.png",
+    "slug": "Ticket-3",
+    "name": "Ticket-3",
+    "desc": "Le joueur est amen\u00e9 au niveau \"Level-?\" apr\u00e8s le niveau actuel.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f5/Ticket-4.png",
+    "imgName": "Ticket-4.png",
+    "slug": "Ticket-4",
+    "name": "Ticket-4",
+    "desc": "Le joueur est amen\u00e9 au niveau \"Level-?\" apr\u00e8s le niveau actuel.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/08/Ticket-5.png",
+    "imgName": "Ticket-5.png",
+    "slug": "Ticket-5",
+    "name": "Ticket-5",
+    "desc": "Le joueur est amen\u00e9 au niveau \"Level-?\" apr\u00e8s le niveau actuel.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0f/Ticket-6.png",
+    "imgName": "Ticket-6.png",
+    "slug": "Ticket-6",
+    "name": "Ticket-6",
+    "desc": "Le joueur est amen\u00e9 au niveau \"Level-?\" apr\u00e8s le niveau actuel.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7a/Chaos_Ticket.png",
+    "imgName": "Chaos_Ticket.png",
+    "slug": "Chaos_Ticket",
+    "name": "Chaos Ticket",
+    "desc": "Le joueur est amen\u00e9 au niveau \"Level-?\" apr\u00e8s le niveau actuel.",
+    "itemSet": null,
+    "type": "item"
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Airgun.png",
+    "imgName": "Airgun.png",
+    "slug": "Airgun",
+    "name": "PISTOLET \u00c0 AIR",
+    "desc": "Il est si l\u00e9ger qu'on dirait qu'il n'existe pas.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Invisible Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Feather Bookmark"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c9/Animosity.png",
+    "imgName": "Animosity.png",
+    "slug": "Animosity",
+    "name": "Animosity",
+    "desc": "Remplissez-vous pour tirer sur des spiritueux en col\u00e8re.",
+    "type": "weapon",
+    "fire-mode": "Full Auto + Charge",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Light Diamond"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Military Toolbox"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/Black_Widow.png",
+    "imgName": "Black_Widow.png",
+    "slug": "Black_Widow",
+    "name": "VEUVE NOIRE",
+    "desc": "Retenez votre respiration.",
+    "type": "weapon",
+    "fire-mode": "Burst",
+    "atk": "Laser Beams",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wool Ball"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/55/Black_Raven.png",
+    "imgName": "Black_Raven.png",
+    "slug": "Black_Raven",
+    "name": "CORBEAU NOIR",
+    "desc": "Un murmure dans les t\u00e9n\u00e8bres...",
+    "type": "weapon",
+    "fire-mode": "Burst",
+    "atk": "Laser Beams",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wrong Formula"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/45/Butterfly_Blade.png",
+    "imgName": "Butterfly_Blade.png",
+    "slug": "Butterfly_Blade",
+    "name": "Butterfly Blade",
+    "desc": "Un d\u00e9cor bienvenu et magnifique.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Sword",
+    "passive": "This weapon deals melee damage.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Guardian Light"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9d/Daydream.png",
+    "imgName": "Daydream.png",
+    "slug": "Daydream",
+    "name": "Daydream",
+    "desc": "Je suis en train de vous dire que vous \u00eates un homme.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Stopwatch"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Death_Ray.png",
+    "imgName": "Death_Ray.png",
+    "slug": "Death_Ray",
+    "name": "RAYON FATAL",
+    "desc": "Un regard des Abysses...",
+    "type": "weapon",
+    "fire-mode": "Charge",
+    "atk": "Laser Beam",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "The Gavel"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wave Particle Duality"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1f/Destiny.png",
+    "imgName": "Destiny.png",
+    "slug": "Destiny",
+    "name": "DESTIN\u00c9E",
+    "desc": "C'est \u00e0 vous... ou au destin de d\u00e9cider.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Golden Chip"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3a/Destroyer.png",
+    "imgName": "Destroyer.png",
+    "slug": "Destroyer",
+    "name": "DESTRUCTEUR",
+    "desc": "Hurlement de l'enfer.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser Beams",
+    "passive": "Chance to get an angry sprite each time you kill an enemy.",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ef/Famine.png",
+    "imgName": "Famine.png",
+    "slug": "Famine",
+    "name": "FAMINE",
+    "desc": "Affrontez votre peur !",
+    "type": "weapon",
+    "fire-mode": "Burst",
+    "atk": "Tracking Laser Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Adrenaline"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Virtual Pet"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wooden Horse"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ab/Firekiss.png",
+    "imgName": "Firekiss.png",
+    "slug": "Firekiss",
+    "name": "BAISER DE FEU",
+    "desc": "Vous ne savez rien.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "The more hearts you have, the more bullets you can fire.",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Forge.png",
+    "imgName": "Forge.png",
+    "slug": "Forge",
+    "name": "FORGE",
+    "desc": "La patience est aussi une arme.",
+    "type": "weapon",
+    "fire-mode": "Charge",
+    "atk": "Laser Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Canned Spinach"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a6/Frostfire.png",
+    "imgName": "Frostfire.png",
+    "slug": "Frostfire",
+    "name": "CRYOFEU",
+    "desc": "Peur et tremblement ! Charge et lance une bombe de givre.",
+    "type": "weapon",
+    "fire-mode": "Charge",
+    "atk": "Frost Bombs",
+    "passive": "-",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ef/Giant_Beast.png",
+    "imgName": "Giant_Beast.png",
+    "slug": "Giant_Beast",
+    "name": "B\u00caTE G\u00c9ANTE",
+    "desc": "Vous allez adorer ! Mais \u00e0 utiliser... avec pr\u00e9caution.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Rockets",
+    "passive": "-",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5c/Golden_Ripple.png",
+    "imgName": "Golden_Ripple.png",
+    "slug": "Golden_Ripple",
+    "name": "ONDE DOR\u00c9E",
+    "desc": "Un pieu mensonge.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "When your bullets hit a coin, it may double, or disappear.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Scroll of Alchemy"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Golden_Sam.png",
+    "imgName": "Golden_Sam.png",
+    "slug": "Golden_Sam",
+    "name": "SAM DOR\u00c9",
+    "desc": "La puissance est plus importante que la pr\u00e9cision.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Red Envelope"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fd/Golden_Spirit.png",
+    "imgName": "Golden_Spirit.png",
+    "slug": "Golden_Spirit",
+    "name": "Golden Spirit",
+    "desc": "La chanson de l'humanit\u00e9 est celle du courage !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Punch",
+    "passive": "This weapon deals melee damage.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Ola! Ola! Ola!"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fd/Guardian.png",
+    "imgName": "Guardian.png",
+    "slug": "Guardian",
+    "name": "PROTECTEUR",
+    "desc": "Bonne nuit, faites de beaux r\u00eaves.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Spiraling Laser Bullets",
+    "passive": "You have a chance to get a guardian sprite each time you kill an enemy.",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/52/Hawkeye.png",
+    "imgName": "Hawkeye.png",
+    "slug": "Hawkeye",
+    "name": "\u0152IL-DE-LYNX",
+    "desc": "Je vous observe !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "Enemies hit by this gun will be marked.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Voodoo Doll"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c7/Jimmy.png",
+    "imgName": "Jimmy.png",
+    "slug": "Jimmy",
+    "name": "JIMMY",
+    "desc": "Des ar\u00eates de poisson partout.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Fishbones",
+    "passive": "When your bullets hit a coin, it may double, or disappear.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Scroll of Alchemy"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b0/Judgement.png",
+    "imgName": "Judgement.png",
+    "slug": "Judgement",
+    "name": "Judgment",
+    "desc": "La justice sera dispens\u00e9e dans 3...2...",
+    "type": "weapon",
+    "fire-mode": "Full Auto + Charge",
+    "atk": "Laser Bullets + Laser Beam",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Virus Program"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills",
+        "name": "Backup Supply"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/Keygun.png",
+    "imgName": "Keygun.png",
+    "slug": "Keygun",
+    "name": "LANCE-CL\u00c9",
+    "desc": "Une fois recharg\u00e9, lance une cl\u00e9 dor\u00e9e. Peut ouvrir toutes les serrures.",
+    "type": "weapon",
+    "fire-mode": "Full Auto + Charge",
+    "atk": "Bullets",
+    "passive": "When charged up, the shot released will pierce through all enemies and walls and open locked doors and chests.",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Light_Dancer.png",
+    "imgName": "Light_Dancer.png",
+    "slug": "Light_Dancer",
+    "name": "DANSE DE LUMI\u00c8RE",
+    "desc": "Danse sur le champ de bataille.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Rotating Laser Beam",
+    "passive": "This weapon deals melee damage.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Fire Extinguisher"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Light Diamond"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wonderful Lamp"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9a/Lullaby.png",
+    "imgName": "Lullaby.png",
+    "slug": "Lullaby",
+    "name": "BERCEUSE",
+    "desc": "Bonne nuit, faites de beaux r\u00eaves.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Spiraling Laser Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Virtual Pet"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Matrix.png",
+    "imgName": "Matrix.png",
+    "slug": "Matrix",
+    "name": "Matrix",
+    "desc": "Quelle est la r\u00e9alit\u00e9 ?",
+    "type": "weapon",
+    "fire-mode": "Full Auto + Charge",
+    "atk": "Laser Beams",
+    "passive": "Charge and shoot a signal flare.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Sim Card"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f2/Messenger.png",
+    "imgName": "Messenger.png",
+    "slug": "Messenger",
+    "name": "MESSAGER",
+    "desc": "Offre l'amour \u00e9ternel.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser Boomerangs",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Golden Hits"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Witch Earrings"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/99/Meteor.png",
+    "imgName": "Meteor.png",
+    "slug": "Meteor",
+    "name": "M\u00c9T\u00c9ORE",
+    "desc": "Des larmes tomb\u00e9es du ciel.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Tiny Laser Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Goblin Unlocker"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ea/Nebula.png",
+    "imgName": "Nebula.png",
+    "slug": "Nebula",
+    "name": "N\u00c9BULEUSE",
+    "desc": "Vous avez une chance de tirer un laser.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser Bullets + Laser Beam",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Scratchcard"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4b/New_Type.png",
+    "imgName": "New_Type.png",
+    "slug": "New_Type",
+    "name": "New Type",
+    "desc": "Le barrage sur le flanc gauche ne suffit pas !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Fin Funnel"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/67/Noise.png",
+    "imgName": "Noise.png",
+    "slug": "Noise",
+    "name": "BRUIT",
+    "desc": "L'id\u00e9al du pass\u00e9.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Tea Egg"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wooden Cow"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Old_Hunter.png",
+    "imgName": "Old_Hunter.png",
+    "slug": "Old_Hunter",
+    "name": "Old Hunter",
+    "desc": "Obliter tout !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Circular Saw Blade",
+    "passive": "This weapon deals melee damage.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Saw Blade"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/99/Passenger.png",
+    "imgName": "Passenger.png",
+    "slug": "Passenger",
+    "name": "PASSAGER",
+    "desc": "Faites-vous plaisir !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bouncy Balls",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Awful Poetry"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ec/Phantom.png",
+    "imgName": "Phantom.png",
+    "slug": "Phantom",
+    "name": "FANT\u00d4ME",
+    "desc": "Tout... est... ralentiiiiii...",
+    "type": "weapon",
+    "fire-mode": "Burst",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Stopwatch"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fc/Plastic_Gun.png",
+    "imgName": "Plastic_Gun.png",
+    "slug": "Plastic_Gun",
+    "name": "PISTOLET EN PLASTIQUE",
+    "desc": "\u00c9clatez-vous !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Golden Dice"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Mahjong"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wooden Dice"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1e/Rainbow.png",
+    "imgName": "Rainbow.png",
+    "slug": "Rainbow",
+    "name": "ARC-EN-CIEL",
+    "desc": "Colorez le monde !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Music Notes, Random Elemental Bullets",
+    "passive": "Eggs will never hatch.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Scratchcard"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Rebel.png",
+    "imgName": "Rebel.png",
+    "slug": "Rebel",
+    "name": "REBELLE",
+    "desc": "Offre l'amour \u00e9ternel.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser Beams",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Golden Hits"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/95/Red_Dragon.png",
+    "imgName": "Red_Dragon.png",
+    "slug": "Red_Dragon",
+    "name": "DRAGON ROUGE",
+    "desc": "L'arme ultime... D\u00e9truisez tout !",
+    "type": "weapon",
+    "fire-mode": "Burst",
+    "atk": "Homing Rockets",
+    "passive": "-",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Sentinel.png",
+    "imgName": "Sentinel.png",
+    "slug": "Sentinel",
+    "name": "SENTINELLE",
+    "desc": "Des performances sacrifi\u00e9es au profit d'un module de tra\u00e7age.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Tracking Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Adrenaline"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Lunch Box"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Silver_Moon.png",
+    "imgName": "Silver_Moon.png",
+    "slug": "Silver_Moon",
+    "name": "LUNE D'ARGENT",
+    "desc": "Une arme incroyablement myst\u00e9rieuse.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser Beam",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Energy Drink"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wonderful Lamp"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/eb/Song_of_Joy.png",
+    "imgName": "Song_of_Joy.png",
+    "slug": "Song_of_Joy",
+    "name": "ODE \u00c0 LA JOIE",
+    "desc": "Le plus important dans la vie, c'est d'\u00eatre heureux.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bouncy Balls",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Birthday Balloon"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Fire Extinguisher"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Light Bulb"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/ff/Soul_Bringer.png",
+    "imgName": "Soul_Bringer.png",
+    "slug": "Soul_Bringer",
+    "name": "PORTE-\u00c2ME",
+    "desc": "Lib\u00e9rez votre potentiel !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser",
+    "passive": "This weapon deals melee damage.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Light Diamond"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/af/Star_Burst.png",
+    "imgName": "Star_Burst.png",
+    "slug": "Star_Burst",
+    "name": "EXPLOSION D'\u00c9TOILE",
+    "desc": "La cristallisation de la technologie future.",
+    "type": "weapon",
+    "fire-mode": "Charge",
+    "atk": "Laser",
+    "passive": "-",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/65/Stardust.png",
+    "imgName": "Stardust.png",
+    "slug": "Stardust",
+    "name": "Stardust",
+    "desc": "Une lumi\u00e8re chaude brillait l\u00e9g\u00e8rement.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Awful Poetry"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/85/Summer.png",
+    "imgName": "Summer.png",
+    "slug": "Summer",
+    "name": "\u00c9T\u00c9",
+    "desc": "Encore un qui mord la poussi\u00e8re.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Orbiting Music Notes",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Wooden Horse"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3f/Swallow.png",
+    "imgName": "Swallow.png",
+    "slug": "Swallow",
+    "name": "HIRONDELLE",
+    "desc": "Fermez les yeux.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bouncy Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Battle Flag"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Evil Ledger"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Terry.png",
+    "imgName": "Terry.png",
+    "slug": "Terry",
+    "name": "TERRY",
+    "desc": "Des ar\u00eates partout.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Fish bones",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Birthday Balloon"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/66/The_8th_Color.png",
+    "imgName": "The_8th_Color.png",
+    "slug": "The_8th_Color",
+    "name": "LA 8E COULEUR",
+    "desc": "L'arme secr\u00e8te d'un magicien.",
+    "type": "weapon",
+    "fire-mode": "Normal",
+    "atk": "StarsBouncy BallsBulletsLaser Beam",
+    "passive": "Drop a Random Pickup. Cost 2 crystals.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Chocolate Box"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/The_Blaster.png",
+    "imgName": "The_Blaster.png",
+    "slug": "The_Blaster",
+    "name": "BLASTER",
+    "desc": "Patience, petit scarab\u00e9e... Prenez le temps de le charger avant de tirer, \u00e7a en vaut la peine.",
+    "type": "weapon",
+    "fire-mode": "Charge",
+    "atk": "Laser Bullets",
+    "passive": "-",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3d/Thunder.png",
+    "imgName": "Thunder.png",
+    "slug": "Thunder",
+    "name": "TONNERRE",
+    "desc": "ROCK AND ROLL !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Orbiting Musical Notes",
+    "passive": "Your music deals melee damage to enemies!",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Military Toolbox"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a9/Triggerfish.png",
+    "imgName": "Triggerfish.png",
+    "slug": "Triggerfish",
+    "name": "POISSON-BALISTE",
+    "desc": "Il a un r\u00eave...",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Spiraling Bubbles",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Fishing Pole"
+      },
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Tea Egg"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/be/Twins.png",
+    "imgName": "Twins.png",
+    "slug": "Twins",
+    "name": "JUMEAUX",
+    "desc": "Technique d'intrication quantique.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Helix Bullets",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Battle Flag"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/52/Vortex.png",
+    "imgName": "Vortex.png",
+    "slug": "Vortex",
+    "name": "VORTEX",
+    "desc": "Pour l'honneur, pour l'Atlantide.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser Beam",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Evil Ledger"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/White_Fox.png",
+    "imgName": "White_Fox.png",
+    "slug": "White_Fox",
+    "name": "RENARD BLANC",
+    "desc": "Charmant et dangereux.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Stars, Laser Beams",
+    "passive": "",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+        "name": "Arcane Book"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Wild_Wolf.png",
+    "imgName": "Wild_Wolf.png",
+    "slug": "Wild_Wolf",
+    "name": "LOUP SAUVAGE",
+    "desc": "Du sang !",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "Each time an enemy is killed, this weapon's damage increases.",
+    "active": []
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Black_Eagle.png",
+    "imgName": "Black_Eagle.png",
+    "slug": "Black_Eagle",
+    "name": "Black Eagle",
+    "desc": "Une frappe pr\u00e9cise \u00e0 longue distance.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "' starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/James",
+        "name": "James"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b2/Canary.png",
+    "imgName": "Canary.png",
+    "slug": "Canary",
+    "name": "Canary",
+    "desc": "Une antiquit\u00e9 \u00e9l\u00e9gamment fabriqu\u00e9e avec des glyphes exquisitement sculpt\u00e9s.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'s starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Zack",
+        "name": "Zack"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9d/Grizzly.png",
+    "imgName": "Grizzly.png",
+    "slug": "Grizzly",
+    "name": "Grizzly",
+    "desc": "Ton meilleur ami pour toujours.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "' starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Lucas",
+        "name": "Lucas"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/98/Melody.png",
+    "imgName": "Melody.png",
+    "slug": "Melody",
+    "name": "Melody",
+    "desc": "Il a l'air ordinaire, mais il cache un secret.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'s starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Matt",
+        "name": "Matt"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Orion.png",
+    "imgName": "Orion.png",
+    "slug": "Orion",
+    "name": "Orion",
+    "desc": "Tous ces moments seront perdus dans le temps...",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Laser",
+    "passive": "'s starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/R-6",
+        "name": "R-6"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e5/Pink_Flame.png",
+    "imgName": "Pink_Flame.png",
+    "slug": "Pink_Flame",
+    "name": "Pink Flame",
+    "desc": "Une \u00e2me br\u00fblant dans l'agitation.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'s starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Saya",
+        "name": "Saya"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ab/Red_Scorpion.png",
+    "imgName": "Red_Scorpion.png",
+    "slug": "Red_Scorpion",
+    "name": "Red Scorpion",
+    "desc": "Faites un coup mortel \u00e0 proximit\u00e9.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "It's a shotgun! 's secondary starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/James",
+        "name": "James"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Rhino.png",
+    "imgName": "Rhino.png",
+    "slug": "Rhino",
+    "name": "Rhino",
+    "desc": "C'est un cadeau de Serena.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'s starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Ming",
+        "name": "Ming"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9a/Seagull.png",
+    "imgName": "Seagull.png",
+    "slug": "Seagull",
+    "name": "Seagull",
+    "desc": "Attendant votre moment pour \u00e9clater des nuages.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'s starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Anna",
+        "name": "Anna"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8e/Shadow.png",
+    "imgName": "Shadow.png",
+    "slug": "Shadow",
+    "name": "Shadow",
+    "desc": "Des petites lettres inscrites sur le canon \u00e9taient \u00e9crites: mercredi.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'s starter weapon",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Wade",
+        "name": "Wade"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/aa/Steel_Pipe.png",
+    "imgName": "Steel_Pipe.png",
+    "slug": "Steel_Pipe",
+    "name": "Steel Pipe",
+    "desc": "C'est fort, c'est dur, c'est de l'acier.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'s starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/Amir",
+        "name": "Amir"
+      }
+    ]
+  },
+  {
+    "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/33/Steel_Lion.png",
+    "imgName": "Steel_Lion.png",
+    "slug": "Steel_Lion",
+    "name": "Steel Lion",
+    "desc": "Un rugissement furieux au fond de la jungle d'acier.",
+    "type": "weapon",
+    "fire-mode": "Full Auto",
+    "atk": "Bullets",
+    "passive": "'  starter weapon.",
+    "active": [
+      {
+        "url": "https://neonabyss.fandom.com/wiki/James",
+        "name": "James"
+      }
+    ]
+  }
+]

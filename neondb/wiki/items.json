@@ -1,0 +1,3438 @@
+[
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/2077.png",
+        "imgName": "2077.png",
+        "slug": "2077",
+        "name": "2077",
+        "desc": "This is the future, and you're a big dreamer. The more shields you have, the more damage your weapon does.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a5/Accidental_Wealth.png",
+        "imgName": "Accidental_Wealth.png",
+        "slug": "Accidental_Wealth",
+        "name": "Accidental Wealth",
+        "desc": "Get 250 coins. This is what you need.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cd/Acorn.png",
+        "imgName": "Acorn.png",
+        "slug": "Acorn",
+        "name": "Acorn",
+        "desc": "Your eggs can block bults from enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/44/Advanced_Knife.png",
+        "imgName": "Advanced_Knife.png",
+        "slug": "Advanced_Knife",
+        "name": "Advanced Knife",
+        "desc": "The more shields you have, the more melee damage you do.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Agent_Watch.png",
+        "imgName": "Agent_Watch.png",
+        "slug": "Agent_Watch",
+        "name": "Agent Watch",
+        "desc": "Each time you pick up a key, your weapon damage will increase. Each time you use a key, your weapon damage will reduce.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d2/Air_Force_Medal.png",
+        "imgName": "Air_Force_Medal.png",
+        "slug": "Air_Force_Medal",
+        "name": "Air Force Medal",
+        "desc": "Increase your weapon damage when you are in the air.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Airdrop_Supply.png",
+        "imgName": "Airdrop_Supply.png",
+        "slug": "Airdrop_Supply",
+        "name": "Airdrop Supply",
+        "desc": "Sometimes an airdrop happens after battle.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/29/Alien_Tech.png",
+        "imgName": "Alien_Tech.png",
+        "slug": "Alien_Tech",
+        "name": "Alien Tech",
+        "desc": "There's a chance you'll fire a heat-seeking bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/69/Alien_Toy.png",
+        "imgName": "Alien_Toy.png",
+        "slug": "Alien_Toy",
+        "name": "Alien Toy",
+        "desc": "Launches 10 heat-seeking bullets after your bomb explodes.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Amethyst_Necklace.png",
+        "imgName": "Amethyst_Necklace.png",
+        "slug": "Amethyst_Necklace",
+        "name": "Amethyst Necklace",
+        "desc": "Every time you pick up a coin, there's a chance you'll get extra crystals.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Ancient_Mask.png",
+        "imgName": "Ancient_Mask.png",
+        "slug": "Ancient_Mask",
+        "name": "Ancient Mask",
+        "desc": "You have a chance to recover hearts each time you kill an enemy by bombs.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cb/Angel_Horn.png",
+        "imgName": "Angel_Horn.png",
+        "slug": "Angel_Horn",
+        "name": "Angel Horn",
+        "desc": "There's still a chance! Drops a Flying Heart and a Flying Shield when you get hurt.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/82/Angry_Mushroom.png",
+        "imgName": "Angry_Mushroom.png",
+        "slug": "Angry_Mushroom",
+        "name": "Angry Mushroom",
+        "desc": "Spawn an Angry Sprite each time you jump.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Annoying_Hat.png",
+        "imgName": "Annoying_Hat.png",
+        "slug": "Annoying_Hat",
+        "name": "Annoying Hat",
+        "desc": "You have a chance to drop extra crystals when you get hurt.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/70/Atlantis_Bubble.png",
+        "imgName": "Atlantis_Bubble.png",
+        "slug": "Atlantis_Bubble",
+        "name": "Atlantis Bubble",
+        "desc": "Some of your bullets have shields that can block enemy bullets.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/88/Azure_Hourglass.png",
+        "imgName": "Azure_Hourglass.png",
+        "slug": "Azure_Hourglass",
+        "name": "Azure Hourglass",
+        "desc": "Generates a Guard Sprite when near death mid-battle.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Bad_Apple.png",
+        "imgName": "Bad_Apple.png",
+        "slug": "Bad_Apple",
+        "name": "Bad Apple",
+        "desc": "Your poison runs through their veins. All your bullets now deal poison damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/36/Bamboo_Dragonfly.png",
+        "imgName": "Bamboo_Dragonfly.png",
+        "slug": "Bamboo_Dragonfly",
+        "name": "Bamboo Dragonfly",
+        "desc": "If you're down to half a heart, you'll gain the ability to fly.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7a/Barbecue_Grill.png",
+        "imgName": "Barbecue_Grill.png",
+        "slug": "Barbecue_Grill",
+        "name": "Barbecue Grill",
+        "desc": "All normal bombs in this run become fire bombs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/29/Bargain_Insurance.png",
+        "imgName": "Bargain_Insurance.png",
+        "slug": "Bargain_Insurance",
+        "name": "Bargain Insurance",
+        "desc": "Get a coin when any of your Angry Sprites dies.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/48/Basketball_Jersey.png",
+        "imgName": "Basketball_Jersey.png",
+        "slug": "Basketball_Jersey",
+        "name": "Basketball Jersey",
+        "desc": "MAMBA FOREVER! You'll only lose a maximum of half a heart when you get hurt.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/34/Battle_Pass.png",
+        "imgName": "Battle_Pass.png",
+        "slug": "Battle_Pass",
+        "name": "Battle Pass",
+        "desc": "Pay to Win! The more coins you have, the more bullets you can shoot.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/75/Bear_Bone_Mask.png",
+        "imgName": "Bear_Bone_Mask.png",
+        "slug": "Bear_Bone_Mask",
+        "name": "Bear Bone Mask",
+        "desc": "The more empty heart containers there are, the higher the max limit of Angry Sprites.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/82/Bear_Pendant.png",
+        "imgName": "Bear_Pendant.png",
+        "slug": "Bear_Pendant",
+        "name": "Bear Pendant",
+        "desc": "Every time you use a key, there's a chance you'll drop extra eggs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4d/Beast_Amulet.png",
+        "imgName": "Beast_Amulet.png",
+        "slug": "Beast_Amulet",
+        "name": "Beast Amulet",
+        "desc": "It's raw power and passion, but hard to control. Reduce your rate of fire but greatly increase your weapon damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3c/Beehive.png",
+        "imgName": "Beehive.png",
+        "slug": "Beehive",
+        "name": "Beehive",
+        "desc": "There's a chance you'll fire multiple bullets.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f5/Beggar%27s_Card.png",
+        "imgName": "Beggar%27s_Card.png",
+        "slug": "Beggar%27s_Card",
+        "name": "Beggar's Card",
+        "desc": "While in this room, each time you pick something up, your weapon damage will increase.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cf/Bent_Spoon.png",
+        "imgName": "Bent_Spoon.png",
+        "slug": "Bent_Spoon",
+        "name": "Bent Spoon",
+        "desc": "98%....99%.... Add a crystal container and increase your gun's damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Berserker_Blood.png",
+        "imgName": "Berserker_Blood.png",
+        "slug": "Berserker_Blood",
+        "name": "Berserker Blood",
+        "desc": "The fury drive your body. The fewer hearts you have, the more bullets you can shoot.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Big_Daddy.png",
+        "imgName": "Big_Daddy.png",
+        "slug": "Big_Daddy",
+        "name": "Big Daddy",
+        "desc": "You're immune to the explosion damage caused by yourself.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Birthday_Cake.png",
+        "imgName": "Birthday_Cake.png",
+        "slug": "Birthday_Cake",
+        "name": "Birthday Cake",
+        "desc": "A cake with \"HAPPY BIRTHDAY\" written on it. You are bigger! Also add two heart containers.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fb/Black_Box.png",
+        "imgName": "Black_Box.png",
+        "slug": "Black_Box",
+        "name": "Black Box",
+        "desc": "Every time you use a key, there's a chance you'll drop extra shields.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7e/Black_Friday.png",
+        "imgName": "Black_Friday.png",
+        "slug": "Black_Friday",
+        "name": "Black Friday",
+        "desc": "It's shopping time! Everything in the shop is half price!",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Black_Rum.png",
+        "imgName": "Black_Rum.png",
+        "slug": "Black_Rum",
+        "name": "Black Rum",
+        "desc": "When you use a bomb, your eggs will explode.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4b/Blasting_Cap_101.png",
+        "imgName": "Blasting_Cap_101.png",
+        "slug": "Blasting_Cap_101",
+        "name": "Blasting Cap 101",
+        "desc": "Your explosion will create a cross-shaped blast.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e9/Blasting_Cap_5000.png",
+        "imgName": "Blasting_Cap_5000.png",
+        "slug": "Blasting_Cap_5000",
+        "name": "Blasting Cap 5000",
+        "desc": "Your explosion will create an X-shaped blast.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Blue_Protocol.png",
+        "imgName": "Blue_Protocol.png",
+        "slug": "Blue_Protocol",
+        "name": "Blue Protocol",
+        "desc": "Let it guide you... Add shields. Upgrade your weapon.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f7/Blueberry_Cake.png",
+        "imgName": "Blueberry_Cake.png",
+        "slug": "Blueberry_Cake",
+        "name": "Blueberry Cake",
+        "desc": "You have a chance to drop extra shields if you hatch an empty egg.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/Bodyguard_Glasses.png",
+        "imgName": "Bodyguard_Glasses.png",
+        "slug": "Bodyguard_Glasses",
+        "name": "Bodyguard Glasses",
+        "desc": "Easier to aim without glare in your eyes... Increase your weapon's damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6c/Boom_Gloves.png",
+        "imgName": "Boom_Gloves.png",
+        "slug": "Boom_Gloves",
+        "name": "Boom Gloves",
+        "desc": "Kill enough enemies, and you'll drop extra bombs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Bottle_Opener.png",
+        "imgName": "Bottle_Opener.png",
+        "slug": "Bottle_Opener",
+        "name": "Bottle Opener",
+        "desc": "Spawns a ring of Angry Sprites when you use a key.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/Brave_Cookies.png",
+        "imgName": "Brave_Cookies.png",
+        "slug": "Brave_Cookies",
+        "name": "Brave Cookies",
+        "desc": "B.A.D. (Brave And Delicious). Add shields and a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Broccoli.png",
+        "imgName": "Broccoli.png",
+        "slug": "Broccoli",
+        "name": "Broccoli",
+        "desc": "Healthy food! Contains a wide variety of vitamins! Add a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Broken_Kite.png",
+        "imgName": "Broken_Kite.png",
+        "slug": "Broken_Kite",
+        "name": "Broken Kite",
+        "desc": "You can fly when you have the max number of Angry Sprites.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/23/Bullet_Crown.png",
+        "imgName": "Bullet_Crown.png",
+        "slug": "Bullet_Crown",
+        "name": "Bullet Crown",
+        "desc": "Each time an enemy is killed in this room, your weapon bullets increase.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/59/Burning_Talisman.png",
+        "imgName": "Burning_Talisman.png",
+        "slug": "Burning_Talisman",
+        "name": "Burning Talisman",
+        "desc": "Angry Sprites leave a burning flame when they die.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ec/B-Virus.png",
+        "imgName": "B-Virus.png",
+        "slug": "B-Virus",
+        "name": "B-Virus",
+        "desc": "Each time you kill an enemy, there's a chance it will explode.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/22/Can_of_Red_Paint.png",
+        "imgName": "Can_of_Red_Paint.png",
+        "slug": "Can_of_Red_Paint",
+        "name": "Can of Red Paint",
+        "desc": "All jars are now red jars.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/13/Candy_Cane.png",
+        "imgName": "Candy_Cane.png",
+        "slug": "Candy_Cane",
+        "name": "Candy Cane",
+        "desc": "The more pets you have, the faster you can shoot.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ee/Candy_Corn.png",
+        "imgName": "Candy_Corn.png",
+        "slug": "Candy_Corn",
+        "name": "Candy Corn",
+        "desc": "The more pets you have, the further you can shoot.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c5/Canned_Cat_Food.png",
+        "imgName": "Canned_Cat_Food.png",
+        "slug": "Canned_Cat_Food",
+        "name": "Canned Cat Food",
+        "desc": "You get some gifts from cats. Also add a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6b/Carp_Streamer.png",
+        "imgName": "Carp_Streamer.png",
+        "slug": "Carp_Streamer",
+        "name": "Carp Streamer",
+        "desc": "It catches the wind - just like you! You can make an extra jump.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/Cat_Medallion.png",
+        "imgName": "Cat_Medallion.png",
+        "slug": "Cat_Medallion",
+        "name": "Cat Medallion",
+        "desc": "This cat-faced amulet vibrates softly around magic. The fewer crystals you have, the more damage your weapon does.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f6/Chemical_Burn.png",
+        "imgName": "Chemical_Burn.png",
+        "slug": "Chemical_Burn",
+        "name": "Chemical Burn",
+        "desc": "Your explosion leaves a burst of fire behind.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/56/Cherry_Taste.png",
+        "imgName": "Cherry_Taste.png",
+        "slug": "Cherry_Taste",
+        "name": "Cherry Taste",
+        "desc": "There's a chance your bullet will split into extra bullets. We know it's tempting, but don't lick any.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5f/Chicken_Burger.png",
+        "imgName": "Chicken_Burger.png",
+        "slug": "Chicken_Burger",
+        "name": "Chicken Burger",
+        "desc": "You will drop extra hearts if you hatch an empty egg.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Chocolate_Coin.png",
+        "imgName": "Chocolate_Coin.png",
+        "slug": "Chocolate_Coin",
+        "name": "Chocolate Coin",
+        "desc": "Every time your pet evolves, you'll drop coins.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b4/Chocolate_Cookies.png",
+        "imgName": "Chocolate_Cookies.png",
+        "slug": "Chocolate_Cookies",
+        "name": "Chocolate Cookies",
+        "desc": "Every time your pet evolves, you'll drop a bomb.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4f/Clay_Doll.png",
+        "imgName": "Clay_Doll.png",
+        "slug": "Clay_Doll",
+        "name": "Clay Doll",
+        "desc": "Art is an explosion! There's a chance that killing an enemy will release an explosion from you.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Clown_Hat.png",
+        "imgName": "Clown_Hat.png",
+        "slug": "Clown_Hat",
+        "name": "Clown Hat",
+        "desc": "There's a chance you'll fire a fake rat. And who wouldn't be scared of that?",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2c/Coin_Bomb.png",
+        "imgName": "Coin_Bomb.png",
+        "slug": "Coin_Bomb",
+        "name": "Coin Bomb",
+        "desc": "You get triple the coins, but coins will explode after 3 seconds if you haven't picked it up. Time is money, right?",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a9/Colorful_Crown.png",
+        "imgName": "Colorful_Crown.png",
+        "slug": "Colorful_Crown",
+        "name": "Colorful Crown",
+        "desc": "There's a chance your bullet will create a beautiful firework.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/78/Combat_Helmet.png",
+        "imgName": "Combat_Helmet.png",
+        "slug": "Combat_Helmet",
+        "name": "Combat Helmet",
+        "desc": "The more shields you have, the more bullets your weapon shoots.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/86/Cooling_System.png",
+        "imgName": "Cooling_System.png",
+        "slug": "Cooling_System",
+        "name": "Cooling System",
+        "desc": "Cool down your gun! All your bullets now deal ice damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Creambeer.png",
+        "imgName": "Creambeer.png",
+        "slug": "Creambeer",
+        "name": "Creambeer",
+        "desc": "A beer that is certainly not a milkshake. Add a heart container and a crystal container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a5/Cremation_Box.png",
+        "imgName": "Cremation_Box.png",
+        "slug": "Cremation_Box",
+        "name": "Cremation Box",
+        "desc": "Angry sprites have a chance of dropping a small gift when they die.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/dd/Crown_of_Thorns.png",
+        "imgName": "Crown_of_Thorns.png",
+        "slug": "Crown_of_Thorns",
+        "name": "Crown of Thorns",
+        "desc": "Deal melee damage to enemies who make contact with you.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Cruel_Sugar.png",
+        "imgName": "Cruel_Sugar.png",
+        "slug": "Cruel_Sugar",
+        "name": "Cruel Sugar",
+        "desc": "Increases the max limit of Angry Sprites by 1 for each of your pets.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c1/Crystal_Hard_Candy.png",
+        "imgName": "Crystal_Hard_Candy.png",
+        "slug": "Crystal_Hard_Candy",
+        "name": "Crystal Hard Candy",
+        "desc": "Every time your pet evolves, you'll drop 2 crystals.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b1/Cursed_Coin.png",
+        "imgName": "Cursed_Coin.png",
+        "slug": "Cursed_Coin",
+        "name": "Cursed Coin",
+        "desc": "Turn all wooden chests to cursed chests[Note: May be removed since v1.4.3]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a3/Cyborg.png",
+        "imgName": "Cyborg.png",
+        "slug": "Cyborg",
+        "name": "Cyborg",
+        "desc": "Reduce your heart containers and add shields. Also increase your weapon's damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Dance_Mask.png",
+        "imgName": "Dance_Mask.png",
+        "slug": "Dance_Mask",
+        "name": "Dance Mask",
+        "desc": "Upgrade your gun if you get hurt while in this room.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e9/Danger_Sign.png",
+        "imgName": "Danger_Sign.png",
+        "slug": "Danger_Sign",
+        "name": "Danger Sign",
+        "desc": "Your gun is full of electricity! All your bullets now deal electric damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a9/Dangerous_Mine.png",
+        "imgName": "Dangerous_Mine.png",
+        "slug": "Dangerous_Mine",
+        "name": "Dangerous Mine",
+        "desc": "Every time you jump, you leave a mine behind you. That sounds crazy or crazy AWESOME?",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a2/Dangerous_Receipt.png",
+        "imgName": "Dangerous_Receipt.png",
+        "slug": "Dangerous_Receipt",
+        "name": "Dangerous Receipt",
+        "desc": "You receive delivery of a batch of bombs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/62/Dark_Side.png",
+        "imgName": "Dark_Side.png",
+        "slug": "Dark_Side",
+        "name": "Dark Side",
+        "desc": "If you are down to half a heart, you'll immediately deal damage to all enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Death_Believer.png",
+        "imgName": "Death_Believer.png",
+        "slug": "Death_Believer",
+        "name": "Death Believer",
+        "desc": "Kill enough enemies, and you'll drop extra hearts.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/Defensive_Magic_Scroll.png",
+        "imgName": "Defensive_Magic_Scroll.png",
+        "slug": "Defensive_Magic_Scroll",
+        "name": "Defensive Magic Scroll",
+        "desc": "Crystals will orbit you when near death to block one bullet.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5f/Defibrillator.png",
+        "imgName": "Defibrillator.png",
+        "slug": "Defibrillator",
+        "name": "Defibrillator",
+        "desc": "Revives the player upon a successful dance post-death.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/62/Demon_Book.png",
+        "imgName": "Demon_Book.png",
+        "slug": "Demon_Book",
+        "name": "Demon Book",
+        "desc": "You will get 1 angry sprite each time you kill an enemy by explosions.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f6/Demon_Wings.png",
+        "imgName": "Demon_Wings.png",
+        "slug": "Demon_Wings",
+        "name": "Demon Wings",
+        "desc": "A little sacrifice goes a long way... Trade one heart container for the ability to fly.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/75/Desert_Elixir.png",
+        "imgName": "Desert_Elixir.png",
+        "slug": "Desert_Elixir",
+        "name": "Desert Elixir",
+        "desc": "A strange potion with \"Don't Drink Me\" written on it.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a8/Devil_Horn.png",
+        "imgName": "Devil_Horn.png",
+        "slug": "Devil_Horn",
+        "name": "Devil Horn",
+        "desc": "These let you increase your weapon damage and melee damage, Don't worry about the sudden craving for flesh.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4d/Devil_Hotline.png",
+        "imgName": "Devil_Hotline.png",
+        "slug": "Devil_Hotline",
+        "name": "Devil Hotline",
+        "desc": "Double your melee attack damage when you are in the air.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Devil%27s_Trade.png",
+        "imgName": "Devil%27s_Trade.png",
+        "slug": "Devil%27s_Trade",
+        "name": "Devil's Trade",
+        "desc": "Each time you get hurt, there's a chance you'll take double damage... or no damage at all.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Dimensional_Bags.png",
+        "imgName": "Dimensional_Bags.png",
+        "slug": "Dimensional_Bags",
+        "name": "Dimensional Bags",
+        "desc": "You have a chance to receive random goodies when you get hurt.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b3/Disco_Light.png",
+        "imgName": "Disco_Light.png",
+        "slug": "Disco_Light",
+        "name": "Disco Light",
+        "desc": "Jump Marks will summon music notes each time you land.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/07/Divinity.png",
+        "imgName": "Divinity.png",
+        "slug": "Divinity",
+        "name": "Divinity",
+        "desc": "Your soul swells and you feel your feet lift off the ground... Increase your movement speed.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Double_Yolks.png",
+        "imgName": "Double_Yolks.png",
+        "slug": "Double_Yolks",
+        "name": "Double Yolks",
+        "desc": "Two at a time baby, yeah! Double the number of eggs you have.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/36/Doughnut.png",
+        "imgName": "Doughnut.png",
+        "slug": "Doughnut",
+        "name": "Doughnut",
+        "desc": "The more eggs you have, the more bullets you will fire.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/67/Drilling_Warhead.png",
+        "imgName": "Drilling_Warhead.png",
+        "slug": "Drilling_Warhead",
+        "name": "Drilling Warhead",
+        "desc": "This is going to hurt... Increase your rate of fire and weapon damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/da/Earth_Bread.png",
+        "imgName": "Earth_Bread.png",
+        "slug": "Earth_Bread",
+        "name": "Earth Bread",
+        "desc": "An edible root known only to the Dwarves. Add a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Eerie_Axe.png",
+        "imgName": "Eerie_Axe.png",
+        "slug": "Eerie_Axe",
+        "name": "Eerie Axe",
+        "desc": "Spawns an Angry Sprite when you kill an enemy with melee.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4e/Elastic_Gel.png",
+        "imgName": "Elastic_Gel.png",
+        "slug": "Elastic_Gel",
+        "name": "Elastic Gel",
+        "desc": "The victory of science! Your bullet will randomly rebound when it hits the wall.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Electric_Drill.png",
+        "imgName": "Electric_Drill.png",
+        "slug": "Electric_Drill",
+        "name": "Electric Drill",
+        "desc": "Each time you kill an enemy with melee damage, there's a chance you'll gain a bomb.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/15/Electric_Sheep.png",
+        "imgName": "Electric_Sheep.png",
+        "slug": "Electric_Sheep",
+        "name": "Electric Sheep",
+        "desc": "Do androids dream? When you have shields, you can make an extra jump.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fe/Elf_Bread.png",
+        "imgName": "Elf_Bread.png",
+        "slug": "Elf_Bread",
+        "name": "Elf Bread",
+        "desc": "A bite can keep you going all day. Increase your movement speed and recover a heart.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Emerald_Bracelet.png",
+        "imgName": "Emerald_Bracelet.png",
+        "slug": "Emerald_Bracelet",
+        "name": "Emerald Bracelet",
+        "desc": "Every time you pick up a coin, there's a chance you'll get extra bombs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Empty_Can.png",
+        "imgName": "Empty_Can.png",
+        "slug": "Empty_Can",
+        "name": "Empty Can",
+        "desc": "If you don't have a key, you can use an egg instead.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4e/Energy_Cube.png",
+        "imgName": "Energy_Cube.png",
+        "slug": "Energy_Cube",
+        "name": "Energy Cube",
+        "desc": "Each time you activate the Portal Stone, there's a chance of getting a shield.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/bd/Eric%27s_Candle.png",
+        "imgName": "Eric%27s_Candle.png",
+        "slug": "Eric%27s_Candle",
+        "name": "Eric's Candle",
+        "desc": "Your melee attack deals fire damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/E-Sports_Headset.png",
+        "imgName": "E-Sports_Headset.png",
+        "slug": "E-Sports_Headset",
+        "name": "E-Sports Headset",
+        "desc": "Git gud. Increase your rate of fire and movement speed.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ad/Espresso.png",
+        "imgName": "Espresso.png",
+        "slug": "Espresso",
+        "name": "Espresso",
+        "desc": "Feel that caffeine hit? It's BULLET TIME. Increase your rate of fire.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Eternal_Stone.png",
+        "imgName": "Eternal_Stone.png",
+        "slug": "Eternal_Stone",
+        "name": "Eternal Stone",
+        "desc": "You can manually cancel the hatching process of the egg by pressing [Cancel Key].",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Evil_Bracelet.png",
+        "imgName": "Evil_Bracelet.png",
+        "slug": "Evil_Bracelet",
+        "name": "Evil Bracelet",
+        "desc": "Every time you use a key, you'll get an angry sprite.[Note: May be removed since v1.4.4]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/bd/Evil_Spare_Parts.png",
+        "imgName": "Evil_Spare_Parts.png",
+        "slug": "Evil_Spare_Parts",
+        "name": "Evil Spare Parts",
+        "desc": "Spawns the max number of Angry Sprites when a machine fails (gambling machine, gambling door, gambling box).",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/45/Expired_Dog_Food.png",
+        "imgName": "Expired_Dog_Food.png",
+        "slug": "Expired_Dog_Food",
+        "name": "Expired Dog Food",
+        "desc": "Like owner, like pet. Triggers the player's hurt effect when a pet is hurt.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Fanatic_Mask.png",
+        "imgName": "Fanatic_Mask.png",
+        "slug": "Fanatic_Mask",
+        "name": "Fanatic Mask",
+        "desc": "You have a chance to recover hearts when you get hurt by an explosion.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Fatal_Dance.png",
+        "imgName": "Fatal_Dance.png",
+        "slug": "Fatal_Dance",
+        "name": "Fatal Dance",
+        "desc": "You will fires extra bullets downwards while you're in the air.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f0/Film_Magazine.png",
+        "imgName": "Film_Magazine.png",
+        "slug": "Film_Magazine",
+        "name": "Film Magazine",
+        "desc": "Now you know Gun Fu. Add extra bullets per shot and increase your weapon's range.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/87/Firecrackers.png",
+        "imgName": "Firecrackers.png",
+        "slug": "Firecrackers",
+        "name": "Firecrackers",
+        "desc": "There's a chance your bomb will drop a pickup after it explodes in battle.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Firepower_Badge.png",
+        "imgName": "Firepower_Badge.png",
+        "slug": "Firepower_Badge",
+        "name": "Firepower Badge",
+        "desc": "Increase rate of fire.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/35/Fission_Badge.png",
+        "imgName": "Fission_Badge.png",
+        "slug": "Fission_Badge",
+        "name": "Fission Badge",
+        "desc": "Increase bullets.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d5/Fission_Device.png",
+        "imgName": "Fission_Device.png",
+        "slug": "Fission_Device",
+        "name": "Fission Device",
+        "desc": "There's a chance your bullet will split into extra bullets. Stay out of the danger zone.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Flamingo_Feathers.png",
+        "imgName": "Flamingo_Feathers.png",
+        "slug": "Flamingo_Feathers",
+        "name": "Flamingo Feathers",
+        "desc": "Jump marks will shoot a fireball when your egg touches it.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0d/Flowerpot.png",
+        "imgName": "Flowerpot.png",
+        "slug": "Flowerpot",
+        "name": "Flowerpot",
+        "desc": "There's a chance your bullet will split into extra bullets. A beautiful display of death.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/15/Forbidden_Mask.png",
+        "imgName": "Forbidden_Mask.png",
+        "slug": "Forbidden_Mask",
+        "name": "Forbidden Mask",
+        "desc": "You got promoted! Enhance your stats in all areas.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3c/Fruit_Popsicle.png",
+        "imgName": "Fruit_Popsicle.png",
+        "slug": "Fruit_Popsicle",
+        "name": "Fruit Popsicle",
+        "desc": "It's always summer when you're eating a popsicle. Add a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/74/Frying_Pan.png",
+        "imgName": "Frying_Pan.png",
+        "slug": "Frying_Pan",
+        "name": "Frying Pan",
+        "desc": "There's a chance that you'll block bullets fired at you.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3b/Furious_Chicken.png",
+        "imgName": "Furious_Chicken.png",
+        "slug": "Furious_Chicken",
+        "name": "Furious Chicken",
+        "desc": "The more eggs you have, the more melee damage you do.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2a/Future_Tech.png",
+        "imgName": "Future_Tech.png",
+        "slug": "Future_Tech",
+        "name": "Future Tech",
+        "desc": "Stylish eye protection, with added benefits. Add shields and increase your rate of fire.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b2/Game_Card.png",
+        "imgName": "Game_Card.png",
+        "slug": "Game_Card",
+        "name": "Game Card",
+        "desc": "The more Jump Marks you have, the more damage your gun does.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Gamma_Ray.png",
+        "imgName": "Gamma_Ray.png",
+        "slug": "Gamma_Ray",
+        "name": "Gamma Ray",
+        "desc": "Ain't nothing gonna stop you now! Your bullets can pass through walls.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/78/Garand_Clip.png",
+        "imgName": "Garand_Clip.png",
+        "slug": "Garand_Clip",
+        "name": "Garand Clip",
+        "desc": "Mow 'em down. Add extra bullets per shot and increase your weapon damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2e/Gas_Mask.png",
+        "imgName": "Gas_Mask.png",
+        "slug": "Gas_Mask",
+        "name": "Gas Mask",
+        "desc": "There's a chance you'll fire a poison bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e2/Ghost_Bottle.png",
+        "imgName": "Ghost_Bottle.png",
+        "slug": "Ghost_Bottle",
+        "name": "Ghost Bottle",
+        "desc": "Launches piercing bullets after your bomb explodes.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b7/Ghost_Nail.png",
+        "imgName": "Ghost_Nail.png",
+        "slug": "Ghost_Nail",
+        "name": "Ghost Nail",
+        "desc": "There's a chance you'll fire a piercing bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cf/Ghost_Shell.png",
+        "imgName": "Ghost_Shell.png",
+        "slug": "Ghost_Shell",
+        "name": "Ghost Shell",
+        "desc": "You have a chance to gain shields when you get hurt. There are some questions you can't avoid.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Giant_Barbecue.png",
+        "imgName": "Giant_Barbecue.png",
+        "slug": "Giant_Barbecue",
+        "name": "Giant Barbecue",
+        "desc": "Trade your IQ for POWER! Add a heart container. Increase your weapon damage, but reduce your rate of fire.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2e/Gingerbread_Man.png",
+        "imgName": "Gingerbread_Man.png",
+        "slug": "Gingerbread_Man",
+        "name": "Gingerbread Man",
+        "desc": "If an attack kills you, you'll exchange an egg for half a heart.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a1/Gladiator_Helmet.png",
+        "imgName": "Gladiator_Helmet.png",
+        "slug": "Gladiator_Helmet",
+        "name": "Gladiator Helmet",
+        "desc": "Increase your melee damage every time you get hurt in the current room.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/61/Go_Board.png",
+        "imgName": "Go_Board.png",
+        "slug": "Go_Board",
+        "name": "Go Board",
+        "desc": "Winning is positioning, timing... and being the last alive. Add extra bullets per shot and increase your movement speed.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Golden_Apple.png",
+        "imgName": "Golden_Apple.png",
+        "slug": "Golden_Apple",
+        "name": "Golden Apple",
+        "desc": "The relic of the first civilization. Upgrade your weapon. Increase your movement speed slightly.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/50/Golden_Bell.png",
+        "imgName": "Golden_Bell.png",
+        "slug": "Golden_Bell",
+        "name": "Golden Bell",
+        "desc": "Each time you kill an enemy with melee damage, there's a chance you'll receive extra coins.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/07/Golden_Bird.png",
+        "imgName": "Golden_Bird.png",
+        "slug": "Golden_Bird",
+        "name": "Golden Bird",
+        "desc": "The more coins you have, the faster you can shoot.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/61/Golden_Fist.png",
+        "imgName": "Golden_Fist.png",
+        "slug": "Golden_Fist",
+        "name": "Golden Fist",
+        "desc": "Each time you destroy a wooden box using melee damage, you gain 1 coin.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e0/Golden_Skulls.png",
+        "imgName": "Golden_Skulls.png",
+        "slug": "Golden_Skulls",
+        "name": "Golden Skulls",
+        "desc": "The more coins you have, the more melee damage you do.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fb/Golden_Statuette.png",
+        "imgName": "Golden_Statuette.png",
+        "slug": "Golden_Statuette",
+        "name": "Golden Statuette",
+        "desc": "You have a chance to get a guard sprite when you use coins. Don't you want to kiss it?",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Golden_Teeth.png",
+        "imgName": "Golden_Teeth.png",
+        "slug": "Golden_Teeth",
+        "name": "Golden Teeth",
+        "desc": "Oof. Hope you like soup. Drop coins when you get hurt.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Golden_Torch.png",
+        "imgName": "Golden_Torch.png",
+        "slug": "Golden_Torch",
+        "name": "Golden Torch",
+        "desc": "The light is warm. Get an extra treasure room at each new level.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fa/Grape_Candy.png",
+        "imgName": "Grape_Candy.png",
+        "slug": "Grape_Candy",
+        "name": "Grape Candy",
+        "desc": "You will drop an extra crystal if you hatch an empty egg.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Green_Cap.png",
+        "imgName": "Green_Cap.png",
+        "slug": "Green_Cap",
+        "name": "Green Cap",
+        "desc": "This green cap will diminish you... That is, it will make you smaller. See the world from a new angle!",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Grim_Hood.png",
+        "imgName": "Grim_Hood.png",
+        "slug": "Grim_Hood",
+        "name": "Grim Hood",
+        "desc": "Each time an enemy is killed in this room, your weapon damage increases.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Gum_Bear.png",
+        "imgName": "Gum_Bear.png",
+        "slug": "Gum_Bear",
+        "name": "Gum Bear",
+        "desc": "Yeah! Increase the damage from all your pets.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/62/Gunpowder_Plot.png",
+        "imgName": "Gunpowder_Plot.png",
+        "slug": "Gunpowder_Plot",
+        "name": "Gunpowder Plot",
+        "desc": "Each time you pick up a bomb, you get an extra one.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7c/Hacking_Tool.png",
+        "imgName": "Hacking_Tool.png",
+        "slug": "Hacking_Tool",
+        "name": "Hacking Tool",
+        "desc": "I got this! Keys are no longer a problem.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8a/Hair_Dryer.png",
+        "imgName": "Hair_Dryer.png",
+        "slug": "Hair_Dryer",
+        "name": "Hair Dryer",
+        "desc": "Let it blow your bullets farther, faster. Increase your weapon's range and rate of fire.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/34/Hand_Mirror.png",
+        "imgName": "Hand_Mirror.png",
+        "slug": "Hand_Mirror",
+        "name": "Hand Mirror",
+        "desc": "There's a chance you'll fire a ricocheting bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/08/Hard_Hat.png",
+        "imgName": "Hard_Hat.png",
+        "slug": "Hard_Hat",
+        "name": "Hard Hat",
+        "desc": "You won't take any environmental damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/22/Hard_Mints.png",
+        "imgName": "Hard_Mints.png",
+        "slug": "Hard_Mints",
+        "name": "Hard Mints",
+        "desc": "Every time your pet evolves, you may drop half a shield.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Headband.png",
+        "imgName": "Headband.png",
+        "slug": "Headband",
+        "name": "Headband",
+        "desc": "The more times you jump, the more melee damage you do.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7d/Heart_Key.png",
+        "imgName": "Heart_Key.png",
+        "slug": "Heart_Key",
+        "name": "Heart Key",
+        "desc": "If you don't have a key, you can use half a heart instead.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/Heart_Necklace.png",
+        "imgName": "Heart_Necklace.png",
+        "slug": "Heart_Necklace",
+        "name": "Heart Necklace",
+        "desc": "Every time you use a key, there's a chance you'll drop extra hearts.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a6/Heart_of_Fire.png",
+        "imgName": "Heart_of_Fire.png",
+        "slug": "Heart_of_Fire",
+        "name": "Heart of Fire",
+        "desc": "You can revive after death, but you feel... tired. (Can only be used once.)",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Heart_of_the_Ocean.png",
+        "imgName": "Heart_of_the_Ocean.png",
+        "slug": "Heart_of_the_Ocean",
+        "name": "Heart of the Ocean",
+        "desc": "The power of love! Add shields. Increase your weapon's damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/Hero_Mask.png",
+        "imgName": "Hero_Mask.png",
+        "slug": "Hero_Mask",
+        "name": "Hero Mask",
+        "desc": "This is your calling. Increase your jump height and movement speed.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/31/Hiccups.png",
+        "imgName": "Hiccups.png",
+        "slug": "Hiccups",
+        "name": "Hiccups",
+        "desc": "You will get a random item if you get hurt 6 times in the same room.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Hip_Flask.png",
+        "imgName": "Hip_Flask.png",
+        "slug": "Hip_Flask",
+        "name": "Hip Flask",
+        "desc": "Take a shot. Take the shot. Rinse and repeat. Greatly increase your weapon damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d4/Hot_Chili.png",
+        "imgName": "Hot_Chili.png",
+        "slug": "Hot_Chili",
+        "name": "Hot Chili",
+        "desc": "Let your gun burn! All your bullets now deal fire damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/da/Howard_Reactor.png",
+        "imgName": "Howard_Reactor.png",
+        "slug": "Howard_Reactor",
+        "name": "Howard Reactor",
+        "desc": "Hearts will be replaced by shields when they drop. The creator slightly modified the rules of the universe.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/57/Hungry_Amulet.png",
+        "imgName": "Hungry_Amulet.png",
+        "slug": "Hungry_Amulet",
+        "name": "Hungry Amulet",
+        "desc": "Kill enough enemies in melee, you will recover half a heart.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a1/Hunter_Queen.png",
+        "imgName": "Hunter_Queen.png",
+        "slug": "Hunter_Queen",
+        "name": "Hunter Queen",
+        "desc": "Your melee attacks cause enemies to explode when they die.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Immortal_Fangs.png",
+        "imgName": "Immortal_Fangs.png",
+        "slug": "Immortal_Fangs",
+        "name": "Immortal Fangs",
+        "desc": "Spawns 3 golden Angry Sprites.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Immortal_Heart.png",
+        "imgName": "Immortal_Heart.png",
+        "slug": "Immortal_Heart",
+        "name": "Immortal Heart",
+        "desc": "This is a legendary trophy. You can revive after death. (Can only be used once.)",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Imperial_Force.png",
+        "imgName": "Imperial_Force.png",
+        "slug": "Imperial_Force",
+        "name": "Imperial Force",
+        "desc": "There's a chance you'll fire a laser. Whether or not it hits anything is another matter...",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Inferior_Milk_Powder.png",
+        "imgName": "Inferior_Milk_Powder.png",
+        "slug": "Inferior_Milk_Powder",
+        "name": "Inferior Milk Powder",
+        "desc": "The less your hearts, the bigger the Angry Sprites.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/97/Key_infinite.png",
+        "imgName": "Key_infinite.png",
+        "slug": "Key_infinite",
+        "name": "Infinite Key",
+        "desc": "While you have this key, you can unlock anything for free. Expires at the end of the current level.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a5/Inner_Eye.png",
+        "imgName": "Inner_Eye.png",
+        "slug": "Inner_Eye",
+        "name": "Inner Eye",
+        "desc": "You can preview the description of an item without picking it up.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/70/Inorganic_Mod.png",
+        "imgName": "Inorganic_Mod.png",
+        "slug": "Inorganic_Mod",
+        "name": "Inorganic Mod",
+        "desc": "You have a chance to drop extra shields each time you kill an enemy.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Iron_Heart.png",
+        "imgName": "Iron_Heart.png",
+        "slug": "Iron_Heart",
+        "name": "Iron Heart",
+        "desc": "You will lose hearts first even if you have shields. You are gradually accepting this fact.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ed/Jelly_Beans.png",
+        "imgName": "Jelly_Beans.png",
+        "slug": "Jelly_Beans",
+        "name": "Jelly Beans",
+        "desc": "You have a chance to shoot random element bullets.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5e/Jewelry_Box.png",
+        "imgName": "Jewelry_Box.png",
+        "slug": "Jewelry_Box",
+        "name": "Jewelry Box",
+        "desc": "Every time you use a key, there's a chance you'll get a protective shell.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8b/Kendo_Mask.png",
+        "imgName": "Kendo_Mask.png",
+        "slug": "Kendo_Mask",
+        "name": "Kendo Mask",
+        "desc": "There's a chance that you'll block melee damage from enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/df/Kinetic_Blade.png",
+        "imgName": "Kinetic_Blade.png",
+        "slug": "Kinetic_Blade",
+        "name": "Kinetic Blade",
+        "desc": "Gain shields after killing enemies with melee damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/86/King%27s_Crown.png",
+        "imgName": "King%27s_Crown.png",
+        "slug": "King%27s_Crown",
+        "name": "King's Crown",
+        "desc": "Your weapon does more damage when you're at full hearts.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fb/Knife_and_Fork.png",
+        "imgName": "Knife_and_Fork.png",
+        "slug": "Knife_and_Fork",
+        "name": "Knife and Fork",
+        "desc": "Each time you kill an enemy with melee damage, there's a chance to get an egg.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/42/Kongming_Lantern.png",
+        "imgName": "Kongming_Lantern.png",
+        "slug": "Kongming_Lantern",
+        "name": "Kongming Lantern",
+        "desc": "You will get a guard sprite when you get hurt.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6b/Last_Hope.png",
+        "imgName": "Last_Hope.png",
+        "slug": "Last_Hope",
+        "name": "Last Hope",
+        "desc": "You fight for humanity! After each battle, you might receive extra shields.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/51/Lemon_Jelly.png",
+        "imgName": "Lemon_Jelly.png",
+        "slug": "Lemon_Jelly",
+        "name": "Lemon Jelly",
+        "desc": "The more eggs you have, the more times you can jump.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/Lidless_Eye.png",
+        "imgName": "Lidless_Eye.png",
+        "slug": "Lidless_Eye",
+        "name": "Lidless Eye",
+        "desc": "It sees ...... EVERYTHING! Including your inner desires and fears.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1b/Life_Badge.png",
+        "imgName": "Life_Badge.png",
+        "slug": "Life_Badge",
+        "name": "Life Badge",
+        "desc": "Increase heart containers.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2c/Lightning_Boots.png",
+        "imgName": "Lightning_Boots.png",
+        "slug": "Lightning_Boots",
+        "name": "Lightning Boots",
+        "desc": "Jump Marks will create a ring of lightning.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Like_of_the_King.png",
+        "imgName": "Like_of_the_King.png",
+        "slug": "Like_of_the_King",
+        "name": "Like of the King",
+        "desc": "You have the King's approval. Upgrade your weapon. Increase your bullet velocity.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Lion_Headgear.png",
+        "imgName": "Lion_Headgear.png",
+        "slug": "Lion_Headgear",
+        "name": "Lion Headgear",
+        "desc": "The more pets you have, the more damage your gun does.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/41/Lipstick.png",
+        "imgName": "Lipstick.png",
+        "slug": "Lipstick",
+        "name": "Lipstick",
+        "desc": "Don't get it on your teeth. The shop will now replenish.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/75/Lithium_Battery.png",
+        "imgName": "Lithium_Battery.png",
+        "slug": "Lithium_Battery",
+        "name": "Lithium Battery",
+        "desc": "There's a chance you'll fire an electric bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/16/Little_Pickaxe.png",
+        "imgName": "Little_Pickaxe.png",
+        "slug": "Little_Pickaxe",
+        "name": "Little Pickaxe",
+        "desc": "A very useful tool. Reveal all nearby hidden rooms.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/df/Locksmith.png",
+        "imgName": "Locksmith.png",
+        "slug": "Locksmith",
+        "name": "Locksmith",
+        "desc": "If you don't have a key, you can use coins instead.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/32/Lottery_Tickets.png",
+        "imgName": "Lottery_Tickets.png",
+        "slug": "Lottery_Tickets",
+        "name": "Lottery Ticket",
+        "desc": "777 coins! You feel extremely lucky... and lonely.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4f/Love_Yeast.png",
+        "imgName": "Love_Yeast.png",
+        "slug": "Love_Yeast",
+        "name": "Love Yeast",
+        "desc": "Hearts will turn into two moldy hearts 3 seconds after dropping.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b7/Lucky_Gold_Coin.png",
+        "imgName": "Lucky_Gold_Coin.png",
+        "slug": "Lucky_Gold_Coin",
+        "name": "Lucky Gold Coin",
+        "desc": "Is it really not an illusion that you feel you have become lucky?",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Mad_Mask.png",
+        "imgName": "Mad_Mask.png",
+        "slug": "Mad_Mask",
+        "name": "Mad Mask",
+        "desc": "This IS the craziest thing you've ever seen. Greatly increase your rate of fire.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Magic_Vortex.png",
+        "imgName": "Magic_Vortex.png",
+        "slug": "Magic_Vortex",
+        "name": "Magic Vortex",
+        "desc": "Your weapon does more damage when your crystal containers are full. You have a big plan.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/bc/Magic_Wand.png",
+        "imgName": "Magic_Wand.png",
+        "slug": "Magic_Wand",
+        "name": "Magic Wand",
+        "desc": "You will gain crystals when you get hurt.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Magical_Bean.png",
+        "imgName": "Magical_Bean.png",
+        "slug": "Magical_Bean",
+        "name": "Magical Bean",
+        "desc": "This unbelievable bean will recover all your hearts and increase your weapon's range.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Magician_Hat.png",
+        "imgName": "Magician_Hat.png",
+        "slug": "Magician_Hat",
+        "name": "Magician Hat",
+        "desc": "Each time you pick up a key, you get an extra one.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Maneki-Neko.png",
+        "imgName": "Maneki-Neko.png",
+        "slug": "Maneki-Neko",
+        "name": "Maneki-Neko",
+        "desc": "Meow... You get an extra bonus when you pick up coins.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a0/Marshmallow.png",
+        "imgName": "Marshmallow.png",
+        "slug": "Marshmallow",
+        "name": "Marshmallow",
+        "desc": "When you're at full health, your eggs will never fail to hatch.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/06/Matchbox.png",
+        "imgName": "Matchbox.png",
+        "slug": "Matchbox",
+        "name": "Matchbox",
+        "desc": "If the egg touches stone - such as doors or chests - they'll both explode and disappear.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2f/Medal_of_Honor.png",
+        "imgName": "Medal_of_Honor.png",
+        "slug": "Medal_of_Honor",
+        "name": "Medal of Honor",
+        "desc": "It's about discipline. Increase your movement speed and your weapon damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e4/Melting_Calendar.png",
+        "imgName": "Melting_Calendar.png",
+        "slug": "Melting_Calendar",
+        "name": "Melting Calendar",
+        "desc": "Time is a meaningless mortal construct. You understand this now, and your movement speed increases.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b2/Mercenary_Lord.png",
+        "imgName": "Mercenary_Lord.png",
+        "slug": "Mercenary_Lord",
+        "name": "Mercenary Lord",
+        "desc": "The more coins you have, the more damage your weapon does.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ae/Mercy_Hood.png",
+        "imgName": "Mercy_Hood.png",
+        "slug": "Mercy_Hood",
+        "name": "Mercy Hood",
+        "desc": "May the love be with you. Double the amount of hearts recovered.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/81/Metal_Panties.png",
+        "imgName": "Metal_Panties.png",
+        "slug": "Metal_Panties",
+        "name": "Metal Panties",
+        "desc": "Make them regret ever touching you. Drop 6 safe bombs when you get hurt.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/69/Microphone.png",
+        "imgName": "Microphone.png",
+        "slug": "Microphone",
+        "name": "Microphone",
+        "desc": "Jump Marks will create an enemy bullet deflecting wave.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/57/Midnight_Mask.png",
+        "imgName": "Midnight_Mask.png",
+        "slug": "Midnight_Mask",
+        "name": "Midnight Mask",
+        "desc": "It's Friday! Increase your weapon's damage when you get hurt.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Mini_Radar.png",
+        "imgName": "Mini_Radar.png",
+        "slug": "Mini_Radar",
+        "name": "Mini Radar",
+        "desc": "BEEP. BEEP. BEEP. Mark all secrets on your map.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Mjolnir.png",
+        "imgName": "Mjolnir.png",
+        "slug": "Mjolnir",
+        "name": "Mjolnir",
+        "desc": "Your melee attack deals electric damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3f/Monk_Hat.png",
+        "imgName": "Monk_Hat.png",
+        "slug": "Monk_Hat",
+        "name": "Monk Hat",
+        "desc": "Add a heart container and a crystal container. Keep the sun and rain off your face so you can concentrate on meditating.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Monocle.png",
+        "imgName": "Monocle.png",
+        "slug": "Monocle",
+        "name": "Monocle",
+        "desc": "You will drop an extra key if you hatch an empty egg.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f4/Moonhead.png",
+        "imgName": "Moonhead.png",
+        "slug": "Moonhead",
+        "name": "Moonhead",
+        "desc": "You're immune to touch damage while you're in the air.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/05/Most_Wanted_List.png",
+        "imgName": "Most_Wanted_List.png",
+        "slug": "Most_Wanted_List",
+        "name": "Most Wanted List",
+        "desc": "You get twice the coins after you kill enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/26/Motorcycle_Helmet.png",
+        "imgName": "Motorcycle_Helmet.png",
+        "slug": "Motorcycle_Helmet",
+        "name": "Motorcycle Helmet",
+        "desc": "Increase your movement speed, weapon damage, and melee damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c3/Mustard_Poop.png",
+        "imgName": "Mustard_Poop.png",
+        "slug": "Mustard_Poop",
+        "name": "Mustard Poop",
+        "desc": "Eggs can cause touch damage to enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Mutated_Orange.png",
+        "imgName": "Mutated_Orange.png",
+        "slug": "Mutated_Orange",
+        "name": "Mutated Orange",
+        "desc": "This orange will make you SUPER strong. Increase your movement speed and weapon damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c4/Nanotechnology.png",
+        "imgName": "Nanotechnology.png",
+        "slug": "Nanotechnology",
+        "name": "Nanotechnology",
+        "desc": "After the bomb explodes, it will split into more small bombs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cc/Nerve_System_6.0.png",
+        "imgName": "Nerve_System_6.0.png",
+        "slug": "Nerve_System_6.0",
+        "name": "Nerve System 6.0",
+        "desc": "Increase your weapon damage and movement speed. Forget sheep, you keep dreaming of unicorns...",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Night_Vision.png",
+        "imgName": "Night_Vision.png",
+        "slug": "Night_Vision",
+        "name": "Night Vision",
+        "desc": "Fire a special bullet every ten shots, causing greater damage to the enemy.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e9/Nightmare_Mask.png",
+        "imgName": "Nightmare_Mask.png",
+        "slug": "Nightmare_Mask",
+        "name": "Nightmare Mask",
+        "desc": "You will get a evil sprite when you get hurt.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/46/Ninja_Costume.png",
+        "imgName": "Ninja_Costume.png",
+        "slug": "Ninja_Costume",
+        "name": "Ninja Costume",
+        "desc": "No one will ever see you coming. You can make an extra jump. Increase your melee damage.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/da/Nougat.png",
+        "imgName": "Nougat.png",
+        "slug": "Nougat",
+        "name": "Nougat",
+        "desc": "Every time your pet evolves, you'll drop a key.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/58/Onion_Helmet.png",
+        "imgName": "Onion_Helmet.png",
+        "slug": "Onion_Helmet",
+        "name": "Onion Helmet",
+        "desc": "You get a temporary protective shell per room.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f4/Ordinary_Gloves.png",
+        "imgName": "Ordinary_Gloves.png",
+        "slug": "Ordinary_Gloves",
+        "name": "Ordinary Gloves",
+        "desc": "100 push-ups, 100 sit-ups, 10km every day... your melee damage has skyrocketed!",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a6/Owl_Headdress.png",
+        "imgName": "Owl_Headdress.png",
+        "slug": "Owl_Headdress",
+        "name": "Owl Headdress",
+        "desc": "Gain an extra egg with each Jump Mark, but they will disappear once you land.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Pain_Drop.png",
+        "imgName": "Pain_Drop.png",
+        "slug": "Pain_Drop",
+        "name": "Pain Drop",
+        "desc": "Fight through the pain. Let it give you strength. Increase you weapon damage and rate of fire.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a0/Paper_Crane.png",
+        "imgName": "Paper_Crane.png",
+        "slug": "Paper_Crane",
+        "name": "Paper Crane",
+        "desc": "[Characteristics] R-6 can use only shields, as he can't have any heart containers. Also, he can preview the description of items without picking them up.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/39/Paper_Plane.png",
+        "imgName": "Paper_Plane.png",
+        "slug": "Paper_Plane",
+        "name": "Paper Plane",
+        "desc": "Let it catch the breeze... Increase your weapon’s range and damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Paper_Windmills.png",
+        "imgName": "Paper_Windmills.png",
+        "slug": "Paper_Windmills",
+        "name": "Paper Windmills",
+        "desc": "Exhale as you pull the trigger to give your bullets a bit more oomph. Increase your rate of fire and weapon damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Party_Popper.png",
+        "imgName": "Party_Popper.png",
+        "slug": "Party_Popper",
+        "name": "Party Popper",
+        "desc": "Launches colorful bullets after your bomb explodes.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Pegasus.png",
+        "imgName": "Pegasus.png",
+        "slug": "Pegasus",
+        "name": "Pegasus",
+        "desc": "You feel strong, feathery wings at your back. Flap them and lift into the air!",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Pen_No._7.png",
+        "imgName": "Pen_No._7.png",
+        "slug": "Pen_No._7",
+        "name": "Pen No. 7",
+        "desc": "You can use keys as bombs when you don't have any bombs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/53/Pepper_Soup.png",
+        "imgName": "Pepper_Soup.png",
+        "slug": "Pepper_Soup",
+        "name": "Pepper Soup",
+        "desc": "It'll bring tears to your eyes! ...Why, because it's so tasty, of course! Add a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d8/Persian_Turban.png",
+        "imgName": "Persian_Turban.png",
+        "slug": "Persian_Turban",
+        "name": "Persian Turban",
+        "desc": "The beautiful gem in this turban functions as a number of crystal containers.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3a/Ping_Pong.png",
+        "imgName": "Ping_Pong.png",
+        "slug": "Ping_Pong",
+        "name": "Ping Pong",
+        "desc": "There's a chance you'll fire a bouncy bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d1/Pink_Dart.png",
+        "imgName": "Pink_Dart.png",
+        "slug": "Pink_Dart",
+        "name": "Pink Dart",
+        "desc": "Let the feathered tip wing you on your way to victory. Increase your weapon's range and rate of fire.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Plague_Mask.png",
+        "imgName": "Plague_Mask.png",
+        "slug": "Plague_Mask",
+        "name": "Plague Mask",
+        "desc": "You have a chance of recovering half a heart each time you kill an enemy.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/14/Plan_B.png",
+        "imgName": "Plan_B.png",
+        "slug": "Plan_B",
+        "name": "Plan B",
+        "desc": "Keys are not the only answer! You have a chance to unlock chests or doors with explosions.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e2/Player_Zero_Ready.png",
+        "imgName": "Player_Zero_Ready.png",
+        "slug": "Player_Zero_Ready",
+        "name": "Player Zero Ready",
+        "desc": "Don't let up! The more enemies you hit without stopping, the more weapon damage you'll do.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d7/Police_Badge.png",
+        "imgName": "Police_Badge.png",
+        "slug": "Police_Badge",
+        "name": "Police Badge",
+        "desc": "They have the right to remain silent... Add extra bullets per shot and increase your bullet velocity.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/85/Popcorn.png",
+        "imgName": "Popcorn.png",
+        "slug": "Popcorn",
+        "name": "Popcorn",
+        "desc": "All your bullets will explode on impact or after they travel a certain distance. Enjoy the show.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d0/Popping_Candy.png",
+        "imgName": "Popping_Candy.png",
+        "slug": "Popping_Candy",
+        "name": "Popping Candy",
+        "desc": "When you have the max number of Angry Sprites, gain an extra jump.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2f/Power_Diamond.png",
+        "imgName": "Power_Diamond.png",
+        "slug": "Power_Diamond",
+        "name": "Power Diamond",
+        "desc": "ABSOLUTE POWER! Upgrade your weapon, increase both your melee and weapon damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/af/Power_Helmet.png",
+        "imgName": "Power_Helmet.png",
+        "slug": "Power_Helmet",
+        "name": "Power Helmet",
+        "desc": "If you get hurt in this room, a ring of lightning will surround you and damage nearby enemies.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/89/Prophet_Chip.png",
+        "imgName": "Prophet_Chip.png",
+        "slug": "Prophet_Chip",
+        "name": "Prophet Chip",
+        "desc": "Kill enough enemies, and you'll drop extra shields.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3d/Protein_Powder.png",
+        "imgName": "Protein_Powder.png",
+        "slug": "Protein_Powder",
+        "name": "Protein Powder",
+        "desc": "The more eggs you have, the further you can shoot.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/94/Pumpkinhead.png",
+        "imgName": "Pumpkinhead.png",
+        "slug": "Pumpkinhead",
+        "name": "Pumpkinhead",
+        "desc": "When you get hurt, you will explode. Anyone who survives might learn a lesson.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e1/Quantum_Core.png",
+        "imgName": "Quantum_Core.png",
+        "slug": "Quantum_Core",
+        "name": "Quantum Core",
+        "desc": "Increase your gun's damage and add shields. An incredible source of power. You've no idea how it works. Strings, maybe?",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d3/Rainbow_Candy.png",
+        "imgName": "Rainbow_Candy.png",
+        "slug": "Rainbow_Candy",
+        "name": "Rainbow Candy",
+        "desc": "Every time your pet evolves, you'll get a gift.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9d/Rainforest_Souvenir.png",
+        "imgName": "Rainforest_Souvenir.png",
+        "slug": "Rainforest_Souvenir",
+        "name": "Rainforest Souvenir",
+        "desc": "Kill enough enemies, and you'll drop extra eggs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Rattling_Will.png",
+        "imgName": "Rattling_Will.png",
+        "slug": "Rattling_Will",
+        "name": "Rattling Will",
+        "desc": "Angry Sprites explode when they die.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cc/Ready_Aim_Eye.png",
+        "imgName": "Ready_Aim_Eye.png",
+        "slug": "Ready_Aim_Eye",
+        "name": "Ready Aim Eye",
+        "desc": "Each time an enemy is killed in this room, your eye gets sharper, increasing your weapon attack speed.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/eb/Red_Controller.png",
+        "imgName": "Red_Controller.png",
+        "slug": "Red_Controller",
+        "name": "Red Controller",
+        "desc": "Angry Sprites become immortal upon entering battle, which then disappear at the end of the battle.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/12/Red_Flag.png",
+        "imgName": "Red_Flag.png",
+        "slug": "Red_Flag",
+        "name": "Red Flag",
+        "desc": "Instead of throwing a bomb, place a mine on the ground.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8a/Red_Hat.png",
+        "imgName": "Red_Hat.png",
+        "slug": "Red_Hat",
+        "name": "Red Hat",
+        "desc": "Your jumping can cause damage to enemies. Where is the princess?",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c8/Ritual_Mask.png",
+        "imgName": "Ritual_Mask.png",
+        "slug": "Ritual_Mask",
+        "name": "Ritual Mask",
+        "desc": "Add a crystal container. You can recover hearts when a certain amount of crystals are used.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e0/Robot_Armor.png",
+        "imgName": "Robot_Armor.png",
+        "slug": "Robot_Armor",
+        "name": "Robot Armor",
+        "desc": "You have a chance to drop extra shields when you get hurt.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/48/Rocket_Mod.png",
+        "imgName": "Rocket_Mod.png",
+        "slug": "Rocket_Mod",
+        "name": "Rocket Mod",
+        "desc": "There's a chance you'll fire a heat-seeking rocket.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cf/Rogue%27s_Badge.png",
+        "imgName": "Rogue%27s_Badge.png",
+        "slug": "Rogue%27s_Badge",
+        "name": "Rogue's Badge",
+        "desc": "While in this room, each time you pick something up, your movement speed and jump height will increase.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4c/Roly-Poly_Toy.png",
+        "imgName": "Roly-Poly_Toy.png",
+        "slug": "Roly-Poly_Toy",
+        "name": "Roly-Poly Toy",
+        "desc": "You will drop an extra bomb if you hatch an empty egg.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Royal_Antlers.png",
+        "imgName": "Royal_Antlers.png",
+        "slug": "Royal_Antlers",
+        "name": "Royal Antlers",
+        "desc": "Increase your movement speed. You'll drop extra coins when you use keys.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/96/Ruby_Earrings.png",
+        "imgName": "Ruby_Earrings.png",
+        "slug": "Ruby_Earrings",
+        "name": "Ruby Earrings",
+        "desc": "Every time you pick up a coin, there's a chance you'll get extra hearts.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Running_Shoes.png",
+        "imgName": "Running_Shoes.png",
+        "slug": "Running_Shoes",
+        "name": "Running Shoes",
+        "desc": "The sweet sneakers will increase your movement speed. Gotta go fast.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/45/Rusty_Antenna.png",
+        "imgName": "Rusty_Antenna.png",
+        "slug": "Rusty_Antenna",
+        "name": "Rusty Antenna",
+        "desc": "When you enter battle without full HP, generates Thunder beside you.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/87/Rusty_Key.png",
+        "imgName": "Rusty_Key.png",
+        "slug": "Rusty_Key",
+        "name": "Rusty Key",
+        "desc": "Every time you use a key, there's a chance you'll drop an extra bomb or an instant bomb.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Sacred_Tears.png",
+        "imgName": "Sacred_Tears.png",
+        "slug": "Sacred_Tears",
+        "name": "Sacred Tears",
+        "desc": "You have a chance to get a protective shell each time you kill an enemy.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d0/Samurai%27s_Soul.png",
+        "imgName": "Samurai%27s_Soul.png",
+        "slug": "Samurai%27s_Soul",
+        "name": "Samurai's Soul",
+        "desc": "There's a chance you'll fire a big bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Sapper_Backpack.png",
+        "imgName": "Sapper_Backpack.png",
+        "slug": "Sapper_Backpack",
+        "name": "Sapper Backpack",
+        "desc": "All your explosions are bigger, brighter, and better.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/40/Sapphire_Ring.png",
+        "imgName": "Sapphire_Ring.png",
+        "slug": "Sapphire_Ring",
+        "name": "Sapphire Ring",
+        "desc": "Every time you pick up a coin, there's a chance you'll get extra shields.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Sashimi_Sushi.png",
+        "imgName": "Sashimi_Sushi.png",
+        "slug": "Sashimi_Sushi",
+        "name": "Sashimi Sushi",
+        "desc": "Sorry, I don't speak Sushi. Add a heart container.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8c/Saturn_Lollipop.png",
+        "imgName": "Saturn_Lollipop.png",
+        "slug": "Saturn_Lollipop",
+        "name": "Saturn Lollipop",
+        "desc": "The more eggs you have, the faster you can shoot.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7e/Savage_Bean.png",
+        "imgName": "Savage_Bean.png",
+        "slug": "Savage_Bean",
+        "name": "Savage Bean",
+        "desc": "Angry Sprites become bigger and move slower, but they can block bullets.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ac/Scarlet_Hourglass.png",
+        "imgName": "Scarlet_Hourglass.png",
+        "slug": "Scarlet_Hourglass",
+        "name": "Scarlet Hourglass",
+        "desc": "Generates an Angry Sprite when near death mid-battle.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Scarlet_Tale.png",
+        "imgName": "Scarlet_Tale.png",
+        "slug": "Scarlet_Tale",
+        "name": "Scarlet Tale",
+        "desc": "Increase your rate of fire if you get hurt while in this room.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/eb/Schr%C3%B6dinger%27s_Bet.png",
+        "imgName": "Schr%C3%B6dinger%27s_Bet.png",
+        "slug": "Schr%C3%B6dinger%27s_Bet",
+        "name": "Schrödinger's Bet",
+        "desc": "Are you dead or are you alive? You won't know until you die and wake up... and there's a chance you might.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Science_Awards.png",
+        "imgName": "Science_Awards.png",
+        "slug": "Science_Awards",
+        "name": "Science Awards",
+        "desc": "Enemies will explode when they touch any Jump Mark.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/03/Screaming_Soda.png",
+        "imgName": "Screaming_Soda.png",
+        "slug": "Screaming_Soda",
+        "name": "Screaming Soda",
+        "desc": "Chance to spawn an Angry Sprite with an explosion.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1d/Screwdriver.png",
+        "imgName": "Screwdriver.png",
+        "slug": "Screwdriver",
+        "name": "Screwdriver",
+        "desc": "Kill enough enemies, and you'll drop extra keys.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/68/Seals_Patch.png",
+        "imgName": "Seals_Patch.png",
+        "slug": "Seals_Patch",
+        "name": "Seals Patch",
+        "desc": "You've worked for this. Upgrade your weapon. Increase your movement speed.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4b/Seed_of_Stone.png",
+        "imgName": "Seed_of_Stone.png",
+        "slug": "Seed_of_Stone",
+        "name": "Seed of Stone",
+        "desc": "Your bullet will create a platform on the wall.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/93/Serpent_Staff.png",
+        "imgName": "Serpent_Staff.png",
+        "slug": "Serpent_Staff",
+        "name": "Serpent Staff",
+        "desc": "When you use crystals, the same number of Angry Sprites will spawn.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4a/Shadow_Blade.png",
+        "imgName": "Shadow_Blade.png",
+        "slug": "Shadow_Blade",
+        "name": "Shadow Blade",
+        "desc": "Nothing is True. Everything is Permitted. Do more weapon damage when you attack from behind.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Shadow_Operation.png",
+        "imgName": "Shadow_Operation.png",
+        "slug": "Shadow_Operation",
+        "name": "Shadow Operation",
+        "desc": "They'll never see you coming. Increase your weapon's range and your movement speed.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a3/Shaman_Mask.png",
+        "imgName": "Shaman_Mask.png",
+        "slug": "Shaman_Mask",
+        "name": "Shaman Mask",
+        "desc": "After you activate all the Portal Stones, you'll get some eggs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fa/Shark_Bait.png",
+        "imgName": "Shark_Bait.png",
+        "slug": "Shark_Bait",
+        "name": "Shark Bait",
+        "desc": "You can use eggs as bombs when you don't have any bombs.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Shroud.png",
+        "imgName": "Shroud.png",
+        "slug": "Shroud",
+        "name": "Shroud",
+        "desc": "Add a crystal container. You can get crystals after killing enemies.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cc/Silly_Frog.png",
+        "imgName": "Silly_Frog.png",
+        "slug": "Silly_Frog",
+        "name": "Silly Frog",
+        "desc": "You wouldn't wear them if they weren't useful, and these let you make an extra jump.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c9/Silver_Brooch.png",
+        "imgName": "Silver_Brooch.png",
+        "slug": "Silver_Brooch",
+        "name": "Silver Brooch",
+        "desc": "Every time you pick up a coin, there's a chance you'll get extra keys.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a1/Silver_Compass.png",
+        "imgName": "Silver_Compass.png",
+        "slug": "Silver_Compass",
+        "name": "Silver Compass",
+        "desc": "Reveal the truth. Show all rooms on your map.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Slayer_of_Demons.png",
+        "imgName": "Slayer_of_Demons.png",
+        "slug": "Slayer_of_Demons",
+        "name": "Slayer of Demons",
+        "desc": "Kill enough enemies, and you'll get crystals.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3f/Slingshot.png",
+        "imgName": "Slingshot.png",
+        "slug": "Slingshot",
+        "name": "Slingshot",
+        "desc": "Pull back... Exhale slowly... Let go! TWANG! Add extra bullets per shot and increase your weapon's range.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fc/Smiley_Bomb.png",
+        "imgName": "Smiley_Bomb.png",
+        "slug": "Smiley_Bomb",
+        "name": "Smiley Bomb",
+        "desc": "Your bomb will clear a certain area of bullets.",
+        "itemSet": {
+            "name": "Will_of_Steel_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Will_of_Steel_Icon.png",
+            "slug": "Will_of_Steel_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/60/Smithing_Hammer.png",
+        "imgName": "Smithing_Hammer.png",
+        "slug": "Smithing_Hammer",
+        "name": "Smithing Hammer",
+        "desc": "Clang. Clang. Clang. Upgrade your weapon. Increase your weapon damage.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c5/Snack_Box.png",
+        "imgName": "Snack_Box.png",
+        "slug": "Snack_Box",
+        "name": "Snack Box",
+        "desc": "Eggs will hatch random pickups instead of pets.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b7/Snow_Globe.png",
+        "imgName": "Snow_Globe.png",
+        "slug": "Snow_Globe",
+        "name": "Snow Globe",
+        "desc": "There's a chance you'll fire an ice bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/22/Soldier_Mask.png",
+        "imgName": "Soldier_Mask.png",
+        "slug": "Soldier_Mask",
+        "name": "Soldier Mask",
+        "desc": "Peekaboo! I see you! There's a chance your bullets will track enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/dc/Soul_Flask.png",
+        "imgName": "Soul_Flask.png",
+        "slug": "Soul_Flask",
+        "name": "Soul Flask",
+        "desc": "You hear whispers within the bottle... Add a heart container and recover some hearts.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1c/Space_Helmet.png",
+        "imgName": "Space_Helmet.png",
+        "slug": "Space_Helmet",
+        "name": "Space Helmet",
+        "desc": "To infinity... Increase your jump height.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Space_Soda.png",
+        "imgName": "Space_Soda.png",
+        "slug": "Space_Soda",
+        "name": "Space Soda",
+        "desc": "Atomized Cola, drink of the space age! Add a heart container and increase your weapon damage slightly.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0d/Space_Spanner.png",
+        "imgName": "Space_Spanner.png",
+        "slug": "Space_Spanner",
+        "name": "Space Spanner",
+        "desc": "Each time you kill an enemy with melee damage, there's a chance to get a key.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2e/Spartan_Lineage.png",
+        "imgName": "Spartan_Lineage.png",
+        "slug": "Spartan_Lineage",
+        "name": "Spartan Lineage",
+        "desc": "The fewer hearts you have, the more damage your weapon does. SPARTAN!!!",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Spear_of_Destiny.png",
+        "imgName": "Spear_of_Destiny.png",
+        "slug": "Spear_of_Destiny",
+        "name": "Spear of Destiny",
+        "desc": "Sometimes, the Fates just want someone dead. Increase your melee range.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Sphygmomanometer.png",
+        "imgName": "Sphygmomanometer.png",
+        "slug": "Sphygmomanometer",
+        "name": "Sphygmomanometer",
+        "desc": "Angry Sprites become super-sized when you have no hearts.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ef/Spicy_Candy.png",
+        "imgName": "Spicy_Candy.png",
+        "slug": "Spicy_Candy",
+        "name": "Spicy Candy",
+        "desc": "Spawns a ring of Angry Sprites when your pet levels up.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/cd/Spider_Carton.png",
+        "imgName": "Spider_Carton.png",
+        "slug": "Spider_Carton",
+        "name": "Spider Carton",
+        "desc": "When Angry Sprite dies, it has a chance of dropping a flying heart or a flying shield.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c3/Stark_Module.png",
+        "imgName": "Stark_Module.png",
+        "slug": "Stark_Module",
+        "name": "Stark Module",
+        "desc": "Increase your weapon damage and bullet velocity. Stark Brilliance(TM). (Stark is not responsible for any loss of limbs)[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2d/Steel_Gear.png",
+        "imgName": "Steel_Gear.png",
+        "slug": "Steel_Gear",
+        "name": "Steel Gear",
+        "desc": "The more keys you have, the faster your weapon shoots.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Strange_Mask.png",
+        "imgName": "Strange_Mask.png",
+        "slug": "Strange_Mask",
+        "name": "Strange Mask",
+        "desc": "Ssssssomebody stop me! Add extra bullets per shot and a shield.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/56/Strawberry_Candy.png",
+        "imgName": "Strawberry_Candy.png",
+        "slug": "Strawberry_Candy",
+        "name": "Strawberry Candy",
+        "desc": "The more pets you have, the more bullets your fire.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e2/Strength_Badge.png",
+        "imgName": "Strength_Badge.png",
+        "slug": "Strength_Badge",
+        "name": "Strength Badge",
+        "desc": "Increase gun damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/68/Sturdy_Shield.png",
+        "imgName": "Sturdy_Shield.png",
+        "slug": "Sturdy_Shield",
+        "name": "Sturdy Shield",
+        "desc": "You've never felt stronger. Or better-looking. Add shields. Some attacks will deal no damage to you.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Super_Logo.png",
+        "imgName": "Super_Logo.png",
+        "slug": "Super_Logo",
+        "name": "Super Logo",
+        "desc": "You're at the top of your game. Upgrade your weapon. Increase your jump height and movement speed slightly.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/42/Szechuan_Cat_Food.png",
+        "imgName": "Szechuan_Cat_Food.png",
+        "slug": "Szechuan_Cat_Food",
+        "name": "Szechuan Cat Food",
+        "desc": "On failure to hatch, spawn an Angry Sprite.",
+        "itemSet": {
+            "name": "Lord_of_Anger_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Lord_of_Anger_Icon.png",
+            "slug": "Lord_of_Anger_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6f/Szechuan_Sauce.png",
+        "imgName": "Szechuan_Sauce.png",
+        "slug": "Szechuan_Sauce",
+        "name": "Szechuan Sauce",
+        "desc": "There's a chance you'll fire a flame bullet.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/77/Tanghulu.png",
+        "imgName": "Tanghulu.png",
+        "slug": "Tanghulu",
+        "name": "Tanghulu",
+        "desc": "A stick of candied hawthorn. Add a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Telescopic_Sight.png",
+        "imgName": "Telescopic_Sight.png",
+        "slug": "Telescopic_Sight",
+        "name": "Telescopic Sight",
+        "desc": "Increase your weapon's range. Also increase your jump height.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ac/Tesla_Coil.png",
+        "imgName": "Tesla_Coil.png",
+        "slug": "Tesla_Coil",
+        "name": "Tesla Coil",
+        "desc": "A ring of lightning will surround you and damage nearby enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/The_Crowbar.png",
+        "imgName": "The_Crowbar.png",
+        "slug": "The_Crowbar",
+        "name": "The Crowbar",
+        "desc": "Your favorite weapon! Increase your melee attack damage.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/24/The_Towel.png",
+        "imgName": "The_Towel.png",
+        "slug": "The_Towel",
+        "name": "The Towel",
+        "desc": "DON'T PANIC! You'll only lose a maximum of half a shield when you get hurt.",
+        "itemSet": {
+            "name": "Immortal_Soul_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Immortal_Soul_Icon.png",
+            "slug": "Immortal_Soul_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b5/Thunder_Engine.png",
+        "imgName": "Thunder_Engine.png",
+        "slug": "Thunder_Engine",
+        "name": "Thunder Engine",
+        "desc": "The more shields you have, the faster you fire.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Tobe_Beef.png",
+        "imgName": "Tobe_Beef.png",
+        "slug": "Tobe_Beef",
+        "name": "Tobe Beef",
+        "desc": "The best beef EVER. Add a heart container.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b8/Toffee_Apple.png",
+        "imgName": "Toffee_Apple.png",
+        "slug": "Toffee_Apple",
+        "name": "Toffee Apple",
+        "desc": "Every time your pet evolves, you'll drop half a heart.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ad/Toilet-Plunger.png",
+        "imgName": "Toilet-Plunger.png",
+        "slug": "Toilet-Plunger",
+        "name": "Toilet-Plunger",
+        "desc": "When picking up an item, there is a chance of getting an Angry Sprite.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/92/Toy_Home_Run_Bat.png",
+        "imgName": "Toy_Home_Run_Bat.png",
+        "slug": "Toy_Home_Run_Bat",
+        "name": "Toy Home Run Bat",
+        "desc": "The more eggs you have, the more melee range you have.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/04/Traveler_Hood.png",
+        "imgName": "Traveler_Hood.png",
+        "slug": "Traveler_Hood",
+        "name": "Traveler Hood",
+        "desc": "Travel farther than ever before. You can make an extra jump.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/25/Treasure_Map.png",
+        "imgName": "Treasure_Map.png",
+        "slug": "Treasure_Map",
+        "name": "Treasure Map",
+        "desc": "Mark all hidden rooms on your map. You can see a faint signature on the back - Captain Jack S....?",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2f/Turtle_Hat.png",
+        "imgName": "Turtle_Hat.png",
+        "slug": "Turtle_Hat",
+        "name": "Turtle Hat",
+        "desc": "There's a chance that you'll block damage taken from behind.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0c/Unknown_Mask.png",
+        "imgName": "Unknown_Mask.png",
+        "slug": "Unknown_Mask",
+        "name": "Unknown Mask",
+        "desc": "An extravagant crystal mask. It can be used as a crystal container and adds a shield - because no one wants to hit it.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/06/Used_Band-Aids.png",
+        "imgName": "Used_Band-Aids.png",
+        "slug": "Used_Band-Aids",
+        "name": "Used Band-Aids",
+        "desc": "Spawns Angry Sprites when you get hurt (based on number of hearts lost).",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c1/Useless_Item.png",
+        "imgName": "Useless_Item.png",
+        "slug": "Useless_Item",
+        "name": "Useless Item",
+        "desc": "This item is useless. Maybe there's some way you can make it useful?",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/58/V.O._Field.png",
+        "imgName": "V.O._Field.png",
+        "slug": "V.O._Field",
+        "name": "V.O. Field",
+        "desc": "If you're down to half a heart, you'll immediately drop a shield.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/15/Vanilla_Ice_Cream.png",
+        "imgName": "Vanilla_Ice_Cream.png",
+        "slug": "Vanilla_Ice_Cream",
+        "name": "Vanilla Ice Cream",
+        "desc": "The more eggs you have, the more damage your bullets do.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2d/Virtual_Assistant.png",
+        "imgName": "Virtual_Assistant.png",
+        "slug": "Virtual_Assistant",
+        "name": "Virtual Assistant",
+        "desc": "When you lose a shield, there's a chance you'll get a guardian sprite.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d5/Void_Coin.png",
+        "imgName": "Void_Coin.png",
+        "slug": "Void_Coin",
+        "name": "Void Coin",
+        "desc": "There's a hole in the world... in your soul. Increase your weapon damage and rate of fire.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Wade_Tech.png",
+        "imgName": "Wade_Tech.png",
+        "slug": "Wade_Tech",
+        "name": "Wade Tech",
+        "desc": "It looks easy enough to install... Upgrade your weapon. Increase your rate of fire.[Note: May be removed since v1.4.5]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5d/War_Hammer.png",
+        "imgName": "War_Hammer.png",
+        "slug": "War_Hammer",
+        "name": "War Hammer",
+        "desc": "Each time you kill an enemy with melee damage, there's a chance a mine will drop.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/49/Weapon_Badge.png",
+        "imgName": "Weapon_Badge.png",
+        "slug": "Weapon_Badge",
+        "name": "Weapon Badge",
+        "desc": "Increase gun level.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/64/Welding_Mask.png",
+        "imgName": "Welding_Mask.png",
+        "slug": "Welding_Mask",
+        "name": "Welding Mask",
+        "desc": "You have a chance to drop extra keys when you get hurt by an explosion.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9f/Whetstone.png",
+        "imgName": "Whetstone.png",
+        "slug": "Whetstone",
+        "name": "Whetstone",
+        "desc": "While in this room, the more times you use your melee attack, the more damage it does.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e7/Winged_Hat.png",
+        "imgName": "Winged_Hat.png",
+        "slug": "Winged_Hat",
+        "name": "Winged Hat",
+        "desc": "The little wings are so darn cute. And they let you make an extra jump.",
+        "itemSet": {
+            "name": "Party_Time_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3e/Party_Time_Icon.png",
+            "slug": "Party_Time_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/dc/Wings_of_Wisdom.png",
+        "imgName": "Wings_of_Wisdom.png",
+        "slug": "Wings_of_Wisdom",
+        "name": "Wings of Wisdom",
+        "desc": "[Note: This is actually a Pickup which gives you the ability to fly. It can be obtained in the Athena/Cursed Athena boss room.]",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/23/Wizard_Sword.png",
+        "imgName": "Wizard_Sword.png",
+        "slug": "Wizard_Sword",
+        "name": "Wizard Sword",
+        "desc": "Each time you kill an enemy with melee damage, there's a chance you'll receive extra crystals.",
+        "itemSet": {
+            "name": "Whisper_of_Chaos_Icon.png",
+            "url": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/20/Whisper_of_Chaos_Icon.png",
+            "slug": "Whisper_of_Chaos_Icon"
+        },
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Worst_Blowing_Gum.png",
+        "imgName": "Worst_Blowing_Gum.png",
+        "slug": "Worst_Blowing_Gum",
+        "name": "Worst Blowing Gum",
+        "desc": "The more pets you have, the more times you can jump.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/d2/X-Ray.png",
+        "imgName": "X-Ray.png",
+        "slug": "X-Ray",
+        "name": "X-Ray",
+        "desc": "Your bullets can pass through enemies.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f0/Faith_Coin_Ares.png",
+        "imgName": "Faith_Coin_Ares.png",
+        "slug": "Faith_Coin_Ares",
+        "name": "Faith Coin (Ares Token)",
+        "desc": "Found in the Temple of Violence. Will enable the player to enter Floor 8 to encounter Ares there.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c9/Faith_Coin_Athena.png",
+        "imgName": "Faith_Coin_Athena.png",
+        "slug": "Faith_Coin_Athena",
+        "name": "Faith Coin (Athena Token)",
+        "desc": "Found in the Temple of Wisdom. Will enable the player to enter Floor 8 to encounter Athena there.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/13/Ticket-1.png",
+        "imgName": "Ticket-1.png",
+        "slug": "Ticket-1",
+        "name": "Ticket-1",
+        "desc": "Brings the player to the \"Level-?\" floor after the current floor.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b6/Ticket-2.png",
+        "imgName": "Ticket-2.png",
+        "slug": "Ticket-2",
+        "name": "Ticket-2",
+        "desc": "Brings the player to the \"Level-?\" floor after the current floor.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/d/db/Ticket-3.png",
+        "imgName": "Ticket-3.png",
+        "slug": "Ticket-3",
+        "name": "Ticket-3",
+        "desc": "Brings the player to the \"Level-?\" floor after the current floor.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f5/Ticket-4.png",
+        "imgName": "Ticket-4.png",
+        "slug": "Ticket-4",
+        "name": "Ticket-4",
+        "desc": "Brings the player to the \"Level-?\" floor after the current floor.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/08/Ticket-5.png",
+        "imgName": "Ticket-5.png",
+        "slug": "Ticket-5",
+        "name": "Ticket-5",
+        "desc": "Brings the player to the \"Level-?\" floor after the current floor.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0f/Ticket-6.png",
+        "imgName": "Ticket-6.png",
+        "slug": "Ticket-6",
+        "name": "Ticket-6",
+        "desc": "Brings the player to the \"Level-?\" floor after the current floor.",
+        "itemSet": null,
+        "type": "item"
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/7/7a/Chaos_Ticket.png",
+        "imgName": "Chaos_Ticket.png",
+        "slug": "Chaos_Ticket",
+        "name": "Chaos Ticket",
+        "desc": "Brings the player to the \"Level-?\" floor after the current floor.",
+        "itemSet": null,
+        "type": "item"
+    }
+]

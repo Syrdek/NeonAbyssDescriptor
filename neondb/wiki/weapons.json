@@ -1,0 +1,1142 @@
+[
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f1/Airgun.png",
+        "imgName": "Airgun.png",
+        "slug": "Airgun",
+        "name": "Airgun",
+        "desc": "It's so light, it's as if it doesn't exist.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Invisible Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Feather Bookmark"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c9/Animosity.png",
+        "imgName": "Animosity.png",
+        "slug": "Animosity",
+        "name": "Animosity",
+        "desc": "Charge up to shoot angry sprites.",
+        "type": "weapon",
+        "fire-mode": "Full Auto + Charge",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Light Diamond"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Military Toolbox"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/28/Black_Widow.png",
+        "imgName": "Black_Widow.png",
+        "slug": "Black_Widow",
+        "name": "Black Widow",
+        "desc": "Hold your breath",
+        "type": "weapon",
+        "fire-mode": "Burst",
+        "atk": "Laser Beams",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wool Ball"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/55/Black_Raven.png",
+        "imgName": "Black_Raven.png",
+        "slug": "Black_Raven",
+        "name": "Black Raven",
+        "desc": "The wisper in the dark...",
+        "type": "weapon",
+        "fire-mode": "Burst",
+        "atk": "Laser Beams",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wrong Formula"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/45/Butterfly_Blade.png",
+        "imgName": "Butterfly_Blade.png",
+        "slug": "Butterfly_Blade",
+        "name": "Butterfly Blade",
+        "desc": "A welcomed and gorgeous wither.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Sword",
+        "passive": "This weapon deals melee damage.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Guardian Light"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9d/Daydream.png",
+        "imgName": "Daydream.png",
+        "slug": "Daydream",
+        "name": "Daydream",
+        "desc": "zzzzZZZZZ.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Stopwatch"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Death_Ray.png",
+        "imgName": "Death_Ray.png",
+        "slug": "Death_Ray",
+        "name": "Death Ray",
+        "desc": "Gaze from the Abyss",
+        "type": "weapon",
+        "fire-mode": "Charge",
+        "atk": "Laser Beam",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "The Gavel"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wave Particle Duality"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1f/Destiny.png",
+        "imgName": "Destiny.png",
+        "slug": "Destiny",
+        "name": "Destiny",
+        "desc": "It's up to you... or fate.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Golden Chip"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3a/Destroyer.png",
+        "imgName": "Destroyer.png",
+        "slug": "Destroyer",
+        "name": "Destroyer",
+        "desc": "Scream from hell.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser Beams",
+        "passive": "Chance to get an angry sprite each time you kill an enemy.",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ef/Famine.png",
+        "imgName": "Famine.png",
+        "slug": "Famine",
+        "name": "Famine",
+        "desc": "Face your fear.",
+        "type": "weapon",
+        "fire-mode": "Burst",
+        "atk": "Tracking Laser Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Adrenaline"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Virtual Pet"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wooden Horse"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ab/Firekiss.png",
+        "imgName": "Firekiss.png",
+        "slug": "Firekiss",
+        "name": "Firekiss",
+        "desc": "You know nothing.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "The more hearts you have, the more bullets you can fire.",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/Forge.png",
+        "imgName": "Forge.png",
+        "slug": "Forge",
+        "name": "Forge",
+        "desc": "Patience is also a weapon.",
+        "type": "weapon",
+        "fire-mode": "Charge",
+        "atk": "Laser Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Canned Spinach"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a6/Frostfire.png",
+        "imgName": "Frostfire.png",
+        "slug": "Frostfire",
+        "name": "Frostfire",
+        "desc": "Fear and Trembling! Charge and throw a frost bomb.",
+        "type": "weapon",
+        "fire-mode": "Charge",
+        "atk": "Frost Bombs",
+        "passive": "-",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ef/Giant_Beast.png",
+        "imgName": "Giant_Beast.png",
+        "slug": "Giant_Beast",
+        "name": "Giant Beast",
+        "desc": "You must like this! But use it... cautiously.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Rockets",
+        "passive": "-",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/5c/Golden_Ripple.png",
+        "imgName": "Golden_Ripple.png",
+        "slug": "Golden_Ripple",
+        "name": "Golden Ripple",
+        "desc": "A white lie.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "When your bullets hit a coin, it may double, or disappear.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Scroll of Alchemy"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Golden_Sam.png",
+        "imgName": "Golden_Sam.png",
+        "slug": "Golden_Sam",
+        "name": "Golden Sam",
+        "desc": "Power is more important than precision.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Red Envelope"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fd/Golden_Spirit.png",
+        "imgName": "Golden_Spirit.png",
+        "slug": "Golden_Spirit",
+        "name": "Golden Spirit",
+        "desc": "Humanity's song is one of courage!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Punch",
+        "passive": "This weapon deals melee damage.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Ola! Ola! Ola!"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fd/Guardian.png",
+        "imgName": "Guardian.png",
+        "slug": "Guardian",
+        "name": "Guardian",
+        "desc": "Good night, sleep tight.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Spiraling Laser Bullets",
+        "passive": "You have a chance to get a guardian sprite each time you kill an enemy.",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/52/Hawkeye.png",
+        "imgName": "Hawkeye.png",
+        "slug": "Hawkeye",
+        "name": "Hawkeye",
+        "desc": "I'm watching you!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "Enemies hit by this gun will be marked.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Voodoo Doll"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c7/Jimmy.png",
+        "imgName": "Jimmy.png",
+        "slug": "Jimmy",
+        "name": "Jimmy",
+        "desc": "There are fish bones all over the place.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Fishbones",
+        "passive": "When your bullets hit a coin, it may double, or disappear.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Scroll of Alchemy"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b0/Judgement.png",
+        "imgName": "Judgement.png",
+        "slug": "Judgement",
+        "name": "Judgment",
+        "desc": "Justice will be dispenced in 3...2...",
+        "type": "weapon",
+        "fire-mode": "Full Auto + Charge",
+        "atk": "Laser Bullets + Laser Beam",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Virus Program"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills",
+                "name": "Backup Supply"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f9/Keygun.png",
+        "imgName": "Keygun.png",
+        "slug": "Keygun",
+        "name": "Keygun",
+        "desc": "After recharging, launches a golden key. It can open all locks.",
+        "type": "weapon",
+        "fire-mode": "Full Auto + Charge",
+        "atk": "Bullets",
+        "passive": "When charged up, the shot released will pierce through all enemies and walls and open locked doors and chests.",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/80/Light_Dancer.png",
+        "imgName": "Light_Dancer.png",
+        "slug": "Light_Dancer",
+        "name": "Light Dancer",
+        "desc": "Dancing on the battlefield",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Rotating Laser Beam",
+        "passive": "This weapon deals melee damage.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Fire Extinguisher"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Light Diamond"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wonderful Lamp"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9a/Lullaby.png",
+        "imgName": "Lullaby.png",
+        "slug": "Lullaby",
+        "name": "Lullaby",
+        "desc": "Good night, sleep tight.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Spiraling Laser Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Virtual Pet"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/84/Matrix.png",
+        "imgName": "Matrix.png",
+        "slug": "Matrix",
+        "name": "Matrix",
+        "desc": "What is reality anyway?",
+        "type": "weapon",
+        "fire-mode": "Full Auto + Charge",
+        "atk": "Laser Beams",
+        "passive": "Charge and shoot a signal flare.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Sim Card"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f2/Messenger.png",
+        "imgName": "Messenger.png",
+        "slug": "Messenger",
+        "name": "Messenger",
+        "desc": "Delivering eternal romance.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser Boomerangs",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Golden Hits"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Witch Earrings"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/99/Meteor.png",
+        "imgName": "Meteor.png",
+        "slug": "Meteor",
+        "name": "Meteor",
+        "desc": "Tears from heaven.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Tiny Laser Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Goblin Unlocker"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ea/Nebula.png",
+        "imgName": "Nebula.png",
+        "slug": "Nebula",
+        "name": "Nebula",
+        "desc": "There is a chance you might fire a laser.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser Bullets + Laser Beam",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Scratchcard"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/4/4b/New_Type.png",
+        "imgName": "New_Type.png",
+        "slug": "New_Type",
+        "name": "New Type",
+        "desc": "The barrage on the left flank is not enough! What are you doing!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Fin Funnel"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/67/Noise.png",
+        "imgName": "Noise.png",
+        "slug": "Noise",
+        "name": "Noise",
+        "desc": "The ideal of the past.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Tea Egg"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wooden Cow"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/30/Old_Hunter.png",
+        "imgName": "Old_Hunter.png",
+        "slug": "Old_Hunter",
+        "name": "Old Hunter",
+        "desc": "Obliterate everything!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Circular Saw Blade",
+        "passive": "This weapon deals melee damage.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Saw Blade"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/99/Passenger.png",
+        "imgName": "Passenger.png",
+        "slug": "Passenger",
+        "name": "Passenger",
+        "desc": "Enjoy yourself!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bouncy Balls",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Awful Poetry"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/ec/Phantom.png",
+        "imgName": "Phantom.png",
+        "slug": "Phantom",
+        "name": "Phantom",
+        "desc": "Everything is... slowing... dowwwnnnn",
+        "type": "weapon",
+        "fire-mode": "Burst",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Stopwatch"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/fc/Plastic_Gun.png",
+        "imgName": "Plastic_Gun.png",
+        "slug": "Plastic_Gun",
+        "name": "Plastic Gun",
+        "desc": "Have fun!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Golden Dice"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Mahjong"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wooden Dice"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1e/Rainbow.png",
+        "imgName": "Rainbow.png",
+        "slug": "Rainbow",
+        "name": "Rainbow",
+        "desc": "Color the world!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Music Notes, Random Elemental Bullets",
+        "passive": "Eggs will never hatch.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Scratchcard"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e3/Rebel.png",
+        "imgName": "Rebel.png",
+        "slug": "Rebel",
+        "name": "Rebel",
+        "desc": "Listen to the call of your heart.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser Beams",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Golden Hits"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/95/Red_Dragon.png",
+        "imgName": "Red_Dragon.png",
+        "slug": "Red_Dragon",
+        "name": "Red Dragon",
+        "desc": "The ultimate weapon...Destroy everything!!",
+        "type": "weapon",
+        "fire-mode": "Burst",
+        "atk": "Homing Rockets",
+        "passive": "-",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/91/Sentinel.png",
+        "imgName": "Sentinel.png",
+        "slug": "Sentinel",
+        "name": "Sentinel",
+        "desc": "Sacrificed performance to add a tracking module.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Tracking Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Adrenaline"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Lunch Box"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/6a/Silver_Moon.png",
+        "imgName": "Silver_Moon.png",
+        "slug": "Silver_Moon",
+        "name": "Silver Moon",
+        "desc": "Mysterious weapon from another dimension.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser Beam",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Energy Drink"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wonderful Lamp"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/eb/Song_of_Joy.png",
+        "imgName": "Song_of_Joy.png",
+        "slug": "Song_of_Joy",
+        "name": "Song of Joy",
+        "desc": "The most important thing in life is to be happy.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bouncy Balls",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Birthday Balloon"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Fire Extinguisher"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Light Bulb"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/ff/Soul_Bringer.png",
+        "imgName": "Soul_Bringer.png",
+        "slug": "Soul_Bringer",
+        "name": "Soul Bringer",
+        "desc": "Unleash your potential!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser",
+        "passive": "This weapon deals melee damage.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Light Diamond"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/af/Star_Burst.png",
+        "imgName": "Star_Burst.png",
+        "slug": "Star_Burst",
+        "name": "Star Burst",
+        "desc": "The crystallization of future technology.",
+        "type": "weapon",
+        "fire-mode": "Charge",
+        "atk": "Laser",
+        "passive": "-",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/65/Stardust.png",
+        "imgName": "Stardust.png",
+        "slug": "Stardust",
+        "name": "Stardust",
+        "desc": "A warm light shone slightly.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Awful Poetry"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/85/Summer.png",
+        "imgName": "Summer.png",
+        "slug": "Summer",
+        "name": "Summer",
+        "desc": "Another one bites the dust.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Orbiting Music Notes",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Wooden Horse"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3f/Swallow.png",
+        "imgName": "Swallow.png",
+        "slug": "Swallow",
+        "name": "Swallow",
+        "desc": "Close your eyes.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bouncy Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Battle Flag"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Evil Ledger"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/1/1a/Terry.png",
+        "imgName": "Terry.png",
+        "slug": "Terry",
+        "name": "Terry",
+        "desc": "There are fish bones all over the place.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Fish bones",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Birthday Balloon"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/6/66/The_8th_Color.png",
+        "imgName": "The_8th_Color.png",
+        "slug": "The_8th_Color",
+        "name": "The 8th Color",
+        "desc": "A wizard's secret weapon.",
+        "type": "weapon",
+        "fire-mode": "Normal",
+        "atk": "StarsBouncy BallsBulletsLaser Beam",
+        "passive": "Drop a Random Pickup. Cost 2 crystals.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Chocolate Box"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/90/The_Blaster.png",
+        "imgName": "The_Blaster.png",
+        "slug": "The_Blaster",
+        "name": "The Blaster",
+        "desc": "Patience, young grasshopper... Charge this before firing for a shot worth waiting for.",
+        "type": "weapon",
+        "fire-mode": "Charge",
+        "atk": "Laser Bullets",
+        "passive": "-",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/3d/Thunder.png",
+        "imgName": "Thunder.png",
+        "slug": "Thunder",
+        "name": "Thunder",
+        "desc": "ROCK AND ROLL!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Orbiting Musical Notes",
+        "passive": "Your music deals melee damage to enemies!",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Military Toolbox"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/a9/Triggerfish.png",
+        "imgName": "Triggerfish.png",
+        "slug": "Triggerfish",
+        "name": "Triggerfish",
+        "desc": "It has a dream...",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Spiraling Bubbles",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Fishing Pole"
+            },
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Tea Egg"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/be/Twins.png",
+        "imgName": "Twins.png",
+        "slug": "Twins",
+        "name": "Twins",
+        "desc": "Quantum entanglement technique.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Helix Bullets",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Battle Flag"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/5/52/Vortex.png",
+        "imgName": "Vortex.png",
+        "slug": "Vortex",
+        "name": "Vortex",
+        "desc": "For Honor, for Atlantis!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser Beam",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Evil Ledger"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/00/White_Fox.png",
+        "imgName": "White_Fox.png",
+        "slug": "White_Fox",
+        "name": "White Fox",
+        "desc": "Charming and dangerous.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Stars, Laser Beams",
+        "passive": "",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Skills#Active_Abilities",
+                "name": "Arcane Book"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/2/2b/Wild_Wolf.png",
+        "imgName": "Wild_Wolf.png",
+        "slug": "Wild_Wolf",
+        "name": "Wild Wolf",
+        "desc": "More blood!",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "Each time an enemy is killed, this weapon's damage increases.",
+        "active": []
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/f/f8/Black_Eagle.png",
+        "imgName": "Black_Eagle.png",
+        "slug": "Black_Eagle",
+        "name": "Black Eagle",
+        "desc": "Precise long distance strike.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "' starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/James",
+                "name": "James"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/b/b2/Canary.png",
+        "imgName": "Canary.png",
+        "slug": "Canary",
+        "name": "Canary",
+        "desc": "An elegantly crafted antique with exquisitely carved glyphs.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'s starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Zack",
+                "name": "Zack"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9d/Grizzly.png",
+        "imgName": "Grizzly.png",
+        "slug": "Grizzly",
+        "name": "Grizzly",
+        "desc": "Your truest friend forever.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "' starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Lucas",
+                "name": "Lucas"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/98/Melody.png",
+        "imgName": "Melody.png",
+        "slug": "Melody",
+        "name": "Melody",
+        "desc": "Looks ordinary, but hides a secret.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'s starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Matt",
+                "name": "Matt"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/0/0e/Orion.png",
+        "imgName": "Orion.png",
+        "slug": "Orion",
+        "name": "Orion",
+        "desc": "All those moments will be lost in time...",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Laser",
+        "passive": "'s starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/R-6",
+                "name": "R-6"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/e/e5/Pink_Flame.png",
+        "imgName": "Pink_Flame.png",
+        "slug": "Pink_Flame",
+        "name": "Pink Flame",
+        "desc": "A soul burning in agitation.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'s starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Saya",
+                "name": "Saya"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/ab/Red_Scorpion.png",
+        "imgName": "Red_Scorpion.png",
+        "slug": "Red_Scorpion",
+        "name": "Red Scorpion",
+        "desc": "Give a fatal blow at close range.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "It's a shotgun! 's secondary starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/James",
+                "name": "James"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/c/c2/Rhino.png",
+        "imgName": "Rhino.png",
+        "slug": "Rhino",
+        "name": "Rhino",
+        "desc": "A gift from Serena.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'s starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Ming",
+                "name": "Ming"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/9/9a/Seagull.png",
+        "imgName": "Seagull.png",
+        "slug": "Seagull",
+        "name": "Seagull",
+        "desc": "Waiting for your moment to burst from the clouds.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'s starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Anna",
+                "name": "Anna"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/8/8e/Shadow.png",
+        "imgName": "Shadow.png",
+        "slug": "Shadow",
+        "name": "Shadow",
+        "desc": "Tiny letters inscribed on the barrel read: Wednesday.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'s starter weapon",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Wade",
+                "name": "Wade"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/a/aa/Steel_Pipe.png",
+        "imgName": "Steel_Pipe.png",
+        "slug": "Steel_Pipe",
+        "name": "Steel Pipe",
+        "desc": "It's strong, it's hard, it's steel.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'s starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/Amir",
+                "name": "Amir"
+            }
+        ]
+    },
+    {
+        "imgUrl": "https://static.wikia.nocookie.net/neonabyss_gamepedia_en/images/3/33/Steel_Lion.png",
+        "imgName": "Steel_Lion.png",
+        "slug": "Steel_Lion",
+        "name": "Steel Lion",
+        "desc": "Raging roar from the depth of the Steel Jungle.",
+        "type": "weapon",
+        "fire-mode": "Full Auto",
+        "atk": "Bullets",
+        "passive": "'  starter weapon.",
+        "active": [
+            {
+                "url": "https://neonabyss.fandom.com/wiki/James",
+                "name": "James"
+            }
+        ]
+    }
+]
