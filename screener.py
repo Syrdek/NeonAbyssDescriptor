@@ -11,13 +11,15 @@ from pynput.keyboard import KeyCode
 
 
 class Screener(object):
-    def __init__(self, listener: typing.Callable[[Image], typing.NoReturn], pixel_sensibility=10):
+    def __init__(self, listener: typing.Callable[[Image], typing.NoReturn], pixel_sensibility=10, always_fullscreen=False, keep_last_region=False):
         self.mouse_pos = None
         self.press_start = None
         self.pixel_sensibility = pixel_sensibility
         self.last_region = None
         self.is_pressing = False
         self.listener = listener
+        self.always_fullscreen = always_fullscreen
+        self.keep_last_region = keep_last_region
 
     def run(self):
         with keyboard.Listener(on_press=self._on_press, on_release=self._on_release) as key_listener:
@@ -67,8 +69,14 @@ class Screener(object):
 
     def _do_screen(self):
         with mss() as screener:
-            region = self._get_screen_region(screener)
-            self.last_region = region
+            if self.always_fullscreen:
+                region = Screener._get_full_display_size(screener.monitors)
+            else:
+                region = self._get_screen_region(screener)
+
+            if self.keep_last_region:
+                self.last_region = region
+
             sct_img = screener.grab(region)
             img = Image.frombytes("RGB", sct_img.size, sct_img.bgra, "raw", "BGRX")
             logging.debug("Image captured")

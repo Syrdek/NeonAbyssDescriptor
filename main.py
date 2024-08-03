@@ -12,6 +12,8 @@ from screener import Screener
 from translate import Translator
 from overlay import OverlayWindow
 
+import threading
+
 
 def img_convert(img: Image, color=cv.COLOR_BGR2GRAY):
     img2 = np.array(img.convert('RGB'))
@@ -26,7 +28,7 @@ def mask(img: Image):
     return im_mask
 
 
-def find_object(obj_img, screen_img, method=cv.TM_SQDIFF, mask=None):
+def find_object_via_template_matcher(obj_img, screen_img, method=cv.TM_SQDIFF, mask=None):
     h, w = obj_img.shape[0], obj_img.shape[1]
     sh, sw = screen_img.shape[0], screen_img.shape[1]
 
@@ -50,15 +52,47 @@ def find_object(obj_img, screen_img, method=cv.TM_SQDIFF, mask=None):
         return (0, 0), (0, 0), 0
 
 
-def search_items(screen, items):
+def search_items_via_template_matcher(screen, items):
     results = []
     for item in items:
-        tl, br, confidence = find_object(item["img"], screen, cv.TM_SQDIFF_NORMED, mask=item["mask"])
+        tl, br, confidence = find_object_via_template_matcher(item["img"], screen, cv.TM_SQDIFF_NORMED, mask=item["mask"])
 
         logging.info(f"{item['slug']} ({item['shape']}) : {confidence}")
         if confidence > config["threshold"]:
             results.append(item)
 
+    return results
+
+def search_items_via_orb(screen, items):
+    item_proximity = []
+
+    sift = cv.SIFT_create()
+
+    kp2, des2 = sift.detectAndCompute(screen, None)
+    for item in items:
+        kp1, des1 = sift.detectAndCompute(item["img"], item["mask"])
+
+        # BFMatcher with default params
+        bf = cv.BFMatcher()
+        matches = bf.knnMatch(des1, des2, k=2)
+
+        # Apply ratio test
+        good = []
+        for m, n in matches:
+            if m.distance < 0.75 * n.distance:
+                good.append([m])
+
+        logging.info(f"{item['slug']} ({item['shape']}) : {len(good)}")
+
+        item_proximity.append((good, kp1, item))
+
+        # Debug
+        #cv.imwrite(f"res/{item['name']}_orb.png", cv.drawMatchesKnn(item["img"], kp1, screen, kp2, good, None, flags=cv.DrawMatchesFlags_NOT_DRAW_SINGLE_POINTS))
+
+    item_proximity.sort(key=lambda i: len(i[0]))
+    results = [item[2] for item in item_proximity if len(item[0]) >= 8]
+    if len(results) == 0:
+        return [item_proximity[-1][2]]
     return results
 
 def make_transparent(img):
@@ -100,7 +134,7 @@ def load_abyssexplorer_db(dbpath):
         return json.load(f)
 
 
-def load_item_images(item, gray=False):
+def load_item_images(item, img_filter):
     slug = item["slug"]
     img_path = os.path.join("neondb/wiki/images", f"{slug}.png")
 
@@ -135,15 +169,17 @@ def load_item_images(item, gray=False):
     item["shape"] = (int(round(iw * item["ratio"])), int(round(ih * item["ratio"])))
     item["small-shape"] = (int(round(item["shape"][0] * config["small_size_ratio"])), int(round(item["shape"][1] * config["small_size_ratio"])))
 
-    color = cv.COLOR_BGR2GRAY if gray else cv.COLOR_BGR2RGB
     img = img.resize(item["shape"], Image.NEAREST)
-    item["img"] = img_convert(img, color=color)
-    item["small-img"] = img_convert(img.resize(item["small-shape"]), color=cv.COLOR_BGR2RGB)
+    game_img = img_filter(img)
+    item["img"] = game_img
     item["mask"] = mask(img)
+
+    mini_img = img_convert(img.resize(item["small-shape"]), color=cv.COLOR_BGR2RGB)
+    item["small-img"] = mini_img
 
     return item
 
-def load_item_db(dbpath, gray=False, translator=None, save_translation=None):
+def load_item_db(dbpath, img_filter, translator=None, save_translation=None):
     items = []
     for db in dbpath:
         with open(db, "r", encoding='utf-8') as f:
@@ -171,20 +207,27 @@ def load_item_db(dbpath, gray=False, translator=None, save_translation=None):
             json.dump(items, f, indent=2)
 
     for item in items:
-        load_item_images(item, gray=gray)
+        load_item_images(item, img_filter)
 
     logging.info(f"{len(items)} images loaded")
     return items
 
 
-def run_detection(screen, item_db, window, gray=False):
+def run_detection(screen, item_db, window, img_filter, search_method=search_items_via_template_matcher):
     window.set_message("Recherche en cours...")
-    color = cv.COLOR_BGR2GRAY if gray else cv.COLOR_BGR2RGB
-    screen_converted = img_convert(screen, color=color)
-    found_items = search_items(screen_converted, item_db)
+    screen = img_filter(screen)
+    found_items = search_method(screen, item_db)
     logging.info(f"Matched items are {[i['name'] for i in found_items]}")
     window.set_items(found_items)
     return found_items
+
+
+def create_img_filter(gray=False, canny=False):
+    if canny:
+        return lambda img: cv.Canny(img_convert(img, cv.COLOR_BGR2GRAY), 50, 200)
+    if gray:
+        return lambda img: img_convert(img, cv.COLOR_BGR2GRAY)
+    return lambda img: img_convert(img, cv.COLOR_BGR2RGB)
 
 
 if __name__ == '__main__':
@@ -201,9 +244,12 @@ if __name__ == '__main__':
             dst_lang=config["translator_lang"]
         )
 
+    img_filter = create_img_filter(gray=not config["use_colors"])
+    search_method = search_items_via_orb if config["use_sift"] else search_items_via_template_matcher
+
     item_db = load_item_db(
         dbpath=config["item_db"],
-        gray=not config["use_colors"],
+        img_filter=img_filter,
         translator=translator,
         save_translation=config["save_translated_path"]
     )
@@ -224,16 +270,23 @@ if __name__ == '__main__':
     window.set_message("Ready !")
 
     '''
+    window.set_message("Waiting...")
     def thread_run():
-        screen = Image.open(r"neondb/captures/pause.png")
-        run_detection(screen, item_db, window)
+        screen = Image.open(r"test_img/capture.png")
+        run_detection(screen, item_db, window, img_filter=img_filter, search_method=search_method)
+
     thread = threading.Thread(target=thread_run)
     thread.daemon = True
     thread.start()
+    window.run()
     '''
-    screener = Screener(listener=lambda screen: run_detection(screen, item_db, window, gray=not config["use_colors"]))
+
+    screener = Screener(listener=lambda screen: run_detection(
+        screen,
+        item_db,
+        window,
+        img_filter=img_filter,
+        search_method=search_method))
     screener.start()
     window.set_message("Waiting...")
     window.run()
-    #screener = Screener(listener=lambda screen: run_detection(screen, item_db, window))
-    #screener.run()

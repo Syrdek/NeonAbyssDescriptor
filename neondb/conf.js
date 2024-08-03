@@ -12,12 +12,12 @@
 
     "abyss_db": "neondb/abyssexplorer/items.json",
     "item_db": ["neondb/translated/fr_items_and_weapons.json"],
-    "base_item_db": ["neondb/wiki/items.json", "neondb/wiki/weapons.json"],
 
     "threshold": 0.7,
     "trim_to_alpha": true,
-    "size_ratio": 1.3548,
+    "size_ratio": 1.0,
     "small_size_ratio": 0.5,
+    "use_sift": true,
     "use_colors": true,
     "language": "fr",
 
