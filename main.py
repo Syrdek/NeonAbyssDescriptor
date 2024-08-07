@@ -1,15 +1,17 @@
 import json
 import logging
 import os.path
-import re
+import sys
+import typing
+from operator import itemgetter
 
 import cv2 as cv
 import numpy as np
 import requests
 from PIL import Image
 
+import overlay
 from screener import Screener
-from translate import Translator
 from overlay import OverlayWindow
 
 import threading
@@ -52,18 +54,21 @@ def find_object_via_template_matcher(obj_img, screen_img, method=cv.TM_SQDIFF, m
         return (0, 0), (0, 0), 0
 
 
-def search_items_via_template_matcher(screen, items):
-    results = []
+def search_items_via_template_matcher(screen, items: typing.List):
+    matches = []
     for item in items:
         tl, br, confidence = find_object_via_template_matcher(item["img"], screen, cv.TM_SQDIFF_NORMED, mask=item["mask"])
+        matches.append((confidence, item))
 
-        logging.info(f"{item['slug']} ({item['shape']}) : {confidence}")
-        if confidence > config["threshold"]:
-            results.append(item)
+    matches.sort(key=itemgetter(0), reverse=True)
+    results = [m[1] for m in matches if m[0] > config["threshold"]]
+    if len(results) < 1:
+        results = [matches[0][1]]
 
     return results
 
-def search_items_via_orb(screen, items):
+
+def search_items_via_orb(screen, items: typing.List):
     item_proximity = []
 
     sift = cv.SIFT_create()
@@ -82,7 +87,7 @@ def search_items_via_orb(screen, items):
             if m.distance < 0.75 * n.distance:
                 good.append([m])
 
-        logging.info(f"{item['slug']} ({item['shape']}) : {len(good)}")
+        logging.info(f"{item['slug']} : {len(good)}")
 
         item_proximity.append((good, kp1, item))
 
@@ -95,7 +100,8 @@ def search_items_via_orb(screen, items):
         return [item_proximity[-1][2]]
     return results
 
-def make_transparent(img):
+
+def make_transparent(img: Image):
     img = img.convert('RGBA')
     data = img.getdata()
     # On considere que le pixel en haut à gauche est transparent
@@ -123,41 +129,26 @@ def json_path(obj, *args):
     return None
 
 
-def merge_item(item, merged_name, abyss_item, *abyss_path):
-    abyss_value = json_path(abyss_item, *abyss_path)
-    if abyss_value:
-        item[merged_name] = abyss_value
-
-
-def load_abyssexplorer_db(dbpath):
-    with open(dbpath, "r", encoding='utf-8') as f:
-        return json.load(f)
-
-
-def load_item_images(item, img_filter):
+def load_item_images(item: typing.List[typing.Dict], img_filter: typing.Callable):
     slug = item["slug"]
-    img_path = os.path.join("neondb/wiki/images", f"{slug}.png")
+    img_path = os.path.join("neondb/images", f"{slug}.png")
 
     if not os.path.exists(img_path):
-        logging.info(f"Downloading {slug} from {item['imgUrl']}")
+        logging.info(f"Downloading {slug} image from {item['imgUrl']} to {img_path}")
         r = requests.get(item["imgUrl"], allow_redirects=True)
         with open(img_path, "wb") as f:
             f.write(r.content)
 
     if "itemSet" in item and item["itemSet"]:
         set_slug = item['itemSet']['slug']
-        set_img_path = os.path.join("neondb/wiki/images", f"itemset-{set_slug}.png")
+        set_img_path = os.path.join(config["images_path"], f"itemset-{set_slug}.png")
         if not os.path.exists(set_img_path):
             logging.info(f"Downloading {set_slug} set from {item['itemSet']['url']}")
             r = requests.get(item['itemSet']['url'], allow_redirects=True)
             with open(set_img_path, "wb") as f:
                 f.write(r.content)
         set_img = Image.open(set_img_path)
-        d = set_img.getdata()
         item['itemSet']['img'] = img_convert(set_img, color=cv.COLOR_BGR2RGB)
-
-    if "ratio" not in item:
-        item["ratio"] = config["size_ratio"]
 
     img = make_transparent(Image.open(img_path))
 
@@ -166,12 +157,9 @@ def load_item_images(item, img_filter):
         img = img.crop(alpha.getbbox())
 
     iw, ih = img.size
-    item["shape"] = (int(round(iw * item["ratio"])), int(round(ih * item["ratio"])))
-    item["small-shape"] = (int(round(item["shape"][0] * config["small_size_ratio"])), int(round(item["shape"][1] * config["small_size_ratio"])))
+    item["small-shape"] = (int(round(iw * config["small_size_ratio"])), int(round(ih * config["small_size_ratio"])))
 
-    img = img.resize(item["shape"], Image.NEAREST)
-    game_img = img_filter(img)
-    item["img"] = game_img
+    item["img"] = img_filter(img)
     item["mask"] = mask(img)
 
     mini_img = img_convert(img.resize(item["small-shape"]), color=cv.COLOR_BGR2RGB)
@@ -179,43 +167,37 @@ def load_item_images(item, img_filter):
 
     return item
 
-def load_item_db(dbpath, img_filter, translator=None, save_translation=None):
-    items = []
-    for db in dbpath:
-        with open(db, "r", encoding='utf-8') as f:
-            items.extend(json.load(f))
 
-    abyss_db = load_abyssexplorer_db(config["abyss_db"])
+def load_item_db(dbpath: str, img_filter: typing.Callable, limit: typing.List = []):
+    with open(dbpath, "r", encoding='utf-8') as f:
+        items = json.load(f)
 
-    for item in items:
-        slug = item["slug"]
+        if len(limit) > 0:
+            items = [i for i in items if i["slug"] in limit]
 
-        abyss_slug = re.sub("[^a-z0-9]", "-", slug.lower()).strip('-')
-        abyss_items = [i for i in abyss_db if i["slug"].lower() == abyss_slug]
-
-        if len(abyss_items) > 0:
-            abyss_item = abyss_items[0]
-            logging.info(f"Merging abyss-db information about {abyss_item['slug']} into item {slug}")
-            merge_item(item, "name", abyss_item, "name", config["language"])
-            merge_item(item, "desc", abyss_item, "desc", config["language"])
-        elif translator is not None:
-            logging.info(f"Translating information about item {slug}")
-            item["desc"] = translator.translate(item["desc"])
-
-    if translator is not None and save_translation is not None:
-        with open(save_translation, "w") as f:
-            json.dump(items, f, indent=2)
-
-    for item in items:
-        load_item_images(item, img_filter)
+        for item in items:
+            load_item_images(item, img_filter)
 
     logging.info(f"{len(items)} images loaded")
     return items
 
 
-def run_detection(screen, item_db, window, img_filter, search_method=search_items_via_template_matcher):
-    window.set_message("Recherche en cours...")
-    screen = img_filter(screen)
+def run_detection(screen: Image,
+                  resolution_width: int,
+                  resolution_height: int,
+                  item_db: typing.List[typing.Dict],
+                  window: overlay.OverlayWindow,
+                  img_filter: typing.Callable,
+                  search_method: typing.Callable = search_items_via_template_matcher):
+    window.set_message("Searching...")
+
+    ratio = config["original_width"] / resolution_width
+    img_w, img_h = screen.size
+    scaled_screen = screen.resize((int(img_w * ratio), int(img_h * ratio)), Image.Resampling.NEAREST)
+    logging.info(f"Screen size : {resolution_width}x{resolution_height}. Image ratio: {screen.size} -> {scaled_screen.size}")
+    logging.info(f"Item size: {item_db[0]['img'].shape}")
+
+    screen = img_filter(scaled_screen)
     found_items = search_method(screen, item_db)
     logging.info(f"Matched items are {[i['name'] for i in found_items]}")
     window.set_items(found_items)
@@ -236,29 +218,23 @@ if __name__ == '__main__':
     with open("neondb/conf.js", "r", encoding="utf8") as config_fp:
         config = json.load(config_fp)
 
-    translator = None
-    if config["translate"]:
-        translator = Translator(
-            model_name=config["translator_model"],
-            src_lang="eng_Latn",
-            dst_lang=config["translator_lang"]
-        )
-
     img_filter = create_img_filter(gray=not config["use_colors"])
     search_method = search_items_via_orb if config["use_sift"] else search_items_via_template_matcher
 
     item_db = load_item_db(
         dbpath=config["item_db"],
         img_filter=img_filter,
-        translator=translator,
-        save_translation=config["save_translated_path"]
+        limit=config["limit_to_slugs"]
     )
 
     logging.info("Ready !")
 
     window = OverlayWindow(
         quit_button=config["quit"],
-        clear_button=config["clear"])
+        clear_button=config["clear"],
+        language=config["language"],
+        use_llm=config["use_llm_translation"],
+    )
     window.column_size = config["column_size"]
     window.bgcolor = config["bgcolor"]
     window.fgcolor = config["fgcolor"]
@@ -272,17 +248,21 @@ if __name__ == '__main__':
     '''
     window.set_message("Waiting...")
     def thread_run():
-        screen = Image.open(r"test_img/capture.png")
-        run_detection(screen, item_db, window, img_filter=img_filter, search_method=search_method)
+        for fname in os.listdir("test_img/resolutions"):
+            screen = Image.open(f"test_img/resolutions/{fname}")
+            run_detection(screen, screen.size[0], screen.size[1], item_db, window, img_filter=img_filter, search_method=search_method)
 
     thread = threading.Thread(target=thread_run)
-    thread.daemon = True
+    thread.daemon = False
     thread.start()
-    window.run()
+    #window.run()
+    sys.exit(0)
     '''
 
-    screener = Screener(listener=lambda screen: run_detection(
+    screener = Screener(listener=lambda screen, width, height: run_detection(
         screen,
+        width,
+        height,
         item_db,
         window,
         img_filter=img_filter,

@@ -47,6 +47,14 @@ class Screener(object):
             height = max(height, monitors[i]["height"])
         return {"left": left, "top": top, "width": width, "height": height}
 
+    @staticmethod
+    def _get_monitor_of(x: int, y: int, screener: mss):
+        for monitor in screener.monitors:
+            left = monitor["left"]
+            top = monitor["top"]
+            if left <= x <= left + monitor["width"] and top <= y <= top + monitor["height"]:
+                return monitor
+
     def _get_screen_region(self, screener: mss) -> typing.Dict[str, int]:
         if self.mouse_pos is None:
             logging.debug("mouse_pos is None ?!")
@@ -56,9 +64,9 @@ class Screener(object):
                 or abs(self.press_start[0] - self.mouse_pos[0]) < self.pixel_sensibility \
                 or abs(self.press_start[1] - self.mouse_pos[1]) < self.pixel_sensibility:
             if self.last_region is not None:
-                logging.debug(f"region is last_region : {self.last_region}")
+                logging.debug(f"Region is last_region : {self.last_region}")
                 return self.last_region
-            logging.debug(f"region is full monitor : {self.last_region}")
+            logging.debug(f"Region is full monitor : {self.last_region}")
             return Screener._get_full_display_size(screener.monitors)
         return {\
             "left": min(self.mouse_pos[0], self.press_start[0]),\
@@ -79,16 +87,18 @@ class Screener(object):
 
             sct_img = screener.grab(region)
             img = Image.frombytes("RGB", sct_img.size, sct_img.bgra, "raw", "BGRX")
+            monitor = Screener._get_monitor_of(sct_img.left, sct_img.top, screener)
+
             logging.debug("Image captured")
             if self.listener is not None:
-                self.listener(img)
+                self.listener(img, monitor["width"], monitor["height"])
 
     def _on_press(self, key: KeyCode):
         if not self.is_pressing:
             if key == keyboard.Key.ctrl_r:
                 self.is_pressing = True
                 self.press_start = self.mouse_pos
-                logging.debug(f"press CTRL at {self.press_start}")
+                logging.debug(f"Press CTRL at {self.press_start}")
             else:
                 self.is_pressing = False
                 self.press_start = None
@@ -97,7 +107,7 @@ class Screener(object):
     def _on_release(self, key: KeyCode):
         if self.is_pressing and key == keyboard.Key.ctrl_r:
             self.is_pressing = False
-            logging.debug(f"release CTRL at {self.mouse_pos}")
+            logging.debug(f"Release CTRL at {self.mouse_pos}")
             self._do_screen()
 
     def _on_move(self, x, y):

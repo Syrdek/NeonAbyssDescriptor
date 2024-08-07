@@ -10,20 +10,18 @@
     "column_size": 150,
     "topmost": true,
 
-    "abyss_db": "neondb/abyssexplorer/items.json",
-    "item_db": ["neondb/translated/fr_items_and_weapons.json"],
+    "item_db": "neondb/items.db",
+    "images_path": "neondb/images",
+    "limit_to_slugs": [],
 
-    "threshold": 0.7,
+    "threshold": 0.9,
     "trim_to_alpha": true,
-    "size_ratio": 1.0,
-    "small_size_ratio": 0.5,
-    "use_sift": true,
+    "original_width": 1920,
+    "original_height": 1080,
+    "original_pixel_size": 3,
+    "small_size_ratio": 0.7,
+    "use_sift": false,
     "use_colors": true,
-    "language": "fr",
-
-    "translator_model": "facebook/nllb-200-distilled-600M",
-    "translator_lang": "fra_Latn",
-    "translate": false,
-
-    "save_translated_path" : "neondb/wiki/fr_items_and_weapons.json"
+    "use_llm_translation": true,
+    "language": "fr"
 }

@@ -10,7 +10,7 @@ from tkinter import Tk
 
 class OverlayWindow(Tk):
 
-    def __init__(self, quit_button="<Button-1>", clear_button="<Enter>"):
+    def __init__(self, quit_button="<Button-1>", clear_button="<Enter>", language="en", use_llm=True):
         super().__init__()
         self.lift()
         self.iconbitmap("neondb/neon.ico")
@@ -34,6 +34,8 @@ class OverlayWindow(Tk):
         self.frame = tk.Frame(self,
                               background='mediumorchid4'
                               )
+        self.language = language
+        self.use_llm = use_llm
 
     def __clear(self):
         for child in self.frame.winfo_children():
@@ -53,6 +55,32 @@ class OverlayWindow(Tk):
         self.__position()
         self.lift()
 
+    @staticmethod
+    def json_path(obj, *args):
+        if obj is None:
+            return None
+
+        if len(args) <= 0:
+            return obj
+
+        if args[0] in obj:
+            return OverlayWindow.json_path(obj[args[0]], *args[1:])
+
+        return None
+
+    def get_translation_of(self, item, *field_path):
+        value = OverlayWindow.json_path(item, "translations", self.language, *field_path)
+        if value is not None:
+            return value
+
+        if self.use_llm:
+            value = OverlayWindow.json_path(item, "translations", "llm", self.language, *field_path)
+
+        if value is not None:
+            return value
+
+        return OverlayWindow.json_path(item, *field_path)
+
     def __items(self, items):
         self.__clear()
 
@@ -62,7 +90,7 @@ class OverlayWindow(Tk):
 
         for i, item in enumerate(items):
             ttl_lbl = tk.Label(self.frame,
-                               text=item["name"] ,
+                               text=self.get_translation_of(item, "name"),
                                font=self.large_font,
                                background=self.bgcolor,
                                foreground=self.fgcolor,
@@ -76,7 +104,7 @@ class OverlayWindow(Tk):
             img_lbl.grid(row=1, column=i)
 
             dsc_lbl = tk.Label(self.frame,
-                               text=item["desc"],
+                               text=self.get_translation_of(item, "desc"),
                                font=self.small_font,
                                background=self.bgcolor,
                                foreground=self.fgcolor,
@@ -99,12 +127,14 @@ class OverlayWindow(Tk):
 
             if "atk" in item:
                 text = f"Type d'arme : {item['atk']}"
-                if "passive" in item and len(item["passive"]) > 0:
-                    passive = item['passive'].replace("^'s ", "").replace("^' ", "")
+                passive = self.get_translation_of(item, "passive")
+                if passive and len(passive) > 0:
+                    passive = passive.replace("^'s ", "").replace("^' ", "")
                     text = f"{text}\nPassif: {passive}\n"
-                if "active" in item and len(item["active"]) > 0:
-                    for active in item["active"]:
-                        text = f"{text}\nActif: {active['name']}\n"
+                active = self.get_translation_of(item, "active")
+                if active and len(active) > 0:
+                    for a in active:
+                        text = f"{text}\nActif: {a['name']}\n"
 
                 variant_lbl = tk.Label(self.frame,
                                    text=text,

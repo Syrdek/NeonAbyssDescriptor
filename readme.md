@@ -38,21 +38,21 @@ The configuration options are :
 - column_size : The size of each description column, in pixels.
 - topmost : Should the overlay be always displayed over all windows ?
 
-- abyss_db : The path of the database extracted from abyssexplorer (this is a partial database that contains translations, but doesn't knows items comming from extensions),
-- item_db : A list of databases extracted from the fandom wiki (only in english, but knows all extensions items)
+- item_db : A database generated via generate_item_db.py, and containing description translations. 
+- images_path : The path where images are stored.
+- limit_to_slug : For debug purposes, ignores all items that are not explicitly listed here. If empty, ignores nothing.
  
- - threshold : A float value between 0 and 1 that tells how exactly the database image must match the item displayed. If the overlay shows wrong items, increase it. If the overlay doesn't find items, lower it.
- - trim_to_alpha : Reduce images in memory by trimming them.
- - size_ratio : Images from the wiki DB should be resized by this value to match images from the game.
- - small_size_ratio : Images from the wiki DB should be resized by this value to be displayed in the overlay.
- - use_colors : Use colors when searching images. If false, searching process should be greatly increase, but some incorrect items may be displayed.
- - language : The language displayed in the overlay, if there is no transcription available of an item, it will appear in english.
+- threshold : A float value between 0 and 1 that tells how exactly the database image must match the item displayed. If the overlay shows wrong items, increase it. If the overlay doesn't find items, lower it.
+- trim_to_alpha : Reduce images in memory by trimming them.
+- original_width : Images have been taken from a screen having this resolution width. If the resolution differs, the program will try to scale images.
+- original_height : Images have been taken from a screen having this resolution height. If the resolution differs, the program will try to scale images.
+- small_size_ratio : Images from the wiki DB should be resized by this value to be displayed in the overlay.
+- use_sift : A faster method to search images, but it is still buggy, and it should not be enabled for now...
+- use_colors : Use colors when searching images. If false, searching process should be greatly increase, but some incorrect items may be displayed.
+- language : The language displayed in the overlay, if there is no transcription available of an item, it will appear in english.
 
-- translate : When no translation of an item is available, use an LLM model to generate a translation. Application loading will be slow with this option active.
-- translator_model : The LLM model to use for automatic transcription.
-- translator_lang : The transcription language value took by the LLM model.
-- save_translated_path : Saves a translated version of the database when 'translate' is true. The, you will be able to turn of translation and use the translated model in 'item_db' to start the app quickly
-
+- language : The language of items descriptions to display.
+- use_llm_translation : Some items have no translation in the database, but an LLM-generated translation is available. This translations has poor quality, and should be activated only if you are not fluent in english.
 
 ## Build from source (windows)
 

@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForSeq2SeqLM, pipeline
 class Translator(object):
 
     def __init__(self, model_name:str = "facebook/nllb-200-distilled-600M", src_lang: str = "eng_Latn", dst_lang: str = "fra_Latn", max_length=500):
-        logging.info(f"Loading model {model_name}...")
+        logging.info(f"Loading model {model_name} for {src_lang} -> {dst_lang} translations...")
         self.src_lang = src_lang
         self.dst_lang = dst_lang
         self.model_name = model_name
@@ -18,10 +18,23 @@ class Translator(object):
                                    max_length=max_length)
 
     @staticmethod
-    def correct_text(text: str) -> str:
-        if text is None:
-            return None
-        return text.replace("|", "I")
+    def get_nllb_lang(lang):
+        if lang == "de":
+            return "deu_Latn"
+        if lang == "en":
+            return "eng_Latn"
+        if lang == "es":
+            return "spa_Latn"
+        if lang == "fr":
+            return "fra_Latn"
+        if lang == "it":
+            return "ita_Latn"
+        if lang == "ja":
+            return "jpn_Jpan"
+        if lang == "ru":
+            return "rus_Cyrl"
+        if lang == "zh":
+            return "zho_Hans"
 
     def translate(self, text) -> str:
         return self.translator(text)[0]["translation_text"]
